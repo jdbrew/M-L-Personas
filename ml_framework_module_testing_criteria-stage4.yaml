@@ -35,7 +35,7 @@ managementAndLeadershipFramework:
 
       moduleTestingScenarios:
         scenario1:
-          competency: Lead organisation in building patient-centric culture
+          competency: Respond to patient safety concerns, needs and preferences
           testQuestion: >
             Does module address that "patient-centric" must include addressing
             health inequalities? Does it connect quality to equity?
@@ -45,7 +45,7 @@ managementAndLeadershipFramework:
             - Provides frameworks for culture change at scale
 
         scenario2:
-          competency: Set strategic direction for governance, compliance and policy
+          competency: Implement policies and ensure good governance
           testQuestion: >
             Does module help distinguish strategic from operational governance?
             Does it address influencing Board toward equity focus?
@@ -55,7 +55,7 @@ managementAndLeadershipFramework:
             - Connects governance to equity outcomes
 
         scenario3:
-          competency: Strategic commitment to personalised care
+          competency: Personalise care
           testQuestion: >
             Does module address sustainability of strategic commitments? Does
             it help balance long-term transformation with immediate demands?
@@ -77,7 +77,7 @@ managementAndLeadershipFramework:
 
       moduleTestingScenarios:
         scenario1:
-          competency: Set strategic direction
+          competency: Provide clear purpose, vision, and deliverables
           testQuestion: >
             Does module help translate national policy into organisational
             strategy? Does it address balancing professional advocacy with
@@ -88,7 +88,7 @@ managementAndLeadershipFramework:
             - Helps maintain nursing focus in corporate priorities
 
         scenario2:
-          competency: Promote collaborative leadership environment
+          competency: Lead a collaborative team
           testQuestion: >
             Does module address creating inclusive leadership culture at scale?
             Does it help navigate power dynamics across professions?
@@ -98,7 +98,7 @@ managementAndLeadershipFramework:
             - Helps challenge hierarchies while maintaining relationships
 
         scenario3:
-          competency: Champion improvement and innovation
+          competency: Drive continuous improvement and innovation
           testQuestion: >
             Does module help sustain focus on improvement amidst operational
             pressures? Does it address creating space for innovation in
@@ -121,7 +121,7 @@ managementAndLeadershipFramework:
 
       moduleTestingScenarios:
         scenario1:
-          competency: Shape organisational culture
+          competency: Build engagement
           testQuestion: >
             Does module address culture change in operational services? Does
             it value frontline insight as cultural intelligence?
@@ -131,7 +131,7 @@ managementAndLeadershipFramework:
             - Provides frameworks accessible to non-traditional leaders
 
         scenario2:
-          competency: Establish robust governance
+          competency: Implement policies and ensure good governance
           testQuestion: >
             Does module help translate governance from compliance to culture?
             Does it address making governance accessible not elitist?
@@ -141,7 +141,7 @@ managementAndLeadershipFramework:
             - Values diverse perspectives in governance
 
         scenario3:
-          competency: Create environment where staff feel they belong
+          competency: Build engagement
           testQuestion: >
             Does module address belonging for staff from non-traditional backgrounds?
             Does it help me use reciprocal mentoring to build inclusive leadership?
