@@ -1,0 +1,226 @@
+version: "1.0"
+managementAndLeadershipFramework:
+  documentName: Module Testing Criteria and Evaluation Questions
+  documentPurpose: >
+    This document contains evaluation questions and testing scenarios for assessing
+    whether learning modules genuinely address power, difference, inclusion, and
+    transformational learning as specified in the design guidelines. These criteria
+    are derived from the diverse personas across all stages of the framework and
+    support gap-analysis testing of module design and content.
+
+  usageGuidance: >
+    Use these questions and scenarios to test modules against:
+    - Design Principle 10 (Difference, diversity, inclusion, and power as golden thread)
+    - P + Q = L formula (transformational inquiry not just information)
+    - I-We-It integration
+    - Level-appropriate complexity
+    - Accessibility and inclusion
+    - Evidence gathering support
+    - Acknowledgment of limitations
+
+  stages:
+  - stageName: 'Stage 3: Senior managers and leaders'
+    personas:
+
+    - personaId: Persona 21
+      role: Head of Health and Safety
+      diversityContext: White British gay man, working class background, long NHS tenure
+
+      moduleEvaluationQuestions:
+        - Does module address safety as equity and justice issue?
+        - Do examples recognise who bears safety risks disproportionately?
+        - Will this help me influence senior leaders who sideline safety concerns?
+        - Does it address challenging organisational cultures that silence concerns?
+        - Does it recognise long-term organisational memory as valuable knowledge?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Make sure patients' safety, experience and outcomes are central
+          testQuestion: >
+            Does module connect staff safety to patient safety? Does it
+            address how safety gets sidelined in operational pressures?
+          evaluationCriteria:
+            - Links workforce safety to patient safety
+            - Addresses cultural and systemic barriers to safety
+            - Provides strategies for maintaining safety focus under pressure
+
+        scenario2:
+          competency: Implement policies and ensure good governance
+          testQuestion: >
+            Does module address making safety policy meaningful not just
+            compliant? Does it help connect technical expertise to leadership?
+          evaluationCriteria:
+            - Values technical expertise as leadership contribution
+            - Addresses implementation challenges
+            - Connects governance to culture and practice
+
+        scenario3:
+          competency: Lead and embed organisational change
+          testQuestion: >
+            Does module acknowledge that culture change takes years not months?
+            Does it value long-term commitment and organisational memory?
+          evaluationCriteria:
+            - Realistic about timeframes for culture change
+            - Values persistence and long-term commitment
+            - Respects organisational knowledge from experience
+
+    - personaId: Persona 22
+      role: Specialist Doctor in Dermatology
+      diversityContext: Black British (Ghanaian heritage) woman, consultant, skin-of-colour dermatology advocate
+
+      moduleEvaluationQuestions:
+        - Does this module address racism in medical specialties and leadership?
+        - Does it recognise how specialties become racially segregated?
+        - Will this help me advocate for diverse dermatology without being silenced?
+        - Does it address health inequalities in specialty-specific contexts?
+        - Does it recognise barriers Black doctors face in career progression?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Drive continuous improvement and innovation
+          testQuestion: >
+            Does module address improving services for diverse populations?
+            Does it recognise that medical specialties often centre white
+            patient needs? Could it help me advocate for skin-of-colour
+            dermatology without being dismissed?
+          evaluationCriteria:
+            - Addresses health inequalities in specialty-specific contexts
+            - Recognises how medical education and research centre whiteness
+            - Explains processes through which medical specialties become and remain racially segregated
+            - Frames patient racism as organizational issue requiring policy response
+            - Provides frameworks for advocating for diverse patient needs
+            - Values clinical expertise in equity as innovation
+
+        scenario2:
+          competency: Build networks and strategic relationships
+          testQuestion: >
+            Does module help me build research partnerships to improve care
+            for diverse skin tones? Does it address navigating academic
+            networks where Black doctors underrepresented?
+          evaluationCriteria:
+            - Addresses barriers to research partnerships for minoritised doctors
+            - Addresses multiple barriers to career progression including informal networks, sponsorship, and everyday discrimination
+            - Values raising profile of underserved conditions
+            - Provides strategies for building influence beyond clinical role
+            - Recognises importance of representation in academic medicine
+            - Values mentoring underrepresented students as strategic leadership contribution
+            - Acknowledges psychological burden of being 'only' or 'one of few' Black doctors
+
+        scenario3:
+          competency: Lead initiatives to address health inequalities
+          testQuestion: >
+            Does module connect clinical leadership to health equity? Does
+            it recognise that addressing health inequalities may challenge
+            specialty norms? Does it help me lead without being tone-policed?
+          evaluationCriteria:
+            - Links specialty-specific practice to health inequalities
+            - Addresses resistance to changing established practices
+            - Provides frameworks for challenging specialty cultures
+            - Recognises intersections of race and gender in medical leadership
+            - Prompts participants to reflect on their own positionality and how it shapes their perspective
+            - Addresses how racial stereotypes undermine professional authority
+            - Recognises microaggressions as patterns of structural discrimination requiring organizational accountability
+
+  crossCuttingEvaluationThemes:
+    theme1:
+      name: "Principle 10: Power, Difference, and Inclusion"
+      keyQuestions:
+        - Does the module treat diversity as integral to competency, not separate topic?
+        - Does it surface who has power, whose knowledge is privileged, whose voices are heard?
+        - Does it address structural inequalities, not just individual behaviour?
+        - Does it help participants recognise their own positionality and privilege?
+        - Does it provide frameworks for action, not just awareness?
+
+    theme2:
+      name: "Transformational Inquiry (Q component)"
+      keyQuestions:
+        - Does the module provoke genuine questioning of assumptions?
+        - Does it create discomfort that leads to transformed understanding?
+        - Is there space for critical reflection on power and practice?
+        - Does it challenge rather than confirm existing thinking?
+        - Does it move beyond information transfer to transformation?
+
+    theme3:
+      name: "Accessibility and Universal Design"
+      keyQuestions:
+        - Does the module work for diverse learning needs and access requirements?
+        - Are examples and language accessible across educational backgrounds?
+        - Does it assume standard working patterns and availability?
+        - Can it be accessed flexibly across time zones, shifts, caring responsibilities?
+        - Does it provide multiple entry points and formats?
+
+    theme4:
+      name: "Contextualisation and Application"
+      keyQuestions:
+        - Does the module prompt participants to translate to their specific context?
+        - Does it recognise diverse NHS roles, settings, and contexts?
+        - Does it address practical constraints and systemic pressures?
+        - Does it avoid generic examples that assume particular contexts?
+        - Does it help participants navigate their unique situation?
+
+    theme5:
+      name: "Evidence Gathering and Competency Assessment"
+      keyQuestions:
+        - Does the module clearly guide what evidence demonstrates competency?
+        - Does it acknowledge completion ≠ competency achievement?
+        - Does it provide realistic timeframes for evidence gathering?
+        - Does it direct toward formal assessment processes?
+        - Does it support ongoing practice-based evidence collection?
+
+    theme6:
+      name: "Level-Appropriate Complexity"
+      keyQuestions:
+        - Is conceptual complexity appropriate for the stage?
+        - Does scope match organisational perspective (team/service/system)?
+        - Is balance of guidance vs exploration appropriate?
+        - Does it respect developmental readiness?
+        - Does it avoid patronising or overwhelming?
+
+    theme7:
+      name: "Integration Across I-We-It"
+      keyQuestions:
+        - Does module address personal mastery (I) dimension?
+        - Does it address relational capability (We) dimension?
+        - Does it address operational effectiveness (It) dimension?
+        - Does it show how these integrate rather than separate?
+        - Does it avoid fragmented skill development?
+
+    theme8:
+      name: "Acknowledgment of Limitations"
+      keyQuestions:
+        - Does module explicitly state what it cannot achieve?
+        - Does it acknowledge 2-hour engagement cannot complete development?
+        - Does it direct toward deeper learning opportunities?
+        - Does it signpost peer learning, mentoring, programmes?
+        - Is it honest about module scope and purpose?
+
+  applicationGuidance:
+    forModuleDesigners: >
+      Use these questions during module design to test whether content genuinely
+      addresses power, inclusion, and transformational learning. Select questions
+      most relevant to the specific competency and stage. Ensure at least one
+      question from each cross-cutting theme is considered.
+
+    forModuleReviewers: >
+      Use these questions to evaluate draft modules. Look for evidence that the
+      module addresses the questions, not just mentions diversity. Check whether
+      examples, activities, and prompts genuinely engage with power and difference
+      rather than treating them as add-ons.
+
+    forModulePilotTesters: >
+      Use personas and their evaluation questions to test modules from diverse
+      perspectives. Ask: "If I were [persona], would this module work for me?
+      Would it address my specific barriers? Would it help me develop this competency
+      in my context?"
+
+    forQualityAssurance: >
+      Use cross-cutting themes as quality standards. All modules should address
+      Principle 10, provide transformational inquiry, be accessible, support
+      contextualisation, guide evidence gathering, match level, integrate I-We-It,
+      and acknowledge limitations.
+
+    iterativeDevelopment: >
+      These questions should be used throughout iterative design cycles, not as
+      one-time checklist. Return to them repeatedly as modules develop. Use them
+      to identify gaps, refine content, and ensure genuine inclusion rather than
+      superficial diversity references.

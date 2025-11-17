@@ -1,0 +1,255 @@
+version: "1.0"
+managementAndLeadershipFramework:
+  documentName: Module Testing Criteria and Evaluation Questions
+  documentPurpose: >
+    This document contains evaluation questions and testing scenarios for assessing
+    whether learning modules genuinely address power, difference, inclusion, and
+    transformational learning as specified in the design guidelines. These criteria
+    are derived from the diverse personas across all stages of the framework and
+    support gap-analysis testing of module design and content.
+
+  usageGuidance: >
+    Use these questions and scenarios to test modules against:
+    - Design Principle 10 (Difference, diversity, inclusion, and power as golden thread)
+    - P + Q = L formula (transformational inquiry not just information)
+    - I-We-It integration
+    - Level-appropriate complexity
+    - Accessibility and inclusion
+    - Evidence gathering support
+    - Acknowledgment of limitations
+
+  stages:
+  - stageName: 'Stage 2: Middle managers and leaders'
+    personas:
+
+    - personaId: Persona 10
+      role: Strategic Commissioning Manager
+      diversityContext: White British man, age 58, approaching retirement, experiencing ageism
+
+      moduleEvaluationQuestions:
+        - Does module assume digital nativity or provide accessible approaches for all ages?
+        - Do examples value long-term experience or treat it as outdated?
+        - Will this help me navigate transitioning toward retirement while remaining valuable?
+        - Does it address phased retirement and flexible working for older workers?
+        - Does it recognise different career stages require different approaches?
+
+    - personaId: Persona 11
+      role: HR Manager
+      diversityContext: Black British (Ghanaian) woman, new to NHS, compressed hours, childcare
+
+      moduleEvaluationQuestions:
+        - Does module recognise compressed hours as full-time work not lesser commitment?
+        - Do examples assume childcare is individual problem not structural issue?
+        - Will this help me establish credibility as "new to NHS" with external expertise?
+        - Does it address being positioned as "diversity expert" due to identity?
+        - Does it help me use HR role to challenge inequity not just manage process?
+
+    - personaId: Persona 12
+      role: Specialist Healthcare Scientist
+      diversityContext: White British woman, single parent, child with special needs, bisexual (closeted)
+
+      moduleEvaluationQuestions:
+        - Does module recognise caring responsibilities as legitimate constraint not deficit?
+        - Do examples assume standard working patterns and availability?
+        - Will this help me advocate for development opportunities during working hours?
+        - Does it address managing career progression with caring responsibilities?
+        - Does it recognise different professionals' contributions (not just medicine/nursing)?
+
+    - personaId: Persona 13
+      role: Lead Vehicle Engineer
+      diversityContext: White British man, disabled (acquired mobility impairment), carer for elderly parent
+
+      moduleEvaluationQuestions:
+        - Does module recognise disability as normal part of workforce diversity?
+        - Do examples assume able-bodied, physically demanding work patterns?
+        - Will this help me navigate career progression with disability and caring responsibilities?
+        - Does it address career paths for technical/non-clinical professionals?
+        - Does it recognise men as carers without treating it as exceptional?
+
+    - personaId: Persona 14
+      role: Senior House Officer (General Surgery)
+      diversityContext: British Chinese woman, model minority stereotypes, male-dominated surgery
+
+      moduleEvaluationQuestions:
+        - Does module address model minority stereotypes in leadership?
+        - Do examples acknowledge gender dynamics in male-dominated specialties?
+        - Will this help me develop authentic leadership style despite stereotypes?
+        - Does it address leading from junior positions in hierarchical structures?
+        - Does it recognise that supportive leadership isn't "soft" or weak?
+
+    - personaId: Persona 15
+      role: Lead Psychological Wellbeing Practitioner
+      diversityContext: White British gay man, mental health lived experience, staff wellbeing advocate
+
+      moduleEvaluationQuestions:
+        - Does module recognise lived experience as valuable professional insight?
+        - Do examples acknowledge that mental health professionals need support too?
+        - Will this help me lead geographically dispersed team effectively?
+        - Does it address advocating for staff wellbeing as leadership priority?
+        - Does it recognise PWPs' contribution and career development needs?
+
+    - personaId: Persona 16
+      role: Head of Neighbourhood Teams
+      diversityContext: Mixed heritage (White British/Pakistani) Muslim woman, system leadership
+
+      moduleEvaluationQuestions:
+        - Does module recognise religious needs as legitimate workplace requirement?
+        - Do examples assume secular, Christian-heritage cultural norms?
+        - Will this help me navigate system leadership as Muslim woman of colour?
+        - Does it address leading across organisations without direct authority?
+        - Does it help me advocate for equity in integrated care?
+
+    - personaId: Persona 17
+      role: Assistant Director of Finance
+      diversityContext: British Indian (Punjabi Sikh) man, turban-wearing, religious discrimination
+
+      moduleEvaluationQuestions:
+        - Does module recognise religious needs as legitimate workplace requirement?
+        - Do examples assume Christian-heritage cultural norms?
+        - Will this help me navigate leadership as visible religious minority?
+        - Does it address religious discrimination and hate crime?
+        - Does it recognise Sikh identity distinct from Muslim identity?
+        - Does it address accommodation of religious observance and articles of faith?
+        - Do security/infection control examples consider religious articles appropriately?
+
+    - personaId: Persona 18
+      role: Primary Care Practice Manager
+      diversityContext: White British lesbian woman, dyslexia and ADHD, part-time senior leader
+
+      moduleEvaluationQuestions:
+        - Does this module assume heterosexual norms in change management examples?
+        - Does it address creating inclusive environments during organisational change?
+        - Will this help me support diverse staff through change?
+        - Does it recognise part-time senior leadership as legitimate?
+        - Does it address resistance that comes from bias and discrimination?
+        - Does it provide information in multiple formats (not just dense text)?
+        - Are written requirements genuinely necessary or performative?
+        - Does it challenge assumptions about written fluency equals leadership capability?
+        - Will this help me advocate for organisational cognitive accessibility?
+        - Does it recognise neurodivergent thinking styles as leadership strengths?
+
+    - personaId: Persona 19
+      role: Information Governance Lead
+      diversityContext: British Chinese (Hong Kong heritage) man, bamboo ceiling, model minority stereotypes
+
+      moduleEvaluationQuestions:
+        - Does this module address stereotyping of East Asian staff?
+        - Does it recognise technical/specialist expertise as leadership?
+        - Will this help me demonstrate strategic capability beyond technical role?
+        - Does it address bamboo ceiling and career progression barriers?
+        - Does it recognise racism beyond Black/white binary?
+
+    - personaId: Persona 20
+      role: Primary Care Operations Lead (ICB)
+      diversityContext: Indian (Kerala heritage) migrant woman, international healthcare experience, NHS newcomer
+
+      moduleEvaluationQuestions:
+        - Does this module assume everyone has traditional NHS career pathway?
+        - Does it value international healthcare experience?
+        - Will this help me navigate as "outsider" in NHS culture?
+        - Does it address accent discrimination and communication bias?
+        - Does it recognise challenges of learning NHS-specific context?
+
+  crossCuttingEvaluationThemes:
+    theme1:
+      name: "Principle 10: Power, Difference, and Inclusion"
+      keyQuestions:
+        - Does the module treat diversity as integral to competency, not separate topic?
+        - Does it surface who has power, whose knowledge is privileged, whose voices are heard?
+        - Does it address structural inequalities, not just individual behaviour?
+        - Does it help participants recognise their own positionality and privilege?
+        - Does it provide frameworks for action, not just awareness?
+
+    theme2:
+      name: "Transformational Inquiry (Q component)"
+      keyQuestions:
+        - Does the module provoke genuine questioning of assumptions?
+        - Does it create discomfort that leads to transformed understanding?
+        - Is there space for critical reflection on power and practice?
+        - Does it challenge rather than confirm existing thinking?
+        - Does it move beyond information transfer to transformation?
+
+    theme3:
+      name: "Accessibility and Universal Design"
+      keyQuestions:
+        - Does the module work for diverse learning needs and access requirements?
+        - Are examples and language accessible across educational backgrounds?
+        - Does it assume standard working patterns and availability?
+        - Can it be accessed flexibly across time zones, shifts, caring responsibilities?
+        - Does it provide multiple entry points and formats?
+
+    theme4:
+      name: "Contextualisation and Application"
+      keyQuestions:
+        - Does the module prompt participants to translate to their specific context?
+        - Does it recognise diverse NHS roles, settings, and contexts?
+        - Does it address practical constraints and systemic pressures?
+        - Does it avoid generic examples that assume particular contexts?
+        - Does it help participants navigate their unique situation?
+
+    theme5:
+      name: "Evidence Gathering and Competency Assessment"
+      keyQuestions:
+        - Does the module clearly guide what evidence demonstrates competency?
+        - Does it acknowledge completion ≠ competency achievement?
+        - Does it provide realistic timeframes for evidence gathering?
+        - Does it direct toward formal assessment processes?
+        - Does it support ongoing practice-based evidence collection?
+
+    theme6:
+      name: "Level-Appropriate Complexity"
+      keyQuestions:
+        - Is conceptual complexity appropriate for the stage?
+        - Does scope match organisational perspective (team/service/system)?
+        - Is balance of guidance vs exploration appropriate?
+        - Does it respect developmental readiness?
+        - Does it avoid patronising or overwhelming?
+
+    theme7:
+      name: "Integration Across I-We-It"
+      keyQuestions:
+        - Does module address personal mastery (I) dimension?
+        - Does it address relational capability (We) dimension?
+        - Does it address operational effectiveness (It) dimension?
+        - Does it show how these integrate rather than separate?
+        - Does it avoid fragmented skill development?
+
+    theme8:
+      name: "Acknowledgment of Limitations"
+      keyQuestions:
+        - Does module explicitly state what it cannot achieve?
+        - Does it acknowledge 2-hour engagement cannot complete development?
+        - Does it direct toward deeper learning opportunities?
+        - Does it signpost peer learning, mentoring, programmes?
+        - Is it honest about module scope and purpose?
+
+  applicationGuidance:
+    forModuleDesigners: >
+      Use these questions during module design to test whether content genuinely
+      addresses power, inclusion, and transformational learning. Select questions
+      most relevant to the specific competency and stage. Ensure at least one
+      question from each cross-cutting theme is considered.
+
+    forModuleReviewers: >
+      Use these questions to evaluate draft modules. Look for evidence that the
+      module addresses the questions, not just mentions diversity. Check whether
+      examples, activities, and prompts genuinely engage with power and difference
+      rather than treating them as add-ons.
+
+    forModulePilotTesters: >
+      Use personas and their evaluation questions to test modules from diverse
+      perspectives. Ask: "If I were [persona], would this module work for me?
+      Would it address my specific barriers? Would it help me develop this competency
+      in my context?"
+
+    forQualityAssurance: >
+      Use cross-cutting themes as quality standards. All modules should address
+      Principle 10, provide transformational inquiry, be accessible, support
+      contextualisation, guide evidence gathering, match level, integrate I-We-It,
+      and acknowledge limitations.
+
+    iterativeDevelopment: >
+      These questions should be used throughout iterative design cycles, not as
+      one-time checklist. Return to them repeatedly as modules develop. Use them
+      to identify gaps, refine content, and ensure genuine inclusion rather than
+      superficial diversity references.
