@@ -1,8 +1,10 @@
-# Persona diversity analysis: YAML v0.2.3 review
+# Persona diversity analysis: YAML v0.2.4 review
 
 ## Executive summary
 
-This document provides a systematic review of the persona set (ml_framework_personas-v0_2_3.yaml) against three criteria:
+This document provides a systematic review of the persona set (ml_framework_personas-v0_2_4.yaml) against three criteria:
+
+**Note**: The YAML file internal version number still shows "0.2.3" but filename is v0_2_4.yaml. This review reflects the actual content of the v0_2_4 file.
 
 1. Alignment with Personas Draft 2.2.docx role specifications
 2. Appropriateness of learning needs to roles
@@ -234,8 +236,8 @@ All personas use consistent terminology:
 
 I reviewed whether the combination of characteristics in each persona represents realistic lived experience:
 
-**Persona 1**: White British, working class, single parent, non-graduate
-- ✓ Consistent and realistic intersection
+**Persona 1**: White British Jewish woman, working class, single parent, non-graduate, secular Jewish identity
+- ✓ Consistent and realistic intersection. Secular/cultural Jewish identity with Holocaust survivor grandparents adds layer of intergenerational trauma and experiences of antisemitism despite not being religiously observant.
 
 **Persona 2**: White Irish Traveller, disabled (dyslexia/ADHD), working class, first in family in formal employment
 - ✓ Highly realistic. Irish Traveller community faces extreme discrimination, often combined with neurodivergence going undiagnosed. First formal employment is common pattern.
@@ -258,11 +260,11 @@ I reviewed whether the combination of characteristics in each persona represents
 **Persona 8**: Filipino, migrant nurse, Catholic, visa-dependent
 - ✓ Highly realistic. Reflects international recruitment patterns, migrant nurse vulnerability, and Catholic Filipino demographic.
 
-**Persona 9**: White British, gay and out, mid-career
-- ✓ Realistic. Out gay man in estates role reflects increasing workplace openness but also potential exposure.
+**Persona 9**: White British, gay and out, deaf/hard of hearing, mid-career
+- ✓ Realistic and complex. Out gay man in male-dominated estates role with acquired hearing loss. Uses hearing aids and lip-reading, learning BSL. Intersectionality of gay identity and disability in technical/masculine culture adds important dimension. Acquired deafness represents significant disability category.
 
-**Persona 10**: White British, mid-career, approaching retirement
-- ✓ Realistic majority identity with age considerations.
+**Persona 10**: White British, age 63, approaching retirement within 2 years
+- ✓ Realistic majority identity with significant age considerations. Now explicitly in 60+ age bracket, actively experiencing ageism and age-based assumptions about technical capability.
 
 **Persona 11**: Black British (Ghanaian heritage), Christian, HR professional
 - ✓ Realistic. Ghanaian British community well-represented in professional roles, Christian faith common.
@@ -273,11 +275,11 @@ I reviewed whether the combination of characteristics in each persona represents
 **Persona 13**: White British, disabled (acquired mobility impairment), caring responsibilities
 - ✓ Realistic. Acquired disability plus caring shows multiple pressures on mid-career staff.
 
-**Persona 14**: British Chinese, young professional
-- ✓ Realistic. Growing Chinese British professional cohort, may face model minority stereotyping.
+**Persona 14**: British Chinese woman, autistic, age 28, Senior House Officer in General Surgery
+- ✓ Highly realistic and sophisticated intersection. Autistic woman diagnosed age 21 during medical school. British Chinese in male-dominated surgery facing model minority stereotypes and gendered expectations. Autism creates challenges with "unwritten rules," informal hierarchies, and sensory overwhelm in hospital environment. Direct communication style perceived as blunt. Clinical protocols feel safer than ambiguous social situations. Masking autistic traits professionally is exhausting. Intersectionality of East Asian woman + autism + surgery culture creates multiple layers of marginalisation.
 
-**Persona 15**: White British, gay, mental health lived experience
-- ✓ Realistic intersection. LGBTQ+ people have higher mental health challenges, relevant for someone in psychological wellbeing role.
+**Persona 15**: White British trans man, age 35, gay, mental health lived experience
+- ✓ Highly realistic and sophisticated intersection. Trans man who transitioned at age 21, out at work as both trans and gay, working in psychological wellbeing role. Mental health lived experience includes gender dysphoria journey. Working class background accessing profession through access course as mature student. "Passing privilege" as binary trans man means often assumed cisgender unless disclosed, creating complex navigation of when/how to disclose. Intersectionality of trans, gay, working class, mental health service user, and PWP (less powerful than clinical psychologist) creates multiple layers of marginalisation alongside white and male privilege (with caveats). Highly relevant for testing trans inclusion.
 
 **Persona 16**: Mixed White British/British Pakistani, Muslim
 - ✓ Realistic mixed heritage identity with maintained religious connection.
@@ -285,8 +287,8 @@ I reviewed whether the combination of characteristics in each persona represents
 **Persona 17**: White British, heterosexual, senior professional
 - ✓ Represents majority identity at senior level.
 
-**Persona 18**: White British, lesbian and out, part-time worker
-- ✓ Realistic. Out lesbian in senior role, part-time working for work-life balance.
+**Persona 18**: White British, lesbian and out, dyslexia/ADHD (diagnosed age 45), part-time worker
+- ✓ Realistic and important. Out lesbian in senior role (Primary Care Practice Manager), part-time working for work-life balance. Late dyslexia/ADHD diagnosis at age 45 during leadership development programme demonstrates neurodivergence in established professionals. Represents how neurodivergent people compensate and mask for decades before diagnosis. Dense contracts and policies challenging due to dyslexia. ADHD hyperfocus strength for operational problem-solving.
 
 **Persona 19**: British Chinese (Hong Kong heritage), specific cultural context
 - ✓ Realistic. Hong Kong heritage carries specific migration history and potential political sensitivities.
@@ -401,47 +403,64 @@ I compared persona characteristics against key workforce equality data from WRES
 | Neurodivergent (dyslexia/ADHD) | 1 | 4.0% | Initially invisible, diagnosed adult | Persona 2 |
 | Physical (wheelchair user - SCI) | 1 | 4.0% | Visible | Persona 7 |
 | Chronic pain/fatigue (EDS) | 1 | 4.0% | Fluctuating visibility (mobility aids) | Persona 4 |
+| Deaf/hard of hearing (acquired) | 1 | 4.0% | Visible (hearing aids), learning BSL | Persona 9 |
 | Disabled child (carer) | 1 | 4.0% | Hidden disability by association | Persona 11 |
 | Acquired mobility impairment | 1 | 4.0% | Visible | Persona 13 |
 | Mental health (depression, managed) | 1 | 4.0% | Invisible unless disclosed | Persona 25 |
-| Mental health lived experience | 1 | 4.0% | Historical, relevant to role | Persona 15 |
-| **Total with disability** | **7** | **28.0%** | Mix of visible/invisible | Slightly above NHS Staff Survey |
-| **None disclosed** | **18** | **72.0%** | | |
+| Mental health lived experience (+ gender dysphoria) | 1 | 4.0% | Historical, relevant to role, trans | Persona 15 |
+| **Total with disability** | **8** | **32.0%** | Mix of visible/invisible | Above NHS Staff Survey (25%) |
+| **None disclosed** | **17** | **68.0%** | | |
 
 #### Analysis
 
-**28% disability representation**: 
-- ✓ **Slightly above NHS Staff Survey data (25.05%)** but well within realistic range
+**32% disability representation**:
+- ✓ **Above NHS Staff Survey data (25.05%)** - intentionally overweighted for testing purposes
 - ✓ **Above UK working-age population (24%)**
 - ✓ Much higher than ESR declarations (5.7%), reflecting realistic under-disclosure in formal HR systems
-- Addition of chronic pain/fatigue condition (EDS) reflects significant underrepresented disability type
+- Addition of chronic pain/fatigue condition (EDS) and deaf/hard of hearing (Persona 9) reflects significant underrepresented disability types
 
 **Disability type diversity**:
 - ✓ Physical disabilities: 2 (wheelchair user, acquired mobility impairment)
+- ✓ Sensory disabilities: 1 (deaf/hard of hearing with hearing aids, learning BSL)
 - ✓ Chronic pain/fatigue: 1 (EDS - hypermobility syndrome, often misdiagnosed)
-- ✓ Neurodivergence: 1 (dyslexia/ADHD - underdiagnosed in working-class communities)
-- ✓ Mental health: 2 (depression/alcohol recovery, lived experience in MH role)
-- ✓ Carer of disabled child: 1 (often excluded from disability frameworks)
+- ✓ Neurodivergence: 3 personas
+  - Dyslexia/ADHD: 2 (Persona 2 diagnosed in 20s, Persona 18 diagnosed at age 45)
+  - Autism: 1 (Persona 14 - British Chinese woman, diagnosed age 21 during medical school)
+- ✓ Mental health: 2 (depression/alcohol recovery, lived experience in MH role including trans-related)
+- ✓ Carer of disabled child: 1 (child with autism and learning disabilities - Persona 11)
 
 **Visibility spectrum**:
-- ✓ Visible disabilities: 2 (wheelchair user, acquired mobility impairment)
-- ✓ Fluctuating visibility: 1 (EDS - uses mobility aids intermittently)
-- ✓ Invisible disabilities: 4 (neurodivergent, mental health conditions, carer)
-- Reflects reality that most disabilities are non-visible or fluctuating
+- ✓ Visible disabilities: 4 (wheelchair user, acquired mobility impairment, hearing aids, fluctuating EDS)
+- ✓ Invisible disabilities: 4 (neurodivergent, mental health conditions, carer, gender dysphoria history)
+- Reflects reality that most disabilities have both visible and invisible aspects
 
 **Intersectionality**:
-- Irish Traveller + neurodivergent (Persona 2): Reflects diagnostic inequality
+- Irish Traveller + neurodivergent/ADHD + working class (Persona 2): Reflects diagnostic inequality in marginalized communities
 - British Indian + chronic pain EDS (Persona 4): Model minority pressure with invisible disability, diagnostic delays common for women of colour
 - Pakistani Muslim + wheelchair user (Persona 7): Triple minoritisation
+- Gay + deaf/hard of hearing (Persona 9): Intersectionality in male-dominated technical field
+- British Chinese woman + autistic + surgery (Persona 14): Model minority stereotypes, gendered surgery culture, navigating unwritten rules as autistic person
+- Trans + mental health lived experience (Persona 15): Gender dysphoria journey, trans healthcare navigation
+- Dyslexia/ADHD diagnosed at 45 + lesbian (Persona 18): Late diagnosis during leadership development
 - White British + mental health + recovery (Persona 25): Executive-level disclosure
 
-**Gaps**:
-- No learning disabilities
-- No sensory disabilities (Deaf, blind, vision/hearing impairment)
-- No diabetes, epilepsy, or other episodic conditions (though EDS partially addresses this)
-- No autism spectrum (separate from ADHD)
+**Gaps addressed**:
+- ✓ Sensory disability now represented (deaf/hard of hearing with BSL)
+- ✓ Trans-related healthcare and mental health represented
 
-**Verdict**: Disability representation is **slightly above** NHS/UK data (28% vs 24-25%) and shows **excellent diversity** of disability types including underrepresented chronic pain/fatigue conditions. Addition of EDS persona addresses important gap in fluctuating disabilities and diagnostic inequalities faced by women of colour. Strong for testing reasonable adjustments, energy management, and invisible disability discrimination.
+**Terminology clarification**:
+In UK terminology (NHS context):
+- **Learning disability** = intellectual/developmental disability (e.g., Down syndrome, severe autism with intellectual impairment)
+- **Learning difficulties/differences** = dyslexia, ADHD, autism (without intellectual impairment)
+
+**Remaining gaps**:
+- No persona with learning disability themselves (though Persona 12 is carer for child with autism AND learning disabilities - carer perspective represented)
+- Note: Personas DO have learning difficulties (dyslexia, ADHD, autism) - 3 personas with neurodivergence
+- No visual impairment or blindness
+- No diabetes, epilepsy, or other episodic conditions (though EDS partially addresses fluctuating conditions)
+- No Deaf culture/BSL-first perspective (Persona 9 is audiologically deaf but not culturally Deaf)
+
+**Verdict**: Disability representation is **intentionally overweighted** at 32% (vs 24-25% NHS/UK data) for robust testing purposes. Shows **excellent diversity** of disability types including underrepresented chronic pain/fatigue, sensory disabilities, and neurodivergence (autism, ADHD, dyslexia). Addresses critical gap in deaf/hard of hearing representation. Autism represented through British Chinese woman surgeon navigating "unwritten rules" and sensory overwhelm. Strong for testing reasonable adjustments, BSL access, communication accommodations, energy management, neurodivergent workplace needs, and invisible disability discrimination.
 
 ### Sexual orientation analysis
 
@@ -496,20 +515,21 @@ I compared persona characteristics against key workforce equality data from WRES
 - WRES notes: Arab, Pakistani, Bangladeshi staff face specific Islamophobia
 - Christian, Muslim, Hindu, and Sikh staff represented across NHS
 
-#### Persona religion breakdown (n=24)
+#### Persona religion breakdown (n=25)
 
 | Religion | Count | Percentage | Notes |
 |----------|-------|------------|-------|
-| Not stated | 17 | 70.8% | Most personas don't specify |
-| Muslim | 3 | 12.5% | Pakistani (2), mixed heritage (1) |
-| Christian | 3 | 12.5% | Ghanaian (1), Nigerian (1), Filipino (1) |
-| Hindu | 1 | 4.2% | Kerala Indian heritage |
-| Catholic | 1 | 4.2% | Filipino (overlap with Christian) |
+| Not stated | 16 | 64.0% | Most personas don't specify |
+| Muslim | 3 | 12.0% | Pakistani (2), mixed heritage (1) |
+| Christian | 3 | 12.0% | Ghanaian (1), Nigerian (1), Filipino (1) |
+| Jewish | 1 | 4.0% | Secular/cultural Jewish, Holocaust survivor grandparents |
+| Hindu | 1 | 4.0% | Kerala Indian heritage |
+| Catholic | 1 | 4.0% | Filipino (overlap with Christian) |
 
 #### Analysis
 
 **Religion specification**:
-- Only 8 personas (33%) specify religion
+- 9 personas (36%) specify religion
 - ✓ Reflects that religion often unstated unless relevant to discrimination experience
 - ✓ All specified religions connect to ethnicity/cultural heritage (realistic)
 
@@ -523,18 +543,29 @@ I compared persona characteristics against key workforce equality data from WRES
 - ✓ Realistic as Christianity central to these diaspora communities
 - Catholic specified for Filipino (accurate cultural detail)
 
+**Jewish representation**:
+- 1 persona, secular/cultural Jewish identity
+- ✓ Important addition addressing antisemitism
+- ✓ Nuanced representation: not religiously observant but culturally Jewish
+- ✓ Holocaust survivor grandparents adds intergenerational trauma dimension
+- ✓ Addresses rising antisemitism in UK context
+- ✓ Complex relationship to Israel/Palestine conflict
+- ✓ Intersects with working class, single parent identities
+
 **Hindu representation**:
 - 1 persona, Kerala heritage
 - ✓ Accurate (Kerala has significant Hindu population)
 
-**Gaps**:
+**Gaps addressed**:
+- ✓ Jewish representation now included (Persona 1)
+
+**Remaining gaps**:
 - No Sikh representation
 - No Buddhist representation
-- No Jewish representation
 - No explicitly atheist/humanist representation
-- No representation of religious discrimination faced by Muslims (though Islamophobia hinted at in positionality)
+- Limited explicit representation of religious discrimination experiences in evaluation scenarios (though antisemitism and Islamophobia referenced in positionality)
 
-**Verdict**: Religion representation **realistic and proportionate** where specified. Appropriate that most personas don't specify religion. Some gaps but not critical for testing.
+**Verdict**: Religion representation **realistic and proportionate** where specified. Appropriate that most personas don't specify religion. Addition of Jewish identity (Persona 1) addresses important gap in testing antisemitism and religious/cultural discrimination. Good diversity for testing religious inclusion and combating religious discrimination.
 
 ### Age analysis
 
@@ -546,43 +577,46 @@ I compared persona characteristics against key workforce equality data from WRES
 - Senior leaders: 45-65
 - Retention challenges across all ages
 
-#### Persona age breakdown (n=24)
+#### Persona age breakdown (n=25)
 
 | Age band | Count | Percentage | Roles |
 |----------|-------|------------|-------|
-| 20-29 | 5 | 20.8% | Fundamental & Stage 1 early careers |
-| 30-39 | 9 | 37.5% | Stage 1 & Stage 2 established professionals |
-| 40-49 | 7 | 29.2% | Stage 2 & Stage 3 senior professionals |
-| 50-59 | 3 | 12.5% | Stage 3 & Stage 4 near-retirement |
-| 60+ | 0 | 0% | None |
+| 20-29 | 5 | 20.0% | Fundamental & Stage 1 early careers |
+| 30-39 | 9 | 36.0% | Stage 1 & Stage 2 established professionals |
+| 40-49 | 7 | 28.0% | Stage 2 & Stage 3 senior professionals |
+| 50-59 | 3 | 12.0% | Stage 2 & Stage 3 near-retirement |
+| 60+ | 1 | 4.0% | Stage 2, actively experiencing ageism |
 
 #### Analysis
 
 **Age distribution**:
-- ✓ **Appropriate concentration in 30-49 range (66.7%)**: Reflects NHS workforce demographics
+- ✓ **Appropriate concentration in 30-49 range (64%)**: Reflects NHS workforce demographics
 - ✓ **Younger staff in Fundamental/Stage 1**: Realistic career entry
-- ✓ **Older staff in Stage 3-4**: Realistic seniority progression
-- ⚠️ **No staff over 60**: Gap, though many senior staff work past 60
+- ✓ **Older staff in Stage 2-4**: Realistic seniority progression
+- ✓ **Staff over 60 now represented**: Persona 10 (age 63)
 
 **Career stage alignment**:
 - Fundamental (20s): ✓ Appropriate
 - Stage 1 (late 20s-late 30s): ✓ Appropriate
-- Stage 2 (30s-40s): ✓ Appropriate
+- Stage 2 (30s-60s): ✓ Appropriate - includes Persona 10 (63)
 - Stage 3 (40s-50s): ✓ Appropriate
 - Stage 4 (40s-50s): ✓ Appropriate (though some executives older)
 
 **Age discrimination testing**:
-- Persona 9 (58): Near retirement, estates manager
+- Persona 10 (63): Explicitly experiencing ageism, within 2 years of retirement, age-based assumptions about technical capability
+- Persona 9 (42): Mid-career with acquired disability (deafness)
 - Persona 17 (47): Assistant Director, mid-senior
-- Persona 10 (58): Considering retirement transition
-- ✓ Some representation of older workers' experience
+- ✓ Strong representation of older workers' experience, particularly ageism
 
-**Gaps**:
-- No staff over 60 (some senior staff work into 60s/70s)
-- Limited representation of age discrimination experiences
+**Gaps addressed**:
+- ✓ Staff over 60 now represented (Persona 10, age 63)
+- ✓ Explicit ageism experiences in diversity profile
+
+**Remaining gaps**:
+- Only one person 60+ (though this is proportionate to workforce)
 - No young people in very senior roles (possible but rare)
 
-**Verdict**: Age distribution **broadly realistic** and **well-aligned with career stages**. Minor gap in 60+ representation.
+**Verdict**: Age distribution **realistic** and **well-aligned with career stages**. Addition of Persona 10 at age 63 addresses critical gap in 60+ representation and enables testing of ageism and age discrimination.
 
 ### Social class and educational background
 
@@ -679,14 +713,17 @@ I compared persona characteristics against key workforce equality data from WRES
 | Characteristic | Persona % | NHS/UK % | Assessment | Justification |
 |---------------|-----------|----------|------------|---------------|
 | **BME ethnicity** | 48.0% | 28.6% (NHS) | Intentional overweight | Testing requires diverse experiences of racism |
-| **Disability** | 28.0% | 25.0% (NHS survey) | ✓ Slightly above | Good alignment, includes chronic pain/fatigue |
+| **Disability** | 32.0% | 25.0% (NHS survey) | Intentional overweight | Includes sensory, chronic pain, neurodivergent, mental health |
 | **LGB+** | 24.0% | 3-5% (UK) | Intentional overweight | Testing heteronormative assumptions |
-| **Trans/non-binary** | 0% | ~0.5-1% (UK) | **Critical gap** | Cannot test trans inclusion |
+| **Trans/non-binary** | 4.0% | ~0.5-1% (UK) | ✓ Above population | **Gap addressed** - Persona 15 is trans man |
+| **Jewish** | 4.0% | ~0.5% (UK) | Above population | Addresses antisemitism testing |
+| **Deaf/hard of hearing** | 4.0% | ~11% (UK) | Below population | **Gap addressed** - Persona 9 uses BSL |
 | **Women** | 52.0% | ~77% (NHS) | Underrepresented | But reflects leadership pipeline reality |
 | **Men** | 44.0% | ~23% (NHS) | Overrepresented | Reflects senior roles skew |
 | **Working class** | 20.0% | ? (no NHS data) | Good for testing | Sufficient to examine class barriers |
 | **Muslim** | 12.0% | ~6% (UK) | Slight overweight | Testing Islamophobia important |
-| **Age 50+** | 12.0% | ~25% (NHS) | Underrepresented | Gap in older worker experience |
+| **Age 50+** | 16.0% | ~25% (NHS) | Underrepresented | But now includes 60+ |
+| **Age 60+** | 4.0% | ~10% (NHS est.) | Below but represented | **Gap addressed** - Persona 10 age 63 |
 
 ### Qualitative assessment
 
@@ -700,21 +737,41 @@ I compared persona characteristics against key workforce equality data from WRES
 
 4. **Fluctuating disabilities**: EDS persona represents important category of fluctuating/episodic disabilities often dismissed or misunderstood
 
-4. **Power and privilege distribution**: Personas range from precarious (migrant visa-dependent) to privileged (white heterosexual executive) with many complex positions in between
+5. **Trans representation**: Persona 15 is trans man, transitioned at 21, out at work, with nuanced exploration of "passing privilege," disclosure navigation, and intersection with gay identity and mental health lived experience
 
-5. **Specific cultural contexts**: Not generic "BME" - Ghanaian, Nigerian, Filipino, Pakistani, Indian (Kerala), Hong Kong Chinese all specified
+6. **Sensory disability**: Persona 9 deaf/hard of hearing with hearing aids, learning BSL, acquired deafness in male-dominated technical field
 
-6. **Disability diversity**: Physical, neurodivergent, mental health, acquired, childhood - good range
+7. **Jewish representation**: Persona 1 secular/cultural Jewish with Holocaust survivor grandparents, addresses antisemitism and intergenerational trauma
 
-7. **Career stage representation**: Minoritised identities distributed across all stages (not just junior roles)
+8. **Power and privilege distribution**: Personas range from precarious (migrant visa-dependent) to privileged (white heterosexual executive) with many complex positions in between
 
-#### Critical gaps
+9. **Specific cultural contexts**: Not generic "BME" - Ghanaian, Nigerian, Filipino, Pakistani, Indian (Kerala), Hong Kong Chinese all specified
 
-1. **Trans and non-binary representation**: Zero personas. Major gap for testing trans inclusion and transphobia.
+10. **Disability diversity**: Physical, sensory (deaf), neurodivergent (autism, ADHD, dyslexia), mental health, chronic pain, acquired, childhood - excellent range
 
-2. **Sensory disabilities**: No Deaf, blind, or sensory impaired personas.
+11. **Neurodivergent diversity**: Autism (Persona 14 - diagnosed age 21), ADHD/dyslexia at different life stages (Persona 2 - diagnosed in 20s, Persona 18 - diagnosed at 45), demonstrating both early and late diagnosis experiences
 
-3. **Learning disabilities**: No representation of learning disabilities.
+12. **Career stage representation**: Minoritised identities distributed across all stages (not just junior roles)
+
+13. **Age diversity**: Now includes 60+ representation (Persona 10, age 63) with explicit ageism experiences
+
+#### Gaps addressed in v0.2.4
+
+1. ✓ **Trans representation**: Persona 15 is now trans man (previously identified as critical gap)
+
+2. ✓ **Sensory disabilities**: Persona 9 is deaf/hard of hearing (previously identified as high priority gap)
+
+3. ✓ **Age 60+**: Persona 10 is now 63 (previously identified as high priority gap)
+
+4. ✓ **Jewish representation**: Persona 1 now has secular/cultural Jewish identity (previously identified as gap in religion/belief)
+
+#### Remaining critical gaps
+
+1. **Non-binary representation**: Trans man represented, but no non-binary or trans woman personas. Limits testing of non-binary inclusion and trans feminine experiences.
+
+2. **Learning disabilities**: No representation of learning disabilities.
+
+3. **Visual impairment**: No blind or visually impaired personas (deaf/hard of hearing now represented).
 
 4. **Bangladeshi ethnicity**: Significant UK population, not represented.
 
@@ -722,80 +779,99 @@ I compared persona characteristics against key workforce equality data from WRES
 
 6. **Sikh faith**: Significant NHS workforce group, not represented.
 
-7. **Age 60+**: Limited representation of older workers near/past retirement age.
-
-8. **Regional specification**: Most personas could be anywhere - limits testing of regional contexts (e.g. London diversity vs rural homogeneity).
+7. **Regional specification**: Most personas could be anywhere - limits testing of regional contexts (e.g. London diversity vs rural homogeneity).
 
 #### Testing adequacy
 
 **Can effectively test**:
 - ✓ Anti-Black racism
 - ✓ Anti-Asian racism and Islamophobia
+- ✓ Antisemitism (secular/cultural Jewish identity)
 - ✓ Irish Traveller discrimination (most marginalised)
 - ✓ Disability discrimination and reasonable adjustments
+- ✓ Deaf/hard of hearing access (BSL, hearing aids, audism)
+- ✓ Autism in workplace (navigating unwritten rules, sensory overwhelm, masking, direct communication style)
+- ✓ Neurodivergence: ADHD and dyslexia (including late diagnosis)
+- ✓ Trans inclusion and transphobia (trans man representation)
 - ✓ Heteronormative assumptions and LGB discrimination
 - ✓ Class and educational barriers
-- ✓ Neurodivergence and hidden disabilities
+- ✓ Chronic pain and fluctuating disabilities
 - ✓ Mental health stigma
+- ✓ Ageism and age discrimination (including 60+)
 - ✓ Migrant vulnerability
-- ✓ Intersectional oppression
-- ✓ Carer responsibilities
+- ✓ Intersectional oppression (e.g., model minority + autism + gendered surgery culture)
+- ✓ Carer responsibilities (including caring for disabled children)
 
 **Cannot test**:
-- ✗ Trans inclusion, transphobia, gender identity
 - ✗ Non-binary inclusion
-- ✗ Deaf culture and BSL
-- ✗ Sensory disability adjustments
-- ✗ Learning disability inclusion
+- ✗ Trans feminine experiences (trans woman)
+- ✗ Culturally Deaf perspectives (Persona 9 is audiologically deaf but not Deaf)
+- ✗ Visual impairment or blindness
+- ✗ Learning disability inclusion (UK term: intellectual/developmental disability) - only carer perspective represented
 - ✗ Specific Eastern European discrimination
-- ✗ Age discrimination beyond 50s
+- ✗ Sikh inclusion and discrimination
+
+**Important note**: Learning *difficulties* (dyslexia, ADHD, autism) ARE well represented. The gap is specifically learning *disability* (UK term for intellectual/developmental disability).
 
 **Partially can test**:
-- ⚠️ Older worker experience (limited 50s representation)
 - ⚠️ Regional variations (limited geographic specification)
-- ⚠️ Religious discrimination (Muslim represented, but limited context of actual discrimination experiences)
+- ⚠️ BSL access (Persona 9 learning BSL but not primary language)
 
 ---
 
 ## 6. Recommendations
 
+### ✓ Addressed in v0.2.4 (previously Critical/High Priority)
+
+1. ✓ **Trans persona added**: Persona 15 is now trans man, age 35, gay, working in mental health (previously Critical gap)
+
+2. ✓ **Deaf/hard of hearing persona added**: Persona 9 is deaf/hard of hearing, uses hearing aids, learning BSL (previously High Priority gap)
+
+3. ✓ **Age 60+ persona added**: Persona 10 is now 63, explicitly experiencing ageism (previously High Priority gap)
+
+4. ✓ **Jewish representation added**: Persona 1 now has secular/cultural Jewish identity with Holocaust survivor grandparents (addresses antisemitism testing)
+
 ### Critical (must address)
 
-1. **Add trans/non-binary persona**: At minimum, add one persona with trans identity (trans woman or trans man) at Stage 2 or 3 level to enable testing of trans inclusion
+1. **Update YAML version number**: File shows version "0.2.3" but should be "0.2.4" to match filename
 
-2. **Fix YAML syntax error**: Line 1016 quotation marks causing parsing failure (change to: `- '"Where are you really from?" and "your English is good" microaggressions'`)
+2. **Verify YAML syntax**: Check for any parsing errors (line 1016 quotation marks issue may still exist from v0.2.3)
 
 ### High priority (strongly recommended)
 
-3. **Add Deaf persona**: Include someone who is Deaf or hard of hearing to test BSL access, communication adjustments
+3. **Add non-binary persona**: Trans man now represented, but non-binary representation still missing. Add persona with non-binary identity to test non-binary inclusion and they/them pronoun usage.
 
-4. **Specify religious discrimination**: For Muslim personas, add explicit experiences of Islamophobia to evaluation questions
+4. **Add trans woman**: Trans masculine experience represented (Persona 15), but trans feminine experience missing. Trans women face specific discrimination patterns.
 
-5. **Add age 60+ persona**: Include one person 60-65 at Stage 3 or 4 to test older worker experience
+5. **Specify religious discrimination experiences**: For Muslim, Jewish, and other religious personas, add explicit experiences of Islamophobia, antisemitism to evaluation questions (currently only in positionality, not evaluation scenarios)
 
-6. **Add Eastern European persona**: Represents significant NHS workforce, faces specific discrimination
+6. **Add Eastern European persona**: Represents significant NHS workforce, faces specific discrimination (e.g., Polish, Romanian)
 
 ### Medium priority (beneficial)
 
-7. **Add learning disability**: Either a persona with learning disability or parent of someone with learning disability
+7. **Add persona with learning disability**: A persona who themselves has a learning disability (intellectual/developmental disability - UK term). Currently only carer perspective represented (Persona 12's child). Note: Learning difficulties (dyslexia, ADHD, autism) are well represented - this gap refers specifically to intellectual/developmental disabilities.
 
-8. **Add Bangladeshi heritage**: Specific community experiences
+8. **Add Bangladeshi heritage**: Specific community experiences, distinct from Pakistani
 
 9. **Add Sikh persona**: Represents significant NHS workforce
 
-10. **Specify geographic context**: For some personas, add specific regional contexts to test rural vs urban, London vs regions
+10. **Add visual impairment/blindness**: Sensory disability now represented (deaf/hard of hearing), but visual impairment missing
+
+11. **Specify geographic context**: For some personas, add specific regional contexts to test rural vs urban, London vs regions
+
+12. **Add culturally Deaf persona**: Persona 9 is audiologically deaf but not culturally Deaf. BSL-first/Deaf culture perspective missing.
 
 ### Low priority (nice to have)
 
-11. **Add autism spectrum**: Separate from ADHD representation
-
-12. **Add sensory disability**: Visual impairment or hearing loss
-
-13. **Add care leaver in senior role**: Currently only in Fundamental stage
+13. **Add care leaver in senior role**: Currently only in Fundamental stage (Persona 3)
 
 14. **Age diversity under 25**: Very junior staff member
 
 15. **Add diabetes, epilepsy or other episodic conditions**: Though EDS now provides some representation of fluctuating disability
+
+16. **Add trans woman in senior leadership**: Persona 15 is Stage 2; trans representation at executive level would test additional dynamics
+
+17. **Expand neurodivergent representation**: Autism now represented (Persona 14), but could add more neurodivergent conditions (e.g., dyspraxia, dyscalculia) or different autism presentations
 
 ---
 
@@ -833,18 +909,34 @@ I compared persona characteristics against key workforce equality data from WRES
 
 The persona set is **high quality** with **excellent intersectional sophistication** and **authentic lived experience representation**. The diversity profiles enable robust testing of power dynamics, structural inequality, and transformational learning.
 
-**Critical issues requiring immediate attention**:
-1. Zero trans/non-binary representation (major testing gap)
-2. YAML syntax error (line 1016 - quotation marks)
+**Major improvements in v0.2.4**:
+1. ✓ **Trans representation added**: Persona 15 is now trans man (transitioned age 21, out at work, gay, mental health lived experience) - **addresses previously critical gap**
+2. ✓ **Deaf/hard of hearing representation added**: Persona 9 now deaf/hard of hearing (hearing aids, learning BSL, acquired deafness) - **addresses previously high priority gap**
+3. ✓ **Age 60+ representation added**: Persona 10 now 63 (explicitly experiencing ageism, within 2 years of retirement) - **addresses previously high priority gap**
+4. ✓ **Jewish representation added**: Persona 1 now secular/cultural Jewish (Holocaust survivor grandparents, experiences antisemitism) - **addresses antisemitism testing gap**
 
-**Significant improvements with recent updates**:
-- **Persona 4 addition**: Adds crucial chronic pain/fatigue representation (EDS), British Indian perspective with model minority pressure, demonstrates intersection of disability, ethnicity, and professional family expectations
-- **Persona 21 correction**: Now properly represents Chief AHP role with Black Ghanaian woman executive, addresses professional hierarchy (AHP vs medicine/nursing), senior leadership experiences of racism, widowed single parent navigating executive demands
-- **Complete set**: All 25 personas now present and correctly aligned
+**Continued strengths from earlier versions**:
+- **Persona 4**: Crucial chronic pain/fatigue representation (EDS), British Indian perspective with model minority pressure, demonstrates intersection of disability, ethnicity, and professional family expectations
+- **Persona 21**: Chief AHP role with Black Ghanaian woman executive, addresses professional hierarchy (AHP vs medicine/nursing), senior leadership experiences of racism, widowed single parent navigating executive demands
+- **Complete set**: All 25 personas present and correctly aligned with Draft 2.2
 
-**Once the two remaining critical issues are addressed**, the persona set will be highly effective for gap-analysis testing of learning modules against Design Principle 10 (difference, diversity, inclusion, and power as golden thread).
+**Outstanding critical issues**:
+1. YAML version number mismatch (file shows "0.2.3", filename is v0_2_4)
+2. Verify YAML syntax (check line 1016 quotation marks issue from v0.2.3)
 
-The diversity representation is **intentionally overweighted** in BME (44%), disability (28%), and LGB (24%) identities to ensure modules can be rigorously tested for inclusivity, not to match workforce composition exactly. This is **appropriate and justified** for testing purposes.
+**Remaining high priority gaps**:
+- Non-binary representation (trans man added, but non-binary missing)
+- Trans woman representation (trans masculine experience represented, trans feminine missing)
+- Eastern European representation (significant NHS workforce)
+
+The persona set now enables comprehensive testing of:
+- ✓ Trans inclusion and transphobia (trans man)
+- ✓ Deaf/hard of hearing access and audism
+- ✓ Ageism and age discrimination (including 60+)
+- ✓ Antisemitism
+- ✓ Plus all previously testable areas (anti-Black racism, Islamophobia, disability discrimination, LGB discrimination, class barriers, etc.)
+
+The diversity representation is **intentionally overweighted** in BME (48%), disability (32%), LGB (24%), and trans (4%) identities to ensure modules can be rigorously tested for inclusivity, not to match workforce composition exactly. This is **appropriate and justified** for testing purposes.
 
 ---
 
@@ -897,6 +989,42 @@ The diversity representation is **intentionally overweighted** in BME (44%), dis
 
 ---
 
+## Document history
+
+### Version 1.1 (November 2025)
+**Updated to review ml_framework_personas-v0_2_4.yaml**
+
+Key changes documented:
+1. **Persona 1 (Medical Secretary)**: Added secular/cultural Jewish identity with Holocaust survivor grandparents
+2. **Persona 9 (Estates Manager)**: Added deaf/hard of hearing disability (hearing aids, learning BSL)
+3. **Persona 10 (Strategic Commissioning Manager)**: Age increased from 58 to 63, explicitly experiencing ageism
+4. **Persona 15 (Lead PWP)**: Changed from "gay, mental health lived experience" to trans man (transitioned age 21, gay, out at work)
+
+**Already existing (corrected from v1.0 error)**:
+- **Persona 14 (SHO General Surgery)**: Autistic British Chinese woman (diagnosed age 21) - was incorrectly listed as "no autism representation" in v1.0
+- **Persona 2 (Emergency Care Assistant)**: Dyslexia/ADHD (diagnosed in 20s)
+- **Persona 18 (Primary Care Practice Manager)**: Dyslexia/ADHD (diagnosed age 45)
+- **Persona 11 (HR Manager)**: Carer for child with autism and learning disabilities
+
+**Impact**: Four previously identified critical/high priority gaps now addressed:
+- Trans representation (Persona 15)
+- Deaf/hard of hearing representation (Persona 9)
+- Age 60+ representation (Persona 10)
+- Jewish representation (Persona 1)
+
+**Overall diversity statistics updated**:
+- Disability representation: 28% → 32%
+- Trans representation: 0% → 4%
+- Jewish representation: 0% → 4%
+- Deaf/hard of hearing: 0% → 4%
+- Age 60+: 0% → 4%
+- Neurodivergent representation: More comprehensive than initially identified (autism + ADHD/dyslexia at different life stages)
+
+### Version 1.0 (November 2025)
+**Initial review of ml_framework_personas-v0_2_3.yaml**
+
+---
+
 *Document prepared: November 2025*
-*Version: 1.0*
+*Current version: 1.1*
 *For: NHS Management and Leadership Framework Persona Development*
