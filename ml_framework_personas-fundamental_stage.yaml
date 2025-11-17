@@ -47,7 +47,7 @@ managementAndLeadershipFramework:
       diversityProfile:
         protectedCharacteristics:
           - characteristic: White British Jewish woman, age 29
-          - relevantContext: >
+            relevantContext: >
               Working class background. First in family to work in professional setting.
               Feel pressure to "speak properly" at work. Secular Jewish identity (not
               religiously observant but culturally Jewish). Grandparents Holocaust
@@ -75,7 +75,7 @@ managementAndLeadershipFramework:
             - Financial barriers to professional development (course costs, time off)
             - Antisemitic comments and conspiracy theories from patients/colleagues
             - Assumptions about wealth due to Jewish stereotypes
-            - "You don't look Jewish" comments
+            - '"You don''t look Jewish" comments'
             - Holocaust jokes or trivialization
             - Accusations of dual loyalty regarding Israel
             - Having to explain why secular Jewish identity still meaningful
@@ -181,7 +181,7 @@ managementAndLeadershipFramework:
       diversityProfile:
         protectedCharacteristics:
           - characteristic: White Irish Traveller man, age 26, disabled (dyslexia and ADHD)
-          - relevantContext: >
+            relevantContext: >
               First in extended family to work in formal employment. Irish Traveller heritage
               (nomadic community background). Diagnosed with dyslexia and ADHD in early twenties
               after struggling through school. Medication helps manage ADHD but still faces
@@ -334,7 +334,7 @@ managementAndLeadershipFramework:
       diversityProfile:
         protectedCharacteristics:
           - characteristic: Mixed heritage (Black Caribbean and White British) woman, age 22, care-experienced
-          - relevantContext: >
+            relevantContext: >
               In care system age 12-18 (kinship care with grandmother after mother's mental
               health crisis). Grandmother died during first year of care work. Mother has
               schizophrenia, relationship is intermittent. Experience of care system and
@@ -488,7 +488,7 @@ managementAndLeadershipFramework:
       diversityProfile:
         protectedCharacteristics:
           - characteristic: British Indian woman, age 27, disabled (chronic pain condition - hypermobility EDS)
-          - relevantContext: >
+            relevantContext: >
               Diagnosed with Ehlers-Danlos Syndrome (hypermobility type) age 24 after years
               of being told pain was 'psychosomatic'. Condition causes chronic pain, fatigue,
               and joint instability. Uses mobility aids intermittently (stick, wheelchair on

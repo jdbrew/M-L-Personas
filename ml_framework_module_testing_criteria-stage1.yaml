@@ -75,6 +75,43 @@ managementAndLeadershipFramework:
         - Will this help me advocate for Black women's health without being silenced?
         - Does it recognise emotional labour of navigating multiple identity expectations?
 
+      moduleTestingScenarios:
+        scenario1:
+          competency: Build relationships
+          testQuestion: >
+            Does module help build relationships across teams to address maternal
+            health inequalities? Does it address navigating power dynamics when
+            advocating for Black women's health?
+          evaluationCriteria:
+            - Provides frameworks for cross-team relationship building
+            - Addresses power dynamics in advocacy conversations
+            - Helps build strategic partnerships to improve maternal outcomes
+            - Recognises emotional labour of advocating while experiencing discrimination
+
+        scenario2:
+          competency: Respond to patient safety concerns, needs and preferences
+          testQuestion: >
+            Does module connect maternal health inequalities to patient safety?
+            Does it help me translate patient feedback into service improvements
+            without being silenced?
+          evaluationCriteria:
+            - Links health inequalities to patient safety frameworks
+            - Provides strategies for translating patient feedback to action
+            - Addresses resistance to acknowledging racial health inequalities
+            - Values lived experience as evidence for improvement
+
+        scenario3:
+          competency: Personalise care
+          testQuestion: >
+            Does module address personalising care for diverse communities?
+            Does it help me advocate for culturally appropriate care without
+            being dismissed as "difficult"?
+          evaluationCriteria:
+            - Addresses cultural competence in personalised care
+            - Provides frameworks for advocating for diverse patient needs
+            - Helps navigate being labelled "angry" or "difficult" when challenging practice
+            - Recognises intersectionality in care needs
+
     - personaId: Persona 7
       role: Community Pharmacist
       diversityContext: British Pakistani woman, Muslim, disabled (wheelchair user - spinal cord injury)
@@ -91,6 +128,44 @@ managementAndLeadershipFramework:
         - Will this help me navigate stereotyping about Muslim women as submissive?
         - Does it address security targeting and surveillance of Muslim staff?
 
+      moduleTestingScenarios:
+        scenario1:
+          competency: Build engagement
+          testQuestion: >
+            Does module help build engagement across diverse teams? Does it
+            address creating inclusive environments for disabled, Muslim, and
+            minoritised staff?
+          evaluationCriteria:
+            - Provides frameworks for inclusive team engagement
+            - Addresses multiple intersecting barriers (disability, race, religion)
+            - Helps create workplace culture that accommodates diverse needs
+            - Challenges assumptions about "ideal worker" as able-bodied, white, non-religious
+
+        scenario2:
+          competency: Lead a collaborative team
+          testQuestion: >
+            Does module help lead collaborative teams across different
+            professionals? Does it address accessibility and inclusion in
+            team leadership?
+          evaluationCriteria:
+            - Provides strategies for cross-professional team leadership
+            - Addresses physical and attitudinal accessibility in team working
+            - Helps navigate leading while experiencing compound discrimination
+            - Values diverse leadership styles and approaches
+
+        scenario3:
+          competency: Make sure people feel safe in the workplace
+          testQuestion: >
+            Does module address creating psychologically and physically safe
+            workplaces for disabled, Muslim, and minoritised staff? Does it
+            help me address Islamophobia and ableism?
+          evaluationCriteria:
+            - Addresses multiple dimensions of workplace safety (physical, psychological, cultural)
+            - Provides frameworks for addressing discrimination and microaggressions
+            - Helps create policies for religious accommodation and accessibility
+            - Recognises compound impact of intersecting marginalisation
+            - Values reporting and addressing safety concerns as leadership responsibility
+
     - personaId: Persona 8
       role: Ward Nurse
       diversityContext: Filipino woman, internationally recruited nurse, visa restrictions
@@ -101,6 +176,44 @@ managementAndLeadershipFramework:
         - Will this help me advocate for myself despite precarious status?
         - Does it challenge stereotypes about international nurses?
         - Does it address exploitation in international recruitment?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Influence, negotiate and manage upwards
+          testQuestion: >
+            Does module help navigate UK NHS hierarchies and manage upwards
+            despite precarious visa status? Does it address power imbalances
+            for international staff?
+          evaluationCriteria:
+            - Provides frameworks for influencing despite limited power
+            - Addresses managing upwards in unfamiliar UK context
+            - Helps navigate speaking up when employment is precarious
+            - Recognises vulnerability created by visa restrictions
+            - Provides strategies for professional advocacy without risking employment
+
+        scenario2:
+          competency: Build relationships
+          testQuestion: >
+            Does module help build relationships across teams when experiencing
+            discrimination? Does it address navigating informal networks as
+            international staff?
+          evaluationCriteria:
+            - Addresses building relationships despite discrimination
+            - Helps navigate informal power structures and networks
+            - Provides strategies for inclusion despite "outsider" status
+            - Recognises barriers international staff face in relationship building
+
+        scenario3:
+          competency: Communicate with clarity and purpose
+          testQuestion: >
+            Does module help communicate effectively across cultural contexts?
+            Does it address navigating language and accent-based discrimination?
+          evaluationCriteria:
+            - Addresses cross-cultural communication in UK NHS
+            - Helps communicate authoritatively despite accent discrimination
+            - Provides frameworks for clarity when English is additional language
+            - Challenges assumptions linking accent to competence
+            - Values diverse communication styles
 
     - personaId: Persona 9
       role: Estates Manager
@@ -117,6 +230,46 @@ managementAndLeadershipFramework:
         - Will this help me advocate for communication access as basic workplace need?
         - Does it address adjustments for deaf staff as rights not favours?
         - Does it recognise exhaustion from constant cognitive effort to communicate?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Use data, evidence and critical thinking
+          testQuestion: >
+            Does module help use technical data for leadership decisions? Does
+            it help communicate data insights to non-technical audiences and
+            clinical leaders?
+          evaluationCriteria:
+            - Values technical expertise as leadership capability
+            - Provides frameworks for evidence-based decision making
+            - Helps translate technical data for diverse audiences
+            - Addresses credibility challenges for non-clinical leaders
+            - Recognises operational knowledge as strategic insight
+
+        scenario2:
+          competency: Prioritise for personal productivity
+          testQuestion: >
+            Does module address personal productivity for deaf/hard of hearing
+            staff? Does it recognise exhaustion from constant communication effort
+            and need for different working patterns?
+          evaluationCriteria:
+            - Addresses accessibility needs in productivity strategies
+            - Recognises cognitive load of communication access
+            - Provides flexible approaches to time management
+            - Values different working patterns and styles
+            - Helps advocate for reasonable adjustments as enabling productivity
+
+        scenario3:
+          competency: Manage challenges
+          testQuestion: >
+            Does module help manage challenges when estates function is
+            undervalued? Does it address advocating for non-clinical services
+            and addressing class-based bias?
+          evaluationCriteria:
+            - Provides frameworks for navigating undervaluation of function
+            - Addresses managing challenges from position of limited power
+            - Helps advocate for recognition without being defensive
+            - Recognises class and educational background as barriers
+            - Values vocational and technical pathways to leadership
 
   crossCuttingEvaluationThemes:
     theme1:

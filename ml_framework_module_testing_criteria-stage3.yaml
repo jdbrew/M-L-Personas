@@ -35,7 +35,7 @@ managementAndLeadershipFramework:
 
       moduleTestingScenarios:
         scenario1:
-          competency: Make sure patients' safety, experience and outcomes are central
+          competency: Respond to patient safety concerns, needs and preferences
           testQuestion: >
             Does module connect staff safety to patient safety? Does it
             address how safety gets sidelined in operational pressures?
@@ -55,7 +55,7 @@ managementAndLeadershipFramework:
             - Connects governance to culture and practice
 
         scenario3:
-          competency: Lead and embed organisational change
+          competency: Support others through change
           testQuestion: >
             Does module acknowledge that culture change takes years not months?
             Does it value long-term commitment and organisational memory?
@@ -92,7 +92,7 @@ managementAndLeadershipFramework:
             - Values clinical expertise in equity as innovation
 
         scenario2:
-          competency: Build networks and strategic relationships
+          competency: Build relationships
           testQuestion: >
             Does module help me build research partnerships to improve care
             for diverse skin tones? Does it address navigating academic
@@ -107,7 +107,7 @@ managementAndLeadershipFramework:
             - Acknowledges psychological burden of being 'only' or 'one of few' Black doctors
 
         scenario3:
-          competency: Lead initiatives to address health inequalities
+          competency: Personalise care
           testQuestion: >
             Does module connect clinical leadership to health equity? Does
             it recognise that addressing health inequalities may challenge

@@ -33,6 +33,41 @@ managementAndLeadershipFramework:
         - Does it address phased retirement and flexible working for older workers?
         - Does it recognise different career stages require different approaches?
 
+      moduleTestingScenarios:
+        scenario1:
+          competency: Allocate and optimise the use of resources
+          testQuestion: >
+            Does module help allocate resources strategically in commissioning?
+            Does it value long-term organisational knowledge in resource decisions
+            despite ageism?
+          evaluationCriteria:
+            - Provides frameworks for strategic resource allocation
+            - Values experiential knowledge in commissioning decisions
+            - Addresses resistance to older workers' contributions
+            - Helps translate long-term system knowledge to resource planning
+
+        scenario2:
+          competency: Influence, negotiate and manage upwards
+          testQuestion: >
+            Does module help influence system leaders while experiencing ageism?
+            Does it address managing upwards when facing retirement assumptions?
+          evaluationCriteria:
+            - Addresses navigating ageist assumptions in senior conversations
+            - Provides strategies for maintaining influence approaching retirement
+            - Helps manage upwards when credibility is questioned
+            - Recognises value of intergenerational perspectives
+
+        scenario3:
+          competency: Use data, evidence and critical thinking
+          testQuestion: >
+            Does module help use data for strategic commissioning decisions?
+            Does it address balancing data literacy with experiential knowledge?
+          evaluationCriteria:
+            - Provides frameworks for evidence-based commissioning
+            - Values both data and long-term system knowledge
+            - Addresses digital expectations without ageist assumptions
+            - Helps communicate data insights across generations
+
     - personaId: Persona 11
       role: HR Manager
       diversityContext: Black British (Ghanaian) woman, new to NHS, compressed hours, childcare
@@ -43,6 +78,42 @@ managementAndLeadershipFramework:
         - Will this help me establish credibility as "new to NHS" with external expertise?
         - Does it address being positioned as "diversity expert" due to identity?
         - Does it help me use HR role to challenge inequity not just manage process?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Encourage open dialogue and feedback
+          testQuestion: >
+            Does module help create cultures of open dialogue on equity issues?
+            Does it help me use HR role to encourage feedback without being
+            positioned solely as "diversity expert"?
+          evaluationCriteria:
+            - Provides frameworks for encouraging honest dialogue on difficult topics
+            - Addresses HR role in creating psychologically safe feedback cultures
+            - Helps navigate being tokenised as diversity expert
+            - Values external expertise while building NHS-specific knowledge
+
+        scenario2:
+          competency: Make sure people feel safe in the workplace
+          testQuestion: >
+            Does module help create safe workplaces for diverse staff? Does it
+            address balancing compressed hours with full leadership accountability?
+          evaluationCriteria:
+            - Provides HR frameworks for workplace safety and inclusion
+            - Addresses flexible working without compromising leadership impact
+            - Helps challenge assumptions about part-time/compressed hours work
+            - Recognises structural barriers to safety for minoritised staff
+
+        scenario3:
+          competency: Manage with civility and compassion
+          testQuestion: >
+            Does module help manage HR processes with civility while
+            challenging inequity? Does it address care work as strategic
+            function?
+          evaluationCriteria:
+            - Addresses compassionate approaches to difficult HR decisions
+            - Helps balance procedural fairness with structural change
+            - Recognises caring responsibilities as leadership context not deficit
+            - Values using HR function for equity not just compliance
 
     - personaId: Persona 12
       role: Specialist Healthcare Scientist
@@ -55,6 +126,41 @@ managementAndLeadershipFramework:
         - Does it address managing career progression with caring responsibilities?
         - Does it recognise different professionals' contributions (not just medicine/nursing)?
 
+      moduleTestingScenarios:
+        scenario1:
+          competency: Build engagement
+          testQuestion: >
+            Does module help build engagement across scientific and clinical
+            teams? Does it value healthcare scientist expertise in leadership?
+          evaluationCriteria:
+            - Recognises diverse professional contributions beyond medicine/nursing
+            - Provides frameworks for cross-professional engagement
+            - Addresses credibility challenges for non-medical leaders
+            - Values specialist scientific knowledge as leadership capability
+
+        scenario2:
+          competency: Manage and measure performance
+          testQuestion: >
+            Does module help manage performance with caring responsibilities?
+            Does it address flexible approaches to team management?
+          evaluationCriteria:
+            - Addresses performance management from non-standard working patterns
+            - Provides flexible frameworks for team leadership
+            - Recognises caring responsibilities as context not limitation
+            - Helps advocate for development during working hours
+
+        scenario3:
+          competency: Commit to continuing professional development
+          testQuestion: >
+            Does module help maintain CPD with caring responsibilities for
+            child with special needs? Does it address systemic barriers to
+            development?
+          evaluationCriteria:
+            - Provides accessible approaches to professional development
+            - Addresses structural barriers for carers
+            - Recognises need for flexible, working-hours development
+            - Values diverse paths to leadership development
+
     - personaId: Persona 13
       role: Lead Vehicle Engineer
       diversityContext: White British man, disabled (acquired mobility impairment), carer for elderly parent
@@ -65,6 +171,42 @@ managementAndLeadershipFramework:
         - Will this help me navigate career progression with disability and caring responsibilities?
         - Does it address career paths for technical/non-clinical professionals?
         - Does it recognise men as carers without treating it as exceptional?
+        - Is this module accessible for disabled learners (physical accessibility, reasonable adjustments, flexible pacing)?
+        - Does it address workplace accessibility needs as enabling rather than limiting?
+      moduleTestingScenarios:
+        scenario1:
+          competency: Transform through technology and innovation
+          testQuestion: >
+            Does module help use technical innovation for service improvement?
+            Does it value operational and engineering expertise in transformation?
+          evaluationCriteria:
+            - Recognises technical expertise as transformation capability
+            - Provides frameworks for technology-led improvement
+            - Values operational knowledge in innovation decisions
+            - Addresses accessibility in technology transformation
+
+        scenario2:
+          competency: Allocate and optimise the use of resources
+          testQuestion: >
+            Does module help optimise resources in operational services? Does
+            it address managing with disability and caring responsibilities?
+          evaluationCriteria:
+            - Provides frameworks for operational resource optimisation
+            - Addresses managing resources with access needs
+            - Recognises caring responsibilities in work planning
+            - Values diverse approaches to efficiency
+
+        scenario3:
+          competency: Manage challenges
+          testQuestion: >
+            Does module help manage challenges when technical services are
+            undervalued? Does it address disability and carer discrimination?
+          evaluationCriteria:
+            - Addresses navigating undervaluation of technical functions
+            - Provides strategies for managing with disability
+            - Recognises caring responsibilities as context
+            - Helps advocate for accessibility as enabling not limiting
+
 
     - personaId: Persona 14
       role: Senior House Officer (General Surgery)
@@ -76,6 +218,40 @@ managementAndLeadershipFramework:
         - Will this help me develop authentic leadership style despite stereotypes?
         - Does it address leading from junior positions in hierarchical structures?
         - Does it recognise that supportive leadership isn't "soft" or weak?
+      moduleTestingScenarios:
+        scenario1:
+          competency: Manage conflict and sensitive conversations
+          testQuestion: >
+            Does module help manage conflict in hierarchical surgery environments?
+            Does it address challenging discrimination while junior?
+          evaluationCriteria:
+            - Addresses navigating hierarchy in conflict situations
+            - Provides frameworks for sensitive conversations from junior position
+            - Helps challenge gender and racial stereotypes professionally
+            - Recognises power dynamics in male-dominated specialties
+
+        scenario2:
+          competency: Build relationships
+          testQuestion: >
+            Does module help build relationships despite model minority
+            stereotyping? Does it address authentic relationship-building?
+          evaluationCriteria:
+            - Addresses building relationships while experiencing stereotyping
+            - Helps develop authentic leadership style
+            - Navigates expectations about "quiet" Asian women
+            - Values diverse relationship-building approaches
+
+        scenario3:
+          competency: Take accountability for my actions
+          testQuestion: >
+            Does module help take accountability in surgical hierarchies? Does
+            it address balancing assertiveness with avoiding "aggressive" label?
+          evaluationCriteria:
+            - Provides frameworks for accountability in hierarchical contexts
+            - Addresses stereotypes about Asian women leaders
+            - Helps navigate tone policing and double standards
+            - Values different communication styles in accountability
+
 
     - personaId: Persona 15
       role: Lead Psychological Wellbeing Practitioner
@@ -88,6 +264,41 @@ managementAndLeadershipFramework:
         - Does it address advocating for staff wellbeing as leadership priority?
         - Does it recognise PWPs' contribution and career development needs?
 
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Be visible, transparent, and present
+          testQuestion: >
+            Does module help lead dispersed teams with visibility? Does it
+            address remote leadership and mental health stigma?
+          evaluationCriteria:
+            - Provides frameworks for visible leadership across geography
+            - Addresses remote/distributed team leadership
+            - Helps navigate disclosure of lived mental health experience
+            - Values diverse approaches to presence and visibility
+
+        scenario2:
+          competency: Share good practice
+          testQuestion: >
+            Does module help share wellbeing practice across teams? Does it
+            value lived experience as professional insight?
+          evaluationCriteria:
+            - Provides frameworks for sharing practice in psychological wellbeing
+            - Recognises lived experience as valuable knowledge
+            - Addresses barriers to knowledge sharing in dispersed teams
+            - Values PWP contribution to broader service development
+
+        scenario3:
+          competency: Lead a collaborative team
+          testQuestion: >
+            Does module help lead geographically dispersed teams? Does it
+            address staff wellbeing as leadership priority?
+          evaluationCriteria:
+            - Addresses leading teams across multiple sites
+            - Provides frameworks for maintaining team cohesion remotely
+            - Helps advocate for staff wellbeing strategically
+            - Recognises that wellbeing leaders need support too
+
     - personaId: Persona 16
       role: Head of Neighbourhood Teams
       diversityContext: Mixed heritage (White British/Pakistani) Muslim woman, system leadership
@@ -98,6 +309,40 @@ managementAndLeadershipFramework:
         - Will this help me navigate system leadership as Muslim woman of colour?
         - Does it address leading across organisations without direct authority?
         - Does it help me advocate for equity in integrated care?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Build engagement
+          testQuestion: >
+            Does module help build engagement across system partners? Does it
+            address religious accommodation and mixed heritage identity?
+          evaluationCriteria:
+            - Provides frameworks for system-level engagement
+            - Addresses religious needs as legitimate workplace requirement
+            - Helps navigate assumptions about Muslim women's authority
+            - Values diverse cultural perspectives in system leadership
+
+        scenario2:
+          competency: Manage conflict and sensitive conversations
+          testQuestion: >
+            Does module help manage sensitive conversations about equity and
+            integration? Does it address conflict in system leadership?
+          evaluationCriteria:
+            - Addresses managing conflict across organisational boundaries
+            - Provides frameworks for equity conversations in integrated care
+            - Helps navigate religious and cultural stereotyping in conflict
+            - Values different cultural approaches to conflict resolution
+
+        scenario3:
+          competency: Provide clear purpose, vision, and deliverables
+          testQuestion: >
+            Does module help articulate vision for integrated care? Does it
+            address leading system change with limited formal authority?
+          evaluationCriteria:
+            - Provides frameworks for articulating system vision
+            - Addresses influencing without hierarchical power
+            - Helps navigate multiple stakeholder expectations
+            - Values collaborative approaches to vision-setting
 
     - personaId: Persona 17
       role: Assistant Director of Finance
@@ -111,6 +356,40 @@ managementAndLeadershipFramework:
         - Does it recognise Sikh identity distinct from Muslim identity?
         - Does it address accommodation of religious observance and articles of faith?
         - Do security/infection control examples consider religious articles appropriately?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Maximise outputs and get best value for public money
+          testQuestion: >
+            Does module help achieve value in NHS finance? Does it address
+            navigating discrimination while managing resources?
+          evaluationCriteria:
+            - Provides frameworks for value-based resource management
+            - Addresses financial leadership with integrity
+            - Helps navigate religious discrimination in finance role
+            - Values ethical approaches to efficiency and value
+
+        scenario2:
+          competency: Use data, evidence and critical thinking
+          testQuestion: >
+            Does module help use financial data for strategic decisions? Does
+            it address communicating complex finance across cultural contexts?
+          evaluationCriteria:
+            - Provides frameworks for financial analysis and insight
+            - Addresses translating finance for non-finance leaders
+            - Helps communicate authoritatively despite stereotyping
+            - Values diverse perspectives in financial leadership
+
+        scenario3:
+          competency: Implement policies and ensure good governance
+          testQuestion: >
+            Does module help ensure financial governance? Does it address
+            religious accommodation in professional practice?
+          evaluationCriteria:
+            - Provides frameworks for robust financial governance
+            - Addresses religious needs in professional context
+            - Helps balance transparency with cultural sensitivity
+            - Values integrity across different cultural frameworks
 
     - personaId: Persona 18
       role: Primary Care Practice Manager
@@ -128,6 +407,40 @@ managementAndLeadershipFramework:
         - Will this help me advocate for organisational cognitive accessibility?
         - Does it recognise neurodivergent thinking styles as leadership strengths?
 
+      moduleTestingScenarios:
+        scenario1:
+          competency: Manage and measure performance
+          testQuestion: >
+            Does module help manage performance in primary care? Does it
+            address leading part-time with neurodivergence?
+          evaluationCriteria:
+            - Provides accessible frameworks for performance management
+            - Addresses neurodivergent approaches to organisation and systems
+            - Helps manage from part-time senior position
+            - Values diverse cognitive and working styles
+
+        scenario2:
+          competency: Share good practice
+          testQuestion: >
+            Does module help share practice across primary care network? Does
+            it provide neurodivergent-accessible approaches?
+          evaluationCriteria:
+            - Addresses knowledge sharing in primary care contexts
+            - Provides multiple formats for sharing practice
+            - Recognises neurodivergent strengths in pattern recognition
+            - Values diverse approaches to documentation and sharing
+
+        scenario3:
+          competency: Prioritise for personal productivity
+          testQuestion: >
+            Does module address productivity with dyslexia and ADHD? Does it
+            recognise neurodivergent organisational strategies?
+          evaluationCriteria:
+            - Provides neurodivergent-accessible productivity frameworks
+            - Addresses managing cognitive load and executive function
+            - Helps advocate for adjustments as enabling productivity
+            - Values diverse approaches to organisation and prioritisation
+
     - personaId: Persona 19
       role: Information Governance Lead
       diversityContext: British Chinese (Hong Kong heritage) man, bamboo ceiling, model minority stereotypes
@@ -139,6 +452,40 @@ managementAndLeadershipFramework:
         - Does it address bamboo ceiling and career progression barriers?
         - Does it recognise racism beyond Black/white binary?
 
+      moduleTestingScenarios:
+        scenario1:
+          competency: Implement policies and ensure good governance
+          testQuestion: >
+            Does module help implement IG governance? Does it value technical
+            specialist expertise as strategic leadership?
+          evaluationCriteria:
+            - Provides frameworks for information governance leadership
+            - Values specialist technical knowledge strategically
+            - Addresses credibility challenges for East Asian leaders
+            - Helps translate technical governance for diverse audiences
+
+        scenario2:
+          competency: Influence, negotiate and manage upwards
+          testQuestion: >
+            Does module help influence senior leaders on governance? Does it
+            address bamboo ceiling and model minority stereotypes?
+          evaluationCriteria:
+            - Addresses influencing upwards as technical specialist
+            - Provides strategies for navigating bamboo ceiling
+            - Helps challenge assumptions about East Asian staff
+            - Values expertise beyond stereotyped "technical" roles
+
+        scenario3:
+          competency: Communicate with clarity and purpose
+          testQuestion: >
+            Does module help communicate complex IG clearly? Does it address
+            navigating stereotypes about communication styles?
+          evaluationCriteria:
+            - Provides frameworks for translating technical content
+            - Addresses communicating authoritatively despite stereotypes
+            - Helps navigate assumptions about communication preferences
+            - Values diverse communication approaches
+
     - personaId: Persona 20
       role: Primary Care Operations Lead (ICB)
       diversityContext: Indian (Kerala heritage) migrant woman, international healthcare experience, NHS newcomer
@@ -149,6 +496,40 @@ managementAndLeadershipFramework:
         - Will this help me navigate as "outsider" in NHS culture?
         - Does it address accent discrimination and communication bias?
         - Does it recognise challenges of learning NHS-specific context?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Build relationships
+          testQuestion: >
+            Does module help build relationships as NHS newcomer? Does it value
+            international experience in UK context?
+          evaluationCriteria:
+            - Addresses building credibility as new to NHS
+            - Values international healthcare experience
+            - Helps navigate insider/outsider dynamics
+            - Provides frameworks for relationship-building across cultures
+
+        scenario2:
+          competency: Manage and measure performance
+          testQuestion: >
+            Does module help measure performance in primary care operations?
+            Does it address translating international expertise to NHS?
+          evaluationCriteria:
+            - Provides performance frameworks for primary care systems
+            - Addresses applying international experience in UK context
+            - Helps establish credibility despite being "outsider"
+            - Values diverse operational experience
+
+        scenario3:
+          competency: Use data, evidence and critical thinking
+          testQuestion: >
+            Does module help use data for operational decisions? Does it
+            address communicating insights across cultural contexts?
+          evaluationCriteria:
+            - Provides frameworks for data-driven operations management
+            - Addresses cross-cultural communication of evidence
+            - Helps translate international best practice to UK
+            - Values diverse perspectives in evidence interpretation
 
   crossCuttingEvaluationThemes:
     theme1:
