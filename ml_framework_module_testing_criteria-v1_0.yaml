@@ -480,6 +480,44 @@ managementAndLeadershipFramework:
         - Does it address health inequalities in specialty-specific contexts?
         - Does it recognise barriers Black doctors face in career progression?
 
+      moduleTestingScenarios:
+        scenario1:
+          competency: Drive continuous improvement and innovation
+          testQuestion: >
+            Does module address improving services for diverse populations?
+            Does it recognise that medical specialties often centre white
+            patient needs? Does it help me advocate for skin-of-colour
+            dermatology without being dismissed?
+          evaluationCriteria:
+            - Addresses health inequalities in specialty-specific contexts
+            - Recognises how medical education and research centre whiteness
+            - Provides frameworks for advocating for diverse patient needs
+            - Values clinical expertise in equity as innovation
+
+        scenario2:
+          competency: Build networks and strategic relationships
+          testQuestion: >
+            Does module help me build research partnerships to improve care
+            for diverse skin tones? Does it address navigating academic
+            networks where Black doctors underrepresented?
+          evaluationCriteria:
+            - Addresses barriers to research partnerships for minoritised doctors
+            - Values raising profile of underserved conditions
+            - Provides strategies for building influence beyond clinical role
+            - Recognises importance of representation in academic medicine
+
+        scenario3:
+          competency: Lead initiatives to address health inequalities
+          testQuestion: >
+            Does module connect clinical leadership to health equity? Does
+            it recognise that addressing health inequalities may challenge
+            specialty norms? Does it help me lead without being tone-policed?
+          evaluationCriteria:
+            - Links specialty-specific practice to health inequalities
+            - Addresses resistance to changing established practices
+            - Provides frameworks for challenging specialty cultures
+            - Recognises intersections of race and gender in medical leadership
+
   - stageName: 'Stage 4: Executive managers and leaders'
     personas:
     
