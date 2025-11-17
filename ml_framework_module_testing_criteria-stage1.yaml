@@ -1,0 +1,223 @@
+version: "1.0"
+managementAndLeadershipFramework:
+  documentName: Module Testing Criteria and Evaluation Questions
+  documentPurpose: >
+    This document contains evaluation questions and testing scenarios for assessing
+    whether learning modules genuinely address power, difference, inclusion, and
+    transformational learning as specified in the design guidelines. These criteria
+    are derived from the diverse personas across all stages of the framework and
+    support gap-analysis testing of module design and content.
+
+  usageGuidance: >
+    Use these questions and scenarios to test modules against:
+    - Design Principle 10 (Difference, diversity, inclusion, and power as golden thread)
+    - P + Q = L formula (transformational inquiry not just information)
+    - I-We-It integration
+    - Level-appropriate complexity
+    - Accessibility and inclusion
+    - Evidence gathering support
+    - Acknowledgment of limitations
+
+  stages:
+  - stageName: 'Stage 1: New and first-line managers and leaders'
+    personas:
+
+    - personaId: Persona 5
+      role: Senior Community Speech and Language Therapist
+      diversityContext: White British woman, bisexual (not out at work), heteronormative assumptions
+
+      moduleEvaluationQuestions:
+        - Does this module assume heterosexual norms in examples of relationships/family?
+        - Does it address creating inclusive environments for LGBTQ+ staff and patients?
+        - Will this help me navigate being authentic while managing a team?
+        - Does it recognise invisible labour of managing disclosure decisions?
+        - Does it help challenge heteronormative assumptions without outing myself?
+
+      moduleTestingScenarios:
+        scenario1:
+          competency: Manage conflict and sensitive conversations
+          testQuestion: >
+            Does module provide practical frameworks for difficult conversations?
+            Does it address the emotional dimension of accountability conversations?
+          evaluationCriteria:
+            - Provides structured approaches to difficult conversations
+            - Addresses emotional labour and anxiety
+            - Balances support with accountability
+
+        scenario2:
+          competency: Manage and measure performance
+          testQuestion: >
+            Does module help me understand how to measure and improve performance
+            in professional roles? Does it address transition from peer to manager?
+          evaluationCriteria:
+            - Explains performance management in professional contexts
+            - Addresses identity shift peer to manager
+            - Offers strategies for measuring qualitative work
+
+        scenario3:
+          competency: Communicate with clarity and purpose
+          testQuestion: >
+            Does module address communication with team vs with patients?
+            Does it help me develop authentic leadership voice?
+          evaluationCriteria:
+            - Distinguishes managerial from clinical communication
+            - Addresses authenticity and authority
+            - Helps develop individual leadership voice
+
+    - personaId: Persona 6
+      role: Midwife
+      diversityContext: Mixed heritage (Black Caribbean/White British) woman, maternal health inequalities advocate
+
+      moduleEvaluationQuestions:
+        - Does this module address racism in healthcare, specifically maternal health inequalities?
+        - Does it recognise complexity of mixed heritage identities?
+        - Does it address colourism and privilege within racialised communities?
+        - Will this help me advocate for Black women's health without being silenced?
+        - Does it recognise emotional labour of navigating multiple identity expectations?
+
+    - personaId: Persona 7
+      role: Community Pharmacist
+      diversityContext: British Pakistani woman, Muslim, disabled (wheelchair user - spinal cord injury)
+
+      moduleEvaluationQuestions:
+        - Is this module accessible for disabled learners (captioning, screen reader compatible, flexible pacing)?
+        - Does it address ableism in healthcare leadership and progression?
+        - Does it recognise intersections of disability, race, and religion?
+        - Will this help me advocate for accessible workplaces and career paths?
+        - Does it challenge assumptions about disabled people's capability to lead?
+        - Does it explicitly address Islamophobia and religious discrimination?
+        - Do examples recognise hijab-wearing Muslim women face compound discrimination?
+        - Does it address how Ramadan and prayer times require workplace accommodation?
+        - Will this help me navigate stereotyping about Muslim women as submissive?
+        - Does it address security targeting and surveillance of Muslim staff?
+
+    - personaId: Persona 8
+      role: Ward Nurse
+      diversityContext: Filipino woman, internationally recruited nurse, visa restrictions
+
+      moduleEvaluationQuestions:
+        - Does this module address discrimination against international staff?
+        - Does it recognise vulnerability created by visa restrictions?
+        - Will this help me advocate for myself despite precarious status?
+        - Does it challenge stereotypes about international nurses?
+        - Does it address exploitation in international recruitment?
+
+    - personaId: Persona 9
+      role: Estates Manager
+      diversityContext: White British gay man, deaf/hard of hearing, working class background
+
+      moduleEvaluationQuestions:
+        - Does this module assume graduate or clinical professional background?
+        - Does it value technical and vocational expertise as leadership capability?
+        - Does it address heteronormative assumptions in examples?
+        - Will this help me advocate for estates function value and recognition?
+        - Does it recognise class background shapes leadership development?
+        - Is this module accessible for deaf/hard of hearing learners (captions, transcripts)?
+        - Does it challenge assumptions that communication means speaking and hearing?
+        - Will this help me advocate for communication access as basic workplace need?
+        - Does it address adjustments for deaf staff as rights not favours?
+        - Does it recognise exhaustion from constant cognitive effort to communicate?
+
+  crossCuttingEvaluationThemes:
+    theme1:
+      name: "Principle 10: Power, Difference, and Inclusion"
+      keyQuestions:
+        - Does the module treat diversity as integral to competency, not separate topic?
+        - Does it surface who has power, whose knowledge is privileged, whose voices are heard?
+        - Does it address structural inequalities, not just individual behaviour?
+        - Does it help participants recognise their own positionality and privilege?
+        - Does it provide frameworks for action, not just awareness?
+
+    theme2:
+      name: "Transformational Inquiry (Q component)"
+      keyQuestions:
+        - Does the module provoke genuine questioning of assumptions?
+        - Does it create discomfort that leads to transformed understanding?
+        - Is there space for critical reflection on power and practice?
+        - Does it challenge rather than confirm existing thinking?
+        - Does it move beyond information transfer to transformation?
+
+    theme3:
+      name: "Accessibility and Universal Design"
+      keyQuestions:
+        - Does the module work for diverse learning needs and access requirements?
+        - Are examples and language accessible across educational backgrounds?
+        - Does it assume standard working patterns and availability?
+        - Can it be accessed flexibly across time zones, shifts, caring responsibilities?
+        - Does it provide multiple entry points and formats?
+
+    theme4:
+      name: "Contextualisation and Application"
+      keyQuestions:
+        - Does the module prompt participants to translate to their specific context?
+        - Does it recognise diverse NHS roles, settings, and contexts?
+        - Does it address practical constraints and systemic pressures?
+        - Does it avoid generic examples that assume particular contexts?
+        - Does it help participants navigate their unique situation?
+
+    theme5:
+      name: "Evidence Gathering and Competency Assessment"
+      keyQuestions:
+        - Does the module clearly guide what evidence demonstrates competency?
+        - Does it acknowledge completion ≠ competency achievement?
+        - Does it provide realistic timeframes for evidence gathering?
+        - Does it direct toward formal assessment processes?
+        - Does it support ongoing practice-based evidence collection?
+
+    theme6:
+      name: "Level-Appropriate Complexity"
+      keyQuestions:
+        - Is conceptual complexity appropriate for the stage?
+        - Does scope match organisational perspective (team/service/system)?
+        - Is balance of guidance vs exploration appropriate?
+        - Does it respect developmental readiness?
+        - Does it avoid patronising or overwhelming?
+
+    theme7:
+      name: "Integration Across I-We-It"
+      keyQuestions:
+        - Does module address personal mastery (I) dimension?
+        - Does it address relational capability (We) dimension?
+        - Does it address operational effectiveness (It) dimension?
+        - Does it show how these integrate rather than separate?
+        - Does it avoid fragmented skill development?
+
+    theme8:
+      name: "Acknowledgment of Limitations"
+      keyQuestions:
+        - Does module explicitly state what it cannot achieve?
+        - Does it acknowledge 2-hour engagement cannot complete development?
+        - Does it direct toward deeper learning opportunities?
+        - Does it signpost peer learning, mentoring, programmes?
+        - Is it honest about module scope and purpose?
+
+  applicationGuidance:
+    forModuleDesigners: >
+      Use these questions during module design to test whether content genuinely
+      addresses power, inclusion, and transformational learning. Select questions
+      most relevant to the specific competency and stage. Ensure at least one
+      question from each cross-cutting theme is considered.
+
+    forModuleReviewers: >
+      Use these questions to evaluate draft modules. Look for evidence that the
+      module addresses the questions, not just mentions diversity. Check whether
+      examples, activities, and prompts genuinely engage with power and difference
+      rather than treating them as add-ons.
+
+    forModulePilotTesters: >
+      Use personas and their evaluation questions to test modules from diverse
+      perspectives. Ask: "If I were [persona], would this module work for me?
+      Would it address my specific barriers? Would it help me develop this competency
+      in my context?"
+
+    forQualityAssurance: >
+      Use cross-cutting themes as quality standards. All modules should address
+      Principle 10, provide transformational inquiry, be accessible, support
+      contextualisation, guide evidence gathering, match level, integrate I-We-It,
+      and acknowledge limitations.
+
+    iterativeDevelopment: >
+      These questions should be used throughout iterative design cycles, not as
+      one-time checklist. Return to them repeatedly as modules develop. Use them
+      to identify gaps, refine content, and ensure genuine inclusion rather than
+      superficial diversity references.
