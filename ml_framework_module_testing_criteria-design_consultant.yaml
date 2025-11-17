@@ -1,0 +1,680 @@
+version: "1.0"
+managementAndLeadershipFramework:
+  documentName: Integrated Module Testing Criteria - Design Perspective
+  documentPurpose: >
+    This document provides comprehensive testing criteria for evaluating whether learning
+    modules genuinely address power, difference, inclusion, and transformational learning
+    as specified in the design guidelines. These criteria integrate psychodynamic,
+    humanistic, and critical pedagogical perspectives to enable rigorous gap-analysis
+    testing of module design and content.
+
+  usageGuidance: >
+    Use these criteria to test modules against the integrated theoretical framework:
+    - Psychodynamic depth (unconscious processes, authority, defence, transference)
+    - Humanistic principles (self-direction, genuineness, unconditional positive regard)
+    - Critical pedagogy (power, conscientisation, praxis, dialogue)
+    - Systems thinking (complexity, emergence, relational constitution)
+    - Experiential learning (multiple entry points, sustained cycles)
+    
+    Each criterion includes theoretical foundation, testing questions, evaluation
+    scenarios, and red flags indicating failure to meet the standard.
+
+  testingCriteria:
+
+  - criterionId: criterion_1
+    title: Transformational Inquiry Creating Genuine Q
+    theoreticalFoundation:
+      - Revans' L = P + Q formula
+      - Critical pedagogy (problem-posing vs banking education)
+      - Humanistic trust in actualising tendency
+    
+    statement: >
+      Modules must provide programmed knowledge (P) alongside rigorous questioning insight
+      (Q) that genuinely challenges assumptions and transforms understanding. Q component
+      must create problem-posing education where participants construct understanding rather
+      than banking education where they receive answers.
+    
+    testingQuestions:
+      consciousReflection:
+        - Does Q genuinely provoke challenged assumptions, or simply ask participants to reflect on predetermined conclusions?
+        - Can participants leave with genuinely transformed conceptual frameworks and productive discomfort, not just new vocabulary?
+      
+      powerAndComplicity:
+        - Are participants invited to question whose interests current leadership practices serve?
+        - Does inquiry engage both conscious reflection and unconscious dynamics (What threatens you? What defences arise)?
+      
+      selfDirection:
+        - Does the module trust participants to determine their own meaning-making, or subtly coerce toward "correct" answers?
+        - Does questioning engage participants as co-inquirers rather than position facilitator as expert with answers?
+    
+    evaluationScenarios:
+      scenario1:
+        context: White manager engaging with inclusive leadership content
+        transformationTest: >
+          Will they confront their own complicity in structural racism and psychological
+          costs of unearned privilege? Will they develop questions about how their whiteness
+          shapes their authority and relationships?
+        bankingEducationFailure: >
+          They simply learn "best practices" for managing diverse teams while leaving their
+          own position unexamined.
+        humanisticTest: >
+          Does the module trust them to work with difficult material, or does it either
+          avoid discomfort (protecting them) or shame them (forcing compliance)?
+      
+      scenario2:
+        context: Senior leader engaging with organisational change content
+        transformationTest: >
+          Will they examine their role in maintaining status quo, their defences against
+          acknowledging organisational anxiety, and how their positional power shapes what
+          change is possible?
+        bankingEducationFailure: >
+          They receive tools for implementing change on others while leaving their own
+          authority unquestioned.
+        criticalTest: >
+          Does the module help them see change as political struggle involving winners and
+          losers, or present it as neutral technical process?
+    
+    redFlags:
+      - Reflection prompts that can be answered without discomfort or genuine uncertainty
+      - Questions with implicit "right answers" rather than genuine inquiry
+      - Theory that pathologises individuals rather than examining systems
+      - Content that names power but doesn't require participants to examine their own position
+      - Absence of space for participants to question the module itself
+      - Teaching tone positioning facilitator as expert rather than co-inquirer
+
+  - criterionId: criterion_2
+    title: Humanistic Conditions Enabling Self-Direction
+    theoreticalFoundation:
+      - Humanistic psychology (Rogers)
+      - Self-managed learning (Knowles)
+      - Trust in actualising tendency
+    
+    statement: >
+      Modules must create conditions that enable self-directed learning through genuineness,
+      unconditional positive regard, and empathic understanding. Design must trust
+      participants' capacity for determining their own development while providing
+      structure that contains without controlling.
+    
+    testingQuestions:
+      genuineTrust:
+        - Does the module genuinely trust participants' capacity for self-direction, or subtly coerce toward predetermined outcomes?
+        - Can participants determine their own goals and pace, or does module impose standardised expectations?
+      
+      unconditionaPositiveRegard:
+        - Does design communicate that each person's development matters regardless of current capability?
+        - Is there space for resistance to be honoured rather than pathologised?
+      
+      genuineness:
+        - Does content acknowledge what the module cannot achieve and designer's own limitations?
+        - Is there honesty about where approaches might fail and what designer doesn't know?
+      
+      containmentWithoutControl:
+        - Does structure provide holding for anxiety without premature reassurance?
+        - Are multiple entry points provided, honouring different starting places?
+    
+    evaluationScenarios:
+      scenario1:
+        context: Participant sceptical of reflective practice
+        humanisticTest: >
+          Does the module honour their scepticism and invite them to determine what
+          approaches serve their development?
+        controlFailure: >
+          Module insists reflection is mandatory and treats resistance as problem to overcome.
+      
+      scenario2:
+        context: Participant at different starting point than module assumes
+        selfDirectionTest: >
+          Can they enter at their relevant point and construct meaningful learning pathway?
+        standardisationFailure: >
+          Module assumes single linear progression and doesn't accommodate different entry points.
+    
+    redFlags:
+      - Mandatory activities without alternative entry points
+      - Tone suggesting participants lack capacity and need expert guidance
+      - Design that pathologises resistance rather than working with it
+      - Absence of choice in how to engage with content
+      - Completion requirements disconnected from participant's actual learning needs
+      - Assessment mechanisms that enforce compliance rather than support self-evaluation
+
+  - criterionId: criterion_3
+    title: Power and Difference as Genuinely Integrated Golden Thread
+    theoreticalFoundation:
+      - Critical pedagogy (power analysis, conscientisation)
+      - Systems psychodynamic understanding of power
+      - Social construction (how naming reality shapes what's possible)
+      - Design Principle 10
+    
+    statement: >
+      Power dynamics, structural inequalities, and politics of difference must be explicitly
+      addressed throughout content as integral to the competency, not segregated into
+      diversity section. Content must examine how competencies operate differently based on
+      social location and analyse structural barriers using systems thinking.
+    
+    testingQuestions:
+      integration:
+        - Is power addressed explicitly throughout as integral to the competency, not in separate diversity section?
+        - Does module examine how the competency itself operates differently based on social location?
+      
+      structuralAnalysis:
+        - Are structural barriers named and analysed using systems thinking, not reduced to individual experiences?
+        - Does content examine power dynamics in the learning relationship itself?
+      
+      privilegeAndMarginality:
+        - Does content address both external power structures and internalised oppression/dominance?
+        - Whose knowledge is privileged and whose is marginalised?
+      
+      pedagogy:
+        - Does content acknowledge that teaching is never neutral and examine pedagogical assumptions?
+        - Are diverse perspectives genuinely integrated with attention to whose experience is centred?
+    
+    evaluationScenarios:
+      scenario1:
+        context: Module on "developing others"
+        integrationTest: >
+          Does it examine how feedback is experienced differently based on power relationships
+          (white leader/Black staff, non-disabled manager/disabled team, male doctor/female
+          nurse)? Does it name that "developmental conversations" can reproduce structural
+          inequalities?
+        systemsTest: >
+          Does it connect individual feedback practice to organisational patterns of who
+          progresses and who gets stuck?
+        tokenismFailure: >
+          Diversity appears as separate box with examples of "diverse" people, but power
+          dynamics in feedback itself remain unexamined.
+      
+      scenario2:
+        context: Module on "strategic thinking"
+        privilegeTest: >
+          Does it question whose knowledge counts as strategic? Does it examine how class
+          background, education, race, gender shape access to strategic language and whose
+          ideas get heard as strategic versus operational?
+        criticalTest: >
+          Does it acknowledge that "strategic" often means reproducing elite interests and
+          examine whose interests are served by organisational strategy?
+        neutralityFailure: >
+          Strategic thinking presented as neutral technical competency without examination
+          of power.
+    
+    redFlags:
+      - Diversity content in separate optional section
+      - Language treating white, male, non-disabled, middle-class as neutral default
+      - Focus on "managing diversity" or "leveraging difference" (business case not ethical imperative)
+      - Emphasis on individual resilience rather than systemic change
+      - Absence of examination of power in learning relationship itself
+      - Examples that unintentionally reproduce stereotypes or centre dominant group experience
+      - Inclusion content that doesn't require participants to examine their own complicity
+
+  - criterionId: criterion_4
+    title: Genuine Dialogue and Praxis Over Transmission
+    theoreticalFoundation:
+      - Critical pedagogy (Freire - dialogue vs banking education)
+      - Dialogical learning
+      - Praxis (reflection-action cycles)
+    
+    statement: >
+      Design must create space for genuine dialogue (mutual learning) rather than disguised
+      monologue (expert transmits knowledge). Reflection-action cycles (praxis) must be
+      central, with participants invited to act on learning in ways that transform their
+      organisations, not only change individual practice.
+    
+    testingQuestions:
+      dialogueVsMonologue:
+        - Does design create space for genuine dialogue or disguised monologue?
+        - Is facilitator positioned as co-learner, or is expertise used to close down inquiry?
+      
+      praxis:
+        - Are reflection-action cycles central, or is reflection separate from action?
+        - Are participants invited to act on learning in transformative ways?
+        - Does it acknowledge that action without reflection is activism, reflection without action is verbalism?
+      
+      criticalEngagement:
+        - Can participants question and reject the content itself?
+        - Is critical engagement with the module encouraged or discouraged?
+    
+    evaluationScenarios:
+      scenario1:
+        context: Module invites participants to experiment with new practice
+        praxisTest: >
+          Does it provide framework for reflecting on that action, adjusting based on
+          learning, and taking further action? Does it connect individual experimentation
+          to collective action for change?
+        informationTransferFailure: >
+          Action prescription without support for reflecting on outcomes.
+      
+      scenario2:
+        context: Module presents theoretical framework
+        dialogueTest: >
+          Does it invite participants to test that theory against their experience and
+          potentially reject or revise it?
+        bankingFailure: >
+          Theory presented as settled truth to apply rather than provocation to examine.
+    
+    redFlags:
+      - Content presented as expert wisdom to implement rather than provocations to examine
+      - Reflection divorced from action (journal prompts with no connection to practice change)
+      - Action prescriptions without support for reflecting on outcomes
+      - No mechanism for participants to question module premises
+      - Individual focus without directing toward collective action
+      - Designer voice as authoritative rather than invitational
+
+  - criterionId: criterion_5
+    title: Psychodynamic Depth Addressing Unconscious Processes
+    theoreticalFoundation:
+      - Group dynamics and psychodynamic traditions
+      - Systems psychodynamics
+      - Attention to anxiety, defence, transference
+    
+    statement: >
+      Modules must address unconscious processes, not just conscious rational dimensions.
+      This includes examining role vs personal authority, providing containment for anxiety,
+      challenging social defences, anticipating transference dynamics, and surfacing the
+      political unconscious.
+    
+    testingQuestions:
+      roleAndAuthority:
+        - Does content help participants distinguish personal authority from role authority?
+        - Does it address how authority is projected onto roles differently based on social identity?
+      
+      anxietyAndContainment:
+        - What anxiety does this competency and its development generate?
+        - Does module provide containment without premature reassurance or false control?
+        - Can it hold anxiety that genuine change requires mourning?
+      
+      socialDefences:
+        - Does content challenge organisational defences or unconsciously reproduce them?
+        - Does "resilience" training defend against acknowledging organisational harm?
+      
+      transferenceProjection:
+        - How might participants experience the module as authority figure?
+        - What projections might arise (expert with answers, incompetent authority, demanding parent)?
+        - Does design anticipate and work with these?
+      
+      politicalUnconscious:
+        - What remains unspoken? Whose perspectives are systematically excluded?
+        - What fantasies sustain current practice (meritocracy, neutral professionalism)?
+    
+    evaluationScenarios:
+      scenario1:
+        context: Module on "managing conflict"
+        defenceTest: >
+          Does it examine what anxiety conflict generates, what defensive patterns emerge
+          (avoidance, aggression, triangulation), and how to work with rather than simply
+          eliminate these defences?
+        systemTest: >
+          Does it connect individual conflict management to group dynamics and organisational
+          patterns of how difference and disagreement are handled?
+        technicalFailure: >
+          Techniques for eliminating conflict without examining underlying anxiety.
+      
+      scenario2:
+        context: Module on "change management"
+        mourningTest: >
+          Does it acknowledge that change requires mourning what's being lost? Does it
+          provide space for working with resistance as meaningful?
+        socialDefenceTest: >
+          Does it examine how organisations defend against acknowledging the anxiety change
+          generates?
+        rationalistFailure: >
+          Change presented as rational process without attention to emotional dimensions.
+    
+    redFlags:
+      - Content addressing only conscious, rational dimensions
+      - Techniques for eliminating anxiety rather than working with it
+      - Individual skills focus without attention to group and system dynamics
+      - Absence of acknowledgment that learning itself generates anxiety
+      - Pathologising resistance rather than understanding it as meaningful
+      - Presentational style that defends against engaging with difficulty
+
+  - criterionId: criterion_6
+    title: I-We-It Integration with Systemic Complexity
+    theoreticalFoundation:
+      - Systems theory
+      - Integrative leadership model
+      - Psychodynamic understanding of how domains constitute each other
+      - Design Principle 4
+    
+    statement: >
+      Modules must address competencies as operating across I (internal/personal), We
+      (relational/interpersonal), and It (task/operational) domains with psychodynamic
+      depth in each. These domains must be shown as constituting each other rather than
+      as separate competencies.
+    
+    testingQuestions:
+      I_internal_depth:
+        - Does it address unconscious motivations, not just conscious self-awareness?
+        - Does it invite examination of what defences protect from anxiety?
+        - Does it connect internal experience to social identity?
+      
+      We_relational_depth:
+        - Does it examine group dynamics and how anxiety moves through systems, not just interpersonal skills?
+        - Does it address power in relationships (who can say what to whom)?
+        - Does it connect dyadic relationships to team and organisational patterns?
+      
+      It_task_depth:
+        - Does it connect task completion to emotional work required to sustain it?
+        - Does it examine how power structures shape access to resources?
+        - Does it link operational effectiveness to role authority and system dynamics?
+      
+      integration:
+        - Are domains shown as constituting each other rather than separate competencies?
+        - Can participants see how personal anxiety connects to group dynamics which shapes task performance?
+    
+    evaluationScenarios:
+      scenario1:
+        context: Module on giving feedback
+        I_test: >
+          Notice your internal response (anxiety, defensiveness, rescue fantasies) when
+          preparing to give difficult feedback to differently positioned colleague.
+        We_test: >
+          Examine how this activates group dynamics about safety, authority, whose feelings
+          matter.
+        It_test: >
+          Explore how these dynamics shape whether feedback actually improves performance.
+        integrationTest: >
+          See how your internal state shapes team culture which determines task effectiveness.
+        fragmentationFailure: >
+          Three separate sections on self-awareness, interpersonal skills, and performance
+          management with no integration.
+    
+    redFlags:
+      - I-We-It mentioned but treated as separate competencies
+      - Internal domain addressing only conscious reflection
+      - Relational domain as skills (active listening, communication) without power analysis
+      - Task domain divorced from emotional and political dimensions
+      - Domains presented sequentially rather than as integrated system
+
+  - criterionId: criterion_7
+    title: Experiential Learning Cycle with Multiple Entry Points
+    theoreticalFoundation:
+      - Kolb's experiential learning cycle
+      - Adult learning theory
+      - Developmental readiness
+      - Design Principle 2
+    
+    statement: >
+      Modules must allow entry at concrete experience, reflective observation, abstract
+      conceptualisation, or active experimentation. Guidance must be provided for entering
+      at relevant point and continuing the cycle through sustained workplace practice.
+    
+    testingQuestions:
+      multipleEntryPoints:
+        - Can participants enter at concrete experience, reflective observation, abstract conceptualisation, or active experimentation?
+        - Is guidance provided for how to enter at their relevant point and continue the cycle?
+      
+      sustainedPractice:
+        - Does design acknowledge that one pass through cycle is insufficient?
+        - Is direction provided for sustained practice over time?
+      
+      equalValidity:
+        - Are all four modes given equal validity, or is one (usually abstraction) privileged?
+        - Does content work for participants at different developmental stages?
+    
+    evaluationScenarios:
+      scenario1:
+        context: Participant brings recent difficult workplace situation
+        entryTest: >
+          Can they begin with that concrete experience, use module to reflect and
+          conceptualise, then plan active experimentation?
+      
+      scenario2:
+        context: Participant prefers starting with theoretical frameworks
+        entryTest: >
+          Can they begin with abstract conceptualisation, then identify relevant experience
+          to apply it to?
+      
+      scenario3:
+        context: Participant wants to try something different immediately
+        entryTest: >
+          Can they begin with active experimentation (try this approach), then reflect on
+          what happens?
+    
+    redFlags:
+      - Single linear pathway through content
+      - Theory presented before participants identify relevant experience
+      - Reflection prompts requiring specific prior experience participants may not have
+      - Action suggestions without support for reflection afterward
+      - Assumption that all participants need same entry point
+      - Language privileging abstract conceptualisation over other modes
+
+  - criterionId: criterion_8
+    title: Peer Learning as Essential Relational Container
+    theoreticalFoundation:
+      - Relational learning
+      - Dialogue and action learning
+      - Group dynamics
+      - Design Principle 5
+    
+    statement: >
+      Modules must explicitly direct participants toward peer learning contexts, recognising
+      that working with power dynamics requires relational challenge individual reflection
+      cannot provide. Guidance must acknowledge that peer learning itself reproduces power
+      dynamics and provide frameworks for examining these.
+    
+    testingQuestions:
+      explicitDirection:
+        - Does module explicitly direct participants toward peer learning with rationale?
+        - Are prompts designed to create genuine dialogue about power and difference?
+      
+      genuineDifficulty:
+        - Are participants given questions that are genuinely difficult and require collective thinking?
+        - Does it distinguish between peer support (affirmation) and peer challenge (difficult questions)?
+      
+      powerInPeerLearning:
+        - Does it recognise that peer learning reproduces power dynamics?
+        - Does it provide frameworks for examining power in peer relationships?
+      
+      relationalNecessity:
+        - Does it acknowledge that learning about power requires relational challenge?
+        - Does it explain why individual reflection is insufficient?
+    
+    evaluationScenarios:
+      scenario1:
+        context: Module directs participants to action learning set
+        qualityTest: >
+          Are the questions provided ones that actually require dialogue (no single right
+          answer, challenge assumptions, different perspectives)?
+        powerTest: >
+          Does guidance acknowledge that action learning sets themselves can reproduce
+          hierarchies and offer approaches for examining this?
+        superficialityFailure: >
+          Questions that can be easily answered alone with no need for dialogue.
+      
+      scenario2:
+        context: Participant takes questions to mentor
+        preparationTest: >
+          Has module prepared participant to enter dialogue as co-inquirer rather than
+          seeking answers?
+        selectionTest: >
+          Does it help them consider who to approach (someone who thinks differently,
+          someone with different social location)?
+        homophilyFailure: >
+          Guidance suggesting participants seek mentors "like them" rather than different
+          perspectives.
+    
+    redFlags:
+      - Peer learning positioned as optional "if you have time"
+      - Questions for peers that are superficial or easily answered alone
+      - Assumption that peer dialogue is automatically safe and equal
+      - No attention to power dynamics within peer learning relationships
+      - Peer learning as mutual support without challenge
+      - Guidance suggesting participants seek mentors "like them"
+
+  - criterionId: criterion_9
+    title: Acknowledgment of Profound Limitations
+    theoreticalFoundation:
+      - Honesty and genuineness
+      - Anti-harm principle
+      - Systems understanding of complexity
+      - Design Principle 11
+    
+    statement: >
+      Modules must explicitly state what they cannot achieve in two hours of individual
+      online learning. This includes acknowledging that transformation about power and
+      difference requires relational challenge over sustained time, that superficial
+      engagement risks harm, and that completion does not demonstrate competency.
+    
+    testingQuestions:
+      explicitLimitations:
+        - Does module explicitly state what it cannot achieve?
+        - Does it acknowledge that transformation requires relational challenge over sustained time?
+      
+      harmAcknowledgment:
+        - Does it acknowledge potential harm from superficial engagement with power and racism?
+        - Is there genuineness in stating what designer doesn't know and where approaches might fail?
+      
+      directionToDepth:
+        - Are participants directed toward richer developmental contexts with specific guidance?
+        - Does it name the inherent limitations of individualised learning for systemic issues?
+      
+      completionMessaging:
+        - Does completion messaging resist suggesting competency has been demonstrated?
+        - Is there explicit statement connecting to further development pathways?
+    
+    evaluationScenarios:
+      scenario1:
+        context: Module concludes
+        honestyTest: >
+          Does closing explicitly state "Completing this module does not demonstrate
+          competency. It provides resources for learning that continues in practice over
+          extended time with feedback from others"?
+        directionTest: >
+          Are specific next steps offered (assessment approaches, peer learning, programmes,
+          supervision)?
+        completionFallacy: >
+          Certificate or completion message suggesting participant has achieved competency.
+      
+      scenario2:
+        context: Module addresses racism
+        harmTest: >
+          Does it acknowledge that brief engagement risks performative allyship rather than
+          transformation? Does it name what deeper work requires?
+        superficialityRisk: >
+          Module presents "diversity tips" without acknowledging this doesn't address
+          structural racism.
+    
+    redFlags:
+      - Completion certificate implying achievement
+      - Language suggesting "now you know how to..."
+      - Absence of explicit statement of limitations
+      - No pathways to deeper learning
+      - Failure to acknowledge potential harm from insufficient engagement
+      - Designer certainty rather than appropriate humility
+      - Time estimates suggesting transformation possible in hours
+
+  - criterionId: criterion_10
+    title: Evidence Gathering Honouring Developmental Complexity
+    theoreticalFoundation:
+      - Competency assessment theory
+      - Developmental journey perspective
+      - Accountability to those affected
+      - Design Principle 11
+    
+    statement: >
+      Guidance must focus on evidence of changed practice over sustained time (months),
+      require feedback from differently positioned others (especially those with less
+      power), and acknowledge that evidence includes documentation of mistakes and ongoing
+      development, not just successful outcomes.
+    
+    testingQuestions:
+      sustainedTimeframe:
+        - Does guidance focus on evidence over sustained time (months), not module completion?
+        - Is there acknowledgment that evidence includes learning from failure?
+      
+      feedbackFromMargin:
+        - Does evidence require feedback from differently positioned others?
+        - Does it examine whose perspectives count as valid evidence?
+        - Does it prioritise feedback from those with less power?
+      
+      developmentalJourney:
+        - Does it frame evidence as documenting learning journey not proving achievement?
+        - Does it resist pressure to provide tidy completion indicators?
+      
+      assessmentConnection:
+        - Does it connect to formal assessment frameworks appropriately?
+        - Does it acknowledge module engagement isn't competency demonstration?
+    
+    evaluationScenarios:
+      scenario1:
+        context: White manager developing inclusive leadership
+        evidenceTest: >
+          Does guidance suggest seeking feedback from Black and minoritised staff about
+          changes in their practice over 3-6 months? Does it prepare them for hearing
+          difficult feedback?
+        selfReportFailure: >
+          Evidence based on self-assessment of confidence or manager validation only.
+      
+      scenario2:
+        context: Senior leader developing strategic capability
+        complexityTest: >
+          Does evidence include documentation of learning from failed initiatives, changed
+          approaches, sustained inquiry, not just successful outcomes?
+        outcomesFocus: >
+          Evidence criteria requiring only successful strategic outcomes.
+    
+    redFlags:
+      - Completion quiz or knowledge test
+      - Self-assessment of confidence as primary evidence
+      - Short timeframe (days or weeks) for evidence gathering
+      - Evidence criteria requiring only self-report or manager validation
+      - Absence of requirement for feedback from those with less power
+      - Focus on successful outcomes rather than quality of inquiry
+      - Treating evidence as proving achievement rather than documenting journey
+
+  - criterionId: criterion_11
+    title: Accessibility and Universal Design
+    theoreticalFoundation:
+      - Universal design principles
+      - Neurodiversity paradigm
+      - Recognition that barriers are structural not individual
+    
+    statement: >
+      Content must be accessible to neurodivergent learners and those with varied
+      processing speeds. Multiple entry points and learning modalities must be provided.
+      Language should avoid unnecessary jargon while maintaining conceptual rigour. Design
+      must acknowledge that barriers to learning are structural, not individual deficit.
+    
+    testingQuestions:
+      neurodivergence:
+        - Is content accessible to neurodivergent learners (dyslexia, ADHD, autism)?
+        - Are multiple entry points and learning modalities provided?
+      
+      languageAndStructure:
+        - Does language avoid unnecessary jargon while maintaining rigour?
+        - Is there structure and visual breaks for processing?
+      
+      timeAndPace:
+        - Are time estimates realistic for varied processing speeds?
+        - Is there flexibility in pacing and engagement?
+      
+      structuralAcknowledgment:
+        - Does design acknowledge barriers are structural, not individual deficit?
+        - Are access barriers named as design problems?
+    
+    redFlags:
+      - Dense text without structure or visual breaks
+      - Assumption of single learning pathway
+      - Inaccessible academic language without glossaries or scaffolding
+      - Time pressure that disadvantages disabled participants
+      - Failure to name access barriers as design problems
+      - Assumption of neurotypical processing
+
+  applicationGuidance:
+    howToUseCriteria: >
+      These criteria should be applied systematically to module design and content. Each
+      criterion includes theoretical foundation, testing questions, evaluation scenarios,
+      and red flags. Use scenarios to test specific module content against the integrated
+      framework. Red flags indicate serious failures requiring redesign.
+    
+    integrationImperative: >
+      These criteria constitute an integrated whole. A module that excels in one criterion
+      but fails others does not meet the design standard. Genuine transformational learning
+      requires all criteria operating simultaneously: psychodynamic depth with humanistic
+      trust, critical power analysis with compassionate understanding, scholarly rigour
+      with accessible communication, challenge with support.
+    
+    priorityAreas: >
+      If forced to prioritise due to constraints, focus on: (1) Criterion 3 (power and
+      difference as integrated golden thread), (2) Criterion 1 (transformational inquiry
+      creating genuine Q), (3) Criterion 5 (psychodynamic depth), (4) Criterion 9
+      (acknowledgment of limitations). However, recognise that prioritisation itself may
+      reproduce fragmentation that the integrated framework seeks to challenge.
