@@ -239,6 +239,60 @@ managementAndLeadershipFramework:
             - Addresses authenticity and authority
             - Helps develop individual leadership voice
 
+    - personaId: Persona 6
+      role: Midwife
+      diversityContext: Mixed heritage (Black Caribbean/White British) woman, maternal health inequalities advocate
+
+      moduleEvaluationQuestions:
+        - Does this module address racism in healthcare, specifically maternal health inequalities?
+        - Does it recognise complexity of mixed heritage identities?
+        - Does it address colourism and privilege within racialised communities?
+        - Will this help me advocate for Black women's health without being silenced?
+        - Does it recognise emotional labour of navigating multiple identity expectations?
+
+    - personaId: Persona 7
+      role: Community Pharmacist
+      diversityContext: British Pakistani woman, Muslim, disabled (wheelchair user - spinal cord injury)
+
+      moduleEvaluationQuestions:
+        - Is this module accessible for disabled learners (captioning, screen reader compatible, flexible pacing)?
+        - Does it address ableism in healthcare leadership and progression?
+        - Does it recognise intersections of disability, race, and religion?
+        - Will this help me advocate for accessible workplaces and career paths?
+        - Does it challenge assumptions about disabled people's capability to lead?
+        - Does it explicitly address Islamophobia and religious discrimination?
+        - Do examples recognise hijab-wearing Muslim women face compound discrimination?
+        - Does it address how Ramadan and prayer times require workplace accommodation?
+        - Will this help me navigate stereotyping about Muslim women as submissive?
+        - Does it address security targeting and surveillance of Muslim staff?
+
+    - personaId: Persona 8
+      role: Ward Nurse
+      diversityContext: Filipino woman, internationally recruited nurse, visa restrictions
+
+      moduleEvaluationQuestions:
+        - Does this module address discrimination against international staff?
+        - Does it recognise vulnerability created by visa restrictions?
+        - Will this help me advocate for myself despite precarious status?
+        - Does it challenge stereotypes about international nurses?
+        - Does it address exploitation in international recruitment?
+
+    - personaId: Persona 9
+      role: Estates Manager
+      diversityContext: White British gay man, deaf/hard of hearing, working class background
+
+      moduleEvaluationQuestions:
+        - Does this module assume graduate or clinical professional background?
+        - Does it value technical and vocational expertise as leadership capability?
+        - Does it address heteronormative assumptions in examples?
+        - Will this help me advocate for estates function value and recognition?
+        - Does it recognise class background shapes leadership development?
+        - Is this module accessible for deaf/hard of hearing learners (captions, transcripts)?
+        - Does it challenge assumptions that communication means speaking and hearing?
+        - Will this help me advocate for communication access as basic workplace need?
+        - Does it address adjustments for deaf staff as rights not favours?
+        - Does it recognise exhaustion from constant cognitive effort to communicate?
+
   - stageName: 'Stage 2: Middle managers and leaders'
     personas:
     
@@ -319,6 +373,57 @@ managementAndLeadershipFramework:
         - Does it address leading across organisations without direct authority?
         - Does it help me advocate for equity in integrated care?
 
+    - personaId: Persona 17
+      role: Assistant Director of Finance
+      diversityContext: British Indian (Punjabi Sikh) man, turban-wearing, religious discrimination
+
+      moduleEvaluationQuestions:
+        - Does module recognise religious needs as legitimate workplace requirement?
+        - Do examples assume Christian-heritage cultural norms?
+        - Will this help me navigate leadership as visible religious minority?
+        - Does it address religious discrimination and hate crime?
+        - Does it recognise Sikh identity distinct from Muslim identity?
+        - Does it address accommodation of religious observance and articles of faith?
+        - Do security/infection control examples consider religious articles appropriately?
+
+    - personaId: Persona 18
+      role: Primary Care Practice Manager
+      diversityContext: White British lesbian woman, dyslexia and ADHD, part-time senior leader
+
+      moduleEvaluationQuestions:
+        - Does this module assume heterosexual norms in change management examples?
+        - Does it address creating inclusive environments during organisational change?
+        - Will this help me support diverse staff through change?
+        - Does it recognise part-time senior leadership as legitimate?
+        - Does it address resistance that comes from bias and discrimination?
+        - Does it provide information in multiple formats (not just dense text)?
+        - Are written requirements genuinely necessary or performative?
+        - Does it challenge assumptions about written fluency equals leadership capability?
+        - Will this help me advocate for organisational cognitive accessibility?
+        - Does it recognise neurodivergent thinking styles as leadership strengths?
+
+    - personaId: Persona 19
+      role: Information Governance Lead
+      diversityContext: British Chinese (Hong Kong heritage) man, bamboo ceiling, model minority stereotypes
+
+      moduleEvaluationQuestions:
+        - Does this module address stereotyping of East Asian staff?
+        - Does it recognise technical/specialist expertise as leadership?
+        - Will this help me demonstrate strategic capability beyond technical role?
+        - Does it address bamboo ceiling and career progression barriers?
+        - Does it recognise racism beyond Black/white binary?
+
+    - personaId: Persona 20
+      role: Primary Care Operations Lead (ICB)
+      diversityContext: Indian (Kerala heritage) migrant woman, international healthcare experience, NHS newcomer
+
+      moduleEvaluationQuestions:
+        - Does this module assume everyone has traditional NHS career pathway?
+        - Does it value international healthcare experience?
+        - Will this help me navigate as "outsider" in NHS culture?
+        - Does it address accent discrimination and communication bias?
+        - Does it recognise challenges of learning NHS-specific context?
+
   - stageName: 'Stage 3: Senior managers and leaders'
     personas:
     
@@ -363,6 +468,17 @@ managementAndLeadershipFramework:
             - Realistic about timeframes for culture change
             - Values persistence and long-term commitment
             - Respects organisational knowledge from experience
+
+    - personaId: Persona 22
+      role: Specialist Doctor in Dermatology
+      diversityContext: Black British (Ghanaian heritage) woman, consultant, skin-of-colour dermatology advocate
+
+      moduleEvaluationQuestions:
+        - Does this module address racism in medical specialties and leadership?
+        - Does it recognise how specialties become racially segregated?
+        - Will this help me advocate for diverse dermatology without being silenced?
+        - Does it address health inequalities in specialty-specific contexts?
+        - Does it recognise barriers Black doctors face in career progression?
 
   - stageName: 'Stage 4: Executive managers and leaders'
     personas:
