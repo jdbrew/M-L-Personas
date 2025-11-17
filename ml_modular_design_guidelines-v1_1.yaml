@@ -1,0 +1,295 @@
+version: '1.1'
+designGuidelines:
+  purpose: >
+    To guide the design of short, online modules that support individual leaders
+    and managers in developing specific competencies from their level's standards
+    framework. Each module offers resources and provocations for learning rather
+    than guaranteed competency achievement.
+  theoryOfChange:
+    - >-
+      Initiating learning cycles that continue in workplace practice rather than
+      completing development within the module.
+    - >-
+      Providing conceptual resources (P) alongside provocations for critical
+      inquiry (Q) that challenge and transform thinking.
+    - >-
+      Catalysing reflection and experimentation that participants continue with
+      peer support and in their specific contexts.
+    - >-
+      Guiding evidence gathering that connects modular engagement to formal
+      competency assessment.
+    - >-
+      Creating entry points to deeper developmental work through programmes, peer
+      communities, and sustained practice.
+    - >-
+      Modules cannot create competence, but they can resource the ongoing work of
+      leadership development when participants actively engage as responsible
+      agents of their own learning.
+  keyTheoreticalModels:
+    revansFormula:
+      title: "Revans' Formula (L = P + Q)"
+      L: Learning
+      P: Programmed knowledge (Formal education, training, theory, best practice)
+      Q: >-
+        Questioning insight (Inquiry + Critical reflection leading to challenged
+        and changed assumptions and an adapted understanding applied to new
+        contexts)
+    kolbsLearningCycle:
+      title: "Kolb's Experiential Learning Cycle"
+      stages:
+        - Concrete experience (Having an experience)
+        - Reflective observation (Reflecting on the experience)
+        - Abstract conceptualisation (Developing concept from the experience)
+        - Active experimentation (Trying out new concept)
+      note: >-
+        Modules allow entry at any point and initiate cycles that participants
+        complete in the workplace.
+    integrativeDomains:
+      title: "The 'I', 'We', 'It' Integrative Model"
+      I: The internal (Personal mastery, self-awareness, resilience, values)
+      We: >-
+        The relational (Relational capability, team dynamics, collaboration,
+        stakeholder engagement)
+      It: >-
+        The task (Operational effectiveness, technical competencies, strategic
+        planning, outcomes)
+  interventionContext:
+    existingProcess: >
+      Standards assessment leads to identified need. Assessment is through
+      portfolio/evidence review, 360 feedback, and developmental conversation.
+    audience: >-
+      Leaders and managers aiming to re-evidence and attain a competency at Levels
+      1, 2, 3, or 4.
+  externalContext:
+    - >-
+      L&M Development Trends: Focus on adaptability, agility, human-centred
+      leadership, continuous learning, and integrative approaches over generic,
+      one-off workshops.
+    - >-
+      NHS 10-Year Plan: Shifting care to community settings, digital
+      transformation, prevention over treatment, and workforce sustainability.
+    - >-
+      Global Leadership Context: Rise of polarising, crisis-driven styles,
+      challenging traditional collaborative models.
+  keyTensions:
+    - Individual development (Leader) vs. collective accountability (leadership)
+    - Standardisation vs. personalisation, autonomy, and collective accountability
+    - Academic rigour vs. practical application
+    - Leadership development vs. operational management capability
+    - Peer assessment accountability vs. consistent competency evaluation
+    - Reflexive practice depth vs. structured evidence requirements
+    - Programme philosophy preservation vs. Shifting external policy
+    - Support vs. challenge
+  theoreticalFoundations:
+    - 'Group dynamics & psychodynamics (Freud, Lewin, Jaques, et.al., 1900+)'
+    - Humanistic psychology (Rogers, 1951)
+    - Social construction (Berger et.al., 1966)
+    - Systems theory (von Bertalanffy, 1968)
+    - 'Critical theory (Particularly in education - Freire, 1970)'
+    - 'Self-Managed Learning (Knowles, 1975)'
+    - 'Complexity & emergence (Kauffman et.al., 1993)'
+  corePrinciples:
+    - id: principle_1
+      title: Learning as participant responsibility
+      statement: >-
+        Learning cannot be deposited into people. Participants are responsible
+        agents of their own learning journey. Modules provide theory,
+        provocations, and structured opportunities for reflection, but cannot
+        guarantee competency achievement. The module's task is to resource
+        learning, not to create it.
+      application: >-
+        Module content explicitly frames the participant's active role. Opening
+        activities establish that learning emerges through the participant's
+        engagement with their own experience, not through passive consumption of
+        content. Closing activities direct participants toward application and
+        further inquiry rather than implying completion.
+      rationale: >-
+        Self-directed learning recognises that adults learn through making
+        meaning of their experience. Modules that position participants as active
+        meaning-makers develop the agency required for ongoing leadership
+        development beyond the programme.
+    - id: principle_2
+      title: Entry into the learning cycle at multiple points
+      statement: >-
+        Following Kolb's experiential learning cycle, modules allow entry at
+        concrete experience, reflective observation, abstract conceptualisation,
+        or active experimentation. Modules initiate learning cycles that
+        participants complete through sustained workplace practice over time, not
+        within the two-hour engagement.
+      application: >-
+        Modules are structured to support different starting points: Concrete
+        experience (Recent workplace situation), Reflective observation
+        (Provocation to examine practice), Abstract conceptualisation
+        (Theory/heuristic), Active experimentation (Behavioural experiment).
+        Participants receive guidance on entering the cycle at their relevant
+        point, with clear pathways to complete the cycle through workplace
+        application.
+      rationale: >-
+        Leaders at different stages require different entry points. A two-hour
+        module cannot complete transformational learning cycles, but it can
+        catalyse learning that continues in practice. The initial entry point
+        must engage participants and provide clear direction for ongoing work.
+    - id: principle_3
+      title: 'Integration of theory with transformational inquiry (P + Q = L)'
+      statement: >-
+        Following Revans' formula, learning (L) emerges from programmed knowledge
+        (P) plus questioning insight (Q). Modules provide P (theory, frameworks,
+        best practice) alongside rigorous Q (inquiry and critical reflection that
+        challenges and changes assumptions, leading to adapted understanding
+        applied to new contexts). Without Q, modules become mere information
+        transfer.
+      application: >-
+        Every module includes: Programmed knowledge (P), Transformational inquiry
+        (Q) (Structured processes that provoke genuine questioning, challenge
+        assumptions, and develop new conceptual understanding), and Application
+        tasks (Experiments to test transformed understanding). Q components
+        require time and deep engagement.
+      rationale: >-
+        Leadership competence requires both knowledge and the capacity to
+        question and transform that knowledge. The Q component is what makes
+        learning transformational rather than informational. Without rigorous Q,
+        modules simply add to what people know rather than changing how they
+        think and act.
+    - id: principle_4
+      title: "Competency development across domains ('I', 'We', 'It')"
+      statement: >-
+        Each competency operates across personal mastery ('I'), relational
+        capability ('We'), and operational effectiveness ('It'). Modules
+        introduce this integrative framework, recognising that leadership
+        effectiveness emerges from the dynamic interaction of these three
+        dimensions rather than from isolated skill development.
+      application: >-
+        Module content introduces the I-We-It framework where relevant: 'I'
+        (Personal awareness, values), 'We' (Relational patterns, team dynamics),
+        'It' (Task completion, outcomes). Modules provide provocations for
+        participants to explore how the competency operates across these
+
+        dimensions in their own context.
+      rationale: >-
+        Leadership competencies operate as integrated wholes. Modules introduce
+        this integrative perspective, supporting participants to recognise
+        interconnections and avoid fragmented development. Full integration
+        occurs through sustained practice.
+    - id: principle_5
+      title: Peer learning communities for depth and integration
+      statement: >-
+        Individual modules have inherent limitations. Participants should
+        establish or use existing peer learning groups (mentors, colleagues,
+        action learning sets) to deepen reflection, test insights, and integrate
+        learning across competencies.
+      application: >-
+        Each module includes: Explicit guidance on establishing a peer learning
+        group, structured prompts for peer discussion, and specific questions to
+        take to mentors or colleagues. Modules direct participants toward ongoing
+        peer engagement.
+      rationale: >-
+        Leadership development is fundamentally relational. Individual online
+        learning cannot replace the challenge, support, and perspective-taking
+        that occurs through peer engagement. Modules must actively direct
+        participants toward these richer learning contexts.
+    - id: principle_6
+      title: Reflective journaling as core leadership practice
+      statement: >-
+        Reflective journaling is a fundamental leadership tool for processing
+        experience, tracking development, and making meaning from practice.
+        Modules introduce and reinforce journaling as ongoing practice, not just
+        for module completion but as sustained habit that supports leadership
+        effectiveness.
+      application: >-
+        Modules provide: Introduction to journaling as leadership practice,
+        structured prompts that can be used long-term, and guidance on using
+        journals to track experiments, gather evidence, and process complex
+        experiences.
+      rationale: >-
+        Reflective journaling develops the capacity for ongoing learning from
+        experience. It provides a space for processing the emotional and
+        cognitive complexity of leadership, tracking patterns, and constructing
+        developmental narratives. It is essential infrastructure for leadership
+        development.
+    - id: principle_7
+      title: Level-appropriate complexity and flexibility
+      statement: >-
+        Modules address the same competency framework across levels 1-4, but with
+        differentiated complexity, language, and examples appropriate to each
+        level. Design allows flexibility in learning approach within the
+        constraints of individual online delivery.
+      application: >-
+        Module design varies by level in: Conceptual complexity, scope of
+        organisational perspective (team vs. system), degree of ambiguity, and
+        balance between concrete guidance and open exploration. All levels
+        maintain the same core principles but apply them with level-appropriate
+        sophistication.
+      rationale: >-
+        Level 1 managers and Level 4 executives require fundamentally different
+        degrees of complexity, scope, and ambiguity tolerance. Differentiation
+        across levels respects developmental readiness.
+    - id: principle_8
+      title: Contextualisation as essential
+      statement: >-
+        Learning emerges from and shapes specific organisational contexts. Modules
+        cannot be context-free. Participants must actively translate content to
+        their unique situation, examining how their learning connects to the
+        systems they inhabit.
+      application: >-
+        Modules use: Multiple healthcare contexts in examples, explicit prompts to
+        translate concepts to the participant's context, and questions about
+        systemic patterns. Reflection activities require participants to name
+        their specific context.
+      rationale: >-
+        Generic leadership content fails to develop the contextual judgment
+        required for effective practice. Participants must actively engage in
+        translating and adapting content to develop genuine capability rather
+        than abstract knowledge.
+    - id: principle_9
+      title: Constitutional and ethical foundations
+      statement: >-
+        The NHS Constitution, Leadership Code, and Nolan Principles provide moral
+        and practical foundation for all leadership development. Every module
+        must connect competency development to these foundational commitments.
+      application: >-
+        Modules explicitly reference constitutional values when relevant.
+        Reflection prompts ask how the competency supports constitutional
+        commitments. Examples demonstrate ethical leadership in practice.
+      rationale: >-
+        NHS leadership derives legitimacy from public trust and constitutional
+        mandate. Competency development divorced from these foundations risks
+        technical capability without ethical grounding.
+    - id: principle_10
+      title: 'Difference, diversity, inclusion, and power as golden thread'
+      statement: >-
+        Power dynamics, structural inequalities, and the politics of difference
+        affect all leadership competencies and all pedagogical relationships.
+        Modules must explicitly address how identity, privilege, and systemic
+        barriers shape both leadership practice and the learning process itself.
+      application: >-
+        Each module includes: Critical examination of how the competency
+        intersects with power and inequality, recognition of diverse
+        perspectives, reflection on whose knowledge is privileged, and questions
+        that surface bias. This runs through all content, not as a separate
+section.
+      rationale: >-
+        Healthcare serves diverse communities within systems shaped by structural
+        inequalities. Leaders must understand how power and difference operate in
+        their organisations and in their own learning. Critical pedagogy
+        recognises that teaching is never neutral.
+    - id: principle_11
+      title: Evidence requirements, limitations, and pathways forward
+      statement: >-
+        Modules cannot test or confirm competency achievement. A two-hour module
+        provides resources for learning, not proof of competence. Individual
+        online modules also cannot achieve the depth, integration, or relational
+        richness of comprehensive leadership development programmes. Modules
+        explicitly acknowledge these limitations, guide evidence gathering for
+        formal assessment, and direct participants toward opportunities for
+        deeper development.
+      application: >-
+        Each module concludes with explicit guidance on: What evidence
+        demonstrates this competency in practice, how to gather that evidence
+        over time (weeks/months, not hours), how this relates to their assessment
+        framework, what the module cannot achieve, and pathways to deeper
+        learning. It clearly states completion does not equal competency.
+      rationale: >-
+        Competency frameworks require demonstration of capability in practice,
+        not knowledge acquisition. Honest acknowledgment of limitations maintains
+        programme integrity, sets appropriate expectations, and supports
+        participants' long-term development journey.

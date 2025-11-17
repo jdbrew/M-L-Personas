@@ -1,0 +1,181 @@
+version: "1.0"
+managementAndLeadershipFramework:
+  frameworkElementName: "Management and leadership code for health and social care "
+  introduction:
+    summary: "This code sets out the core principles and behaviours expected of every manager and leader within our health and care system.  It equips you with the non-negotiable principles that underpin good management and leadership.  It gives specific examples of what effective and ineffective practice looks like. "
+    applicability:
+      scope: "It applies to everyone in a management or leadership role - whether you are just starting out or are already a chief executive.  It is relevant to all clinical, non-clinical and social care roles. "
+      targetAudience: "It's for anyone with leadership or management responsibilities in health and social care. "
+      audienceExamples:
+        - "directly managing people or teams "
+        - "indirectly responsible for achieving outcomes through others "
+        - "leading on key organisational priorities "
+        - "accountable for delivery or support services "
+        - "operating as part of your organisation's senior leadership "
+    definitions:
+      management: "Management is about organising and overseeing daily work: planning, managing resources, and ensuring tasks are completed. "
+      leadership: "Leadership is about inspiring and guiding people: setting direction, building trust, and empowering others to achieve shared goals. "
+      interrelation: "In reality, they go hand in hand and many of us do both throughout our working lives so this code brings them together, recognising that doing both well is essential for delivering better care and lasting improvements. "
+    purpose:
+      summary: "The code was developed in response to the Messenger review, which highlighted the need for improved support for management and leadership across health and social care and called for clear and consistent standards.  The code is designed to help fill that gap and sets out, for the first time, the principles and characteristics that all managers and leaders are expected to meet in the sector. "
+      alignment: "It aligns with key elements of policy and guidance, including the NHS Constitution for England, Our people promise, Our leadership way, the Committee on Standards in Public Life's 7 principles of public life, and A healthier Wales: our plan for health and social care. "
+  corePrinciples:
+    - name: "Accountability "
+      summary: "Take responsibility for your actions and decisions. Hold yourself and others to account for doing the job well, working together fairly and effectively and always looking for ways to improve. "
+      mandate:
+        - "Take responsibility for your actions and decisions. "
+        - "Hold yourself and others to account for doing the job well, working together fairly and effectively and always looking for ways to improve. "
+      behaviors:
+        - "following the relevant professional codes of conduct "
+        - "taking responsibility for your work, including tasks you delegate to others, making sure they are done well "
+        - "holding yourself, and those you are responsible for, to the highest professional and ethical standards. "
+        - "If things go wrong, promptly apply all relevant processes "
+        - "admitting when you fall short. Show humility and a commitment to improve "
+        - "setting fair and realistic expectations, balancing ambition with what's possible "
+        - "responding to serious incidents with honesty and transparency. Take appropriate steps to rectify issues, including with patients and service users "
+        - "being transparent about decisions and how they are made "
+        - "honouring promises and commitments "
+        - "recognising personal challenges without losing focus on the job "
+      practices:
+        effective:
+          - "Sets realistic goals with clear outcomes, explains what's needed to reach them and measures success. "
+          - "Promptly acknowledges mistakes, takes responsibility, and works with others to stop them happening again. "
+          - "Identifies gaps in support, acts to address them, and involves others in finding lasting solutions. "
+          - "Takes responsibility for unintended outcomes and works with others to improve results. "
+          - "Communicates honestly and sensitively with their teams and those they report to explaining clearly why tasks have gone well or badly and making sure people take responsibility when they need to. "
+        ineffective:
+          - "Let's teams drift from reactive task to reactive task, without clear goals and ways to measure success. "
+          - "Avoids taking responsibility, shifts blame to others and fails to resolve issues effectively. "
+          - "Ignores feedback, blaming others for problems, and allows issues to continue. "
+          - "Ignores what's happened and undermines trust by not acting. "
+          - "Avoids uncomfortable conversations and doesn't challenge poor practice. "
+    - name: "Collaboration "
+      summary: "Build productive relationships based on respect and trust. Bring in different views and work across teams and organisations. Make sure everyone is included, heard and supported especially when things are changing. "
+      mandate:
+        - "Build productive relationships based on respect and trust. "
+        - "Bring in different views and work across teams and organisations. "
+        - "Make sure everyone is included, heard and supported - especially when things are changing. "
+      behaviors:
+        - "creating inclusive environments where people feel they can speak openly and where everyone's opinions are valued "
+        - "encouraging teamwork and multidisciplinary cooperation by inviting external expertise and building relationships across departments, organisations, and systems "
+        - "working with others towards shared goals that improve outcomes and experiences, involving people in decisions and helping teams work together across the organisation "
+        - "recognising and celebrating what others contribute, so success feels shared "
+        - "asking for and accepting feedback from team members, colleagues, patients, service users, and partner organisations "
+        - "focusing on collective benefits, building trust and cohesion "
+      practices:
+        effective:
+          - "Meets people from different groups, listens to everybody's perspectives, and uses open discussion to find shared solutions. "
+          - "Gathers feedback and adjusts ways of working accordingly. "
+          - "Brings organisations together, supports shared learning, and helps teams work together more effectively. "
+          - "Works with partners to define shared goals and co-develop strategies. Supports collaboration by providing regular updates to partners. "
+          - "Makes sure individuals and teams take responsibility for delivering agreed results. "
+          - "Listens to people's concerns, recognises the limits they may face when working in partnership, and is realistic about what is possible in the short, medium and long term. "
+        ineffective:
+          - "Makes decisions without consulting others and ignoring their input and expertise, "
+          - "Imposes a rigid approach without consulting key teams. "
+          - "Avoids engaging partners in finding solutions and blames others for problems. "
+          - "Focuses solely on one aspect of care and ignores the goals and ways of working of partners. "
+          - "Fails to recognise that working in partnership means each team must take responsibility for delivering their part of the work. "
+          - "Ignores the concerns of others and shows little understanding of the challenges they face when trying to collaborate. "
+    - name: "Compassion "
+      summary: "Lead with thought and consideration. Show care and understanding for others and for yourself. Support people so they feel at home in teams and can thrive. "
+      mandate:
+        - "Lead with thought and consideration. "
+        - "Show care and understanding for others and for yourself. Support people so they feel at home in teams and can thrive. "
+      behaviors:
+        - "prioritising the mental, emotional, and physical well-being of colleagues, patients, service users, and yourself "
+        - "acting with empathy and care and considering the impact of your actions on others "
+        - "treating everyone with dignity and respect and tailoring your approach to suit each person "
+        - "creating space for honest conversations about concerns, errors, and performance "
+        - "creating chances for people to learn together, build trusting relationships, and feel part of the team "
+        - "challenging inappropriate use of power or hierarchy, whilst ensuring appropriate accountability "
+        - "balancing understanding and empathy with the courage to have difficult conversations and managing performance effectively "
+      practices:
+        effective:
+          - "Is empathetic and offers support when team members are having problems "
+          - "Understands and recognises the effort people are putting in, and what motivates them. Makes sure they feel valued as members of the team. "
+          - "Acknowledges the limits of what team members can take on, reviews workloads and adjusts timelines when necessary. "
+          - "Listens to communities' needs, uses resources to support inclusive services, and improves access to services. "
+        ineffective:
+          - "Focuses solely on outputs and ignores the challenges team members are facing. "
+          - "Manages tasks not relationships and isn't interested in individuals' wellbeing or the effort they are putting in. "
+          - "Ignores signs of burnout, fails to address workload issues and creates unnecessary stress around deadlines. "
+          - "Focuses solely on operational goals, overlooks disparities and ignores complaints. "
+    - name: "Curiosity "
+      summary: "Stay open and questioning. Use evidence, listen to diverse views, challenge old assumptions - and find better ways of doing things. "
+      mandate:
+        - "Stay open and questioning. "
+        - "Use evidence, listen to diverse views, challenge old assumptions - and find better ways of doing things. "
+      behaviors:
+        - "reflecting on your behaviours, acknowledging biases and using what you learn to grow professionally "
+        - "asking open questions, listening carefully to different views, and trying to understand them "
+        - "checking assumptions and using data, evidence, and risk assessments to guide improvements "
+        - "encouraging feedback and ideas from colleagues, partners, patients and service users and working together to find new solutions "
+        - "encouraging a culture where it's normal to question how things are done and push for more effective approaches "
+        - "using research and the team's expertise to spot trends, improve results and support innovation "
+        - "embracing learning opportunities and using technology where it helps "
+        - "working across professional, organisational, and system boundaries to achieve lasting improvements "
+      practices:
+        effective:
+          - "Uses open questions to help find inefficiencies and gets the whole team thinking creatively to address them. "
+          - "Fosters a culture of experimentation that encourages team members to be inquisitive, seek input from stakeholders and test new approaches. "
+          - "Questions assumptions and seeks different perspectives. "
+          - "Keeps up with the latest developments and tries out new approaches. "
+          - "Works to give colleagues the time, resources and space to think, plan and carry out improvements. "
+        ineffective:
+          - "Dismisses inefficiencies as unavoidable, resists exploring new approaches, and fails to engage the team in problem-solving. "
+          - "Relies on outdated methods without investigating root causes, discourages innovation, and fails to address delays and inefficiencies. "
+          - "Assumes traditional methods are sufficient, avoids exploring new ideas, and fails to adapt, leading to disengagement and missed opportunities. "
+          - "Avoids engaging with new technologies and relies on outdated strategies, leaving the organisation ill-prepared for future demands. "
+          - "Asks for innovative ideas but does not help colleagues manage competing pressures to implement these changes. "
+    - name: "Inclusion "
+      summary: "Confront discrimination, bullying, harassment and inequality. Ask who is missing, who isn't being heard, and why - and then act to address biases and unfairness. "
+      mandate:
+        - "Confront and remove discrimination, bullying, harassment and inequality. "
+        - "Ask who is missing, who isn't being heard, and why. Act to remove bias and unfairness. "
+      behaviors:
+        - "creating an environment where everyone feels safe, valued, supported, and can be themselves "
+        - "tailoring support to each person's needs and recognising that everyone is different "
+        - "standing up for colleagues who are treated unfairly-and helping others feel confident to do the same "
+        - "thinking about how conscious and unconscious biases affect decisions - and then addressing those biases "
+        - "listening to people who are marginalised or underrepresented - and valuing what they say "
+        - "making reasonable adjustments so that differences in background, identity, or ability don't unfairly limit participation or outcomes "
+        - "tackling the causes of injustices, rather than only reacting to the effects "
+        - "honouring other people's beliefs, customs and values "
+        - "understanding how diversity can make an organisation more effective - and helping others see this "
+        - "learning what inclusion really means-how people's different backgrounds and experiences shape their lives, and how to lead in ways that respect and include everyone "
+      practices:
+        effective:
+          - "Consults with people to understand their needs, implements inclusive practices, and educates people to create a supportive environment. "
+          - "Reviews hiring practices, addresses barriers to diversity, and implements inclusive strategies to attract and support underrepresented groups. "
+          - "Creates space for honest conversations, introduces bias training, and reviews policies to make sure they are fair and hold people to account. "
+          - "Puts fairness at the heart of strategy, directs resources to where they are most needed particularly to underserved groups - and acknowledges the advantages they may have and how these may shape their perspectives. "
+        ineffective:
+          - "Overlooks people's difficulties, expects them to adapt without support, and accepts exclusion in the workplace. "
+          - "Dismisses a lack of diversity as unavoidable, fails to address systemic barriers and limits opportunities for marginalised groups. "
+          - "Dismisses concerns, assumes existing policies are fair, and fails to provide opportunities for change, reinforcing systemic inequities. "
+          - "Avoids tackling inequality, treats equity as irrelevant to day-to-day work, and fails to invest in real change. "
+    - name: "Integrity "
+      summary: "Stay true to your values, even under pressure. Be honest and open. Stick to the highest professional and ethical standards. "
+      mandate:
+        - "Stay true to your values, even under pressure. "
+        - "Be honest and open. Stick to the highest professional and ethical standards. "
+      behaviors:
+        - "upholding the highest professional and ethical standards, especially when facing opposition or personal risk "
+        - "being honest and open and making sure your actions match your words "
+        - "keeping your promises and commitments "
+        - "acknowledging your faults and weaknesses, showing humility and willingness to learn "
+        - "giving and receiving honest feedback, encouraging openness and accountability "
+        - "facing challenges honestly and thinking about how your actions affect others "
+        - "being fair and treating people equally and helping your team do so, too "
+      practices:
+        effective:
+          - "Addresses issues privately and respectfully, checks the facts, and escalates when necessary to ensure transparency and fairness. "
+          - "Discloses conflicts of interest, removes themselves from decisions, and documents actions. "
+          - "Corrects errors promptly, informs all parties (including patients and those who access care and support, where involved) and puts steps in place to stop them happening again. "
+          - "Makes fair, open decisions and works with others to find balanced solutions that reflect the organisation's values. "
+        ineffective:
+          - "Ignores issues to avoid confrontation, compromising ethical standards and undermining trust within the team "
+          - "Doesn't disclose conflicts of interest and prioritises personal interests over integrity. "
+          - "Conceals errors to avoid scrutiny, leaving issues unresolved and eroding trust and accountability. "
+          - "Implements changes without consultation, ignoring ethical concerns and damaging trust and morale. "

@@ -1,0 +1,80 @@
+version: 1.0
+logic_model:
+  # Based on comment: "OUT OF SCOPE / INTERDEPENDENCIES (Inputs)"
+  inputs:
+    - id: A
+      label: "M&L Standards Framework Approved"
+      scope: outScope
+    - id: B
+      label: |
+        Assessment Against Competencies <br/> e.g., Self-assessment, 360, Appraisal
+      scope: outScope
+
+  # Based on comment: "IN SCOPE (Core Logic)"
+  core_logic:
+    activity:
+      - id: E
+        label: |
+          Activity:<br/>Provider: Design and development of modular learning resources aligned to the competencies
+        scope: inScope
+    output:
+      - id: F
+        label: |
+          Output:<br/>Provider: Free and accessible learning resources, aligned to competency & stage.
+        scope: inScope
+    outcomes:
+      - id: G
+        label: |
+          Outcome:<br/>Learners: Managers and leaders in all 
+          NHS organisations are aware of the modular learning resources  and recognise as credible introductory support for beginning competency development work (where a development need has been identified)
+        scope: inScope
+      - id: H
+        label: |
+          Outcome:<br/>Learners: Managers and leaders engage actively with module resources, experience them as stimulating genuine inquiry, discussion, action and reflection, and value their contribution to competency development.
+        scope: inScope
+      - id: I
+        label: |
+          Outcome:<br/>Learners: Managers and leaders gains knowledge (assessed at end of module).
+        scope: inScope
+      - id: J
+        label: |
+          Outcome:<br/>Learners: Managers and leaders recognise further work may be needed to meet the competency.
+        scope: inScope
+
+  # Other elements styled as 'outScope' in the diagram
+  related_dependencies:
+    - id: C
+      label: |
+        Learner Actions <br/> Journaling, Reflection, Discussion
+      scope: outScope
+    - id: D
+      label: |
+        Signposting to <br/> Deeper Learning
+      scope: outScope
+
+  # Based on comment: "LONGER TERM / SHARED OUTCOMES"
+  longer_term_outcomes:
+    - id: K
+      label: |
+        Longer Term:<br/>Managers & Leaders <br/> Meet Competencies
+      scope: outScope
+    - id: L
+      label: |
+        Impact:<br/>Intended Outcomes of <br/> Framework are Realised
+      scope: outScope
+
+  # Defines all relationships from the diagram
+  relationships:
+    - { from: A, to: E, type: solid }
+    - { from: B, to: E, type: solid }
+    - { from: E, to: F, type: solid }
+    - { from: F, to: G, type: solid }
+    - { from: F, to: H, type: solid }
+    - { from: F, to: I, type: solid }
+    - { from: F, to: J, type: solid }
+    - { from: H, to: C, type: dotted }
+    - { from: J, to: D, type: solid }
+    - { from: I, to: K, type: solid }
+    - { from: J, to: K, type: solid }
+    - { from: D, to: K, type: solid }
+    - { from: K, to: L, type: solid }
