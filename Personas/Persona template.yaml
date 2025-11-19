@@ -1,0 +1,337 @@
+# Persona Template - Documentation Guide
+
+# This template creates diverse, realistic personas for testing online learning content
+# against the Management and Leadership Framework competencies. Each section serves
+# a specific purpose in ensuring learning modules are inclusive, accessible, and
+# transformational rather than purely informational.
+
+---
+
+# BASIC IDENTIFICATION
+- personaId: "[Unique identifier, e.g., Persona 17]"
+  # Purpose: Links this persona to testing criteria files and competency assessments
+  # Used in: ml_framework_module_testing_criteria-[stage].yaml files
+
+  role: "[Professional role/job title]"
+  # Purpose: Establishes the organizational context and level of responsibility
+  # Links to: Stage-appropriate competencies in ml_framework_standards-competencies-v1_0.yaml
+  # Example: "Assistant Director of Finance", "Ward Sister", "Healthcare Assistant"
+
+  # NARRATIVE CONTEXT
+  context: >
+    [First-person narrative describing the role, responsibilities, and work context.
+    This should paint a realistic picture of daily work, challenges, and organizational
+    position. Include specific work activities, scope of responsibility, and key
+    relationships in the organization.]
+  # Purpose: Provides realistic grounding for evaluating whether learning content
+  # addresses actual work contexts and pressures
+  # Testing use: Ensures modules connect theory to real workplace scenarios
+
+  frameworkApplication: >
+    [First-person narrative describing how this person has engaged with or would
+    engage with the Management and Leadership Framework. Include learning preferences,
+    barriers faced, what's working, and specific competencies being developed.
+    Should reflect authentic voice and mixed feelings where appropriate.]
+  # Purpose: Shows real-world application of framework and learning approach
+  # Links to: competencyDevelopmentProfile section below
+  # Testing use: Validates that modules support diverse learning approaches and
+  # acknowledge real barriers to engagement
+
+  # DIVERSITY AND INCLUSION PROFILE
+  # This section is CRITICAL for Design Principle 10: "Difference, diversity,
+  # inclusion, and power as golden thread"
+
+  diversityProfile:
+    protectedCharacteristics:
+      - characteristic: "[Concise summary of identity markers including race, ethnicity,
+          gender, age, sexual orientation, disability, religion, etc.]"
+        # Example: "British Indian (Punjabi Sikh) man, age 47, heterosexual, turban-wearing"
+
+      - relevantContext: >
+          [Detailed context about background, immigration history, family context,
+          cultural practices, visible/invisible aspects of identity. Should provide
+          depth without stereotyping.]
+        # Purpose: Ensures testing catches content that assumes white, able-bodied,
+        # heterosexual, Christian, British-born perspectives as default
+
+    positionality:
+      # These fields map social position and access to resources/power
+
+      socialClass: "[Class background and current class position]"
+      # Purpose: Reveals economic barriers and cultural capital differences
+      # Testing use: Ensures modules don't assume middle-class resources/networks
+
+      educationalBackground: "[Educational pathway and qualifications]"
+      # Purpose: Shows diverse routes into roles (not just Russell Group universities)
+      # Testing use: Validates content is accessible regardless of educational background
+
+      familyContext: "[Family structure, caring responsibilities, living situation]"
+      # Purpose: Reveals time/flexibility constraints and support systems
+      # Testing use: Ensures modules acknowledge caring responsibilities and constraints
+
+      geographicContext: "[Location, commute, community context]"
+      # Purpose: Impacts access to networks, resources, and workplace culture fit
+      # Testing use: Checks assumptions about location and mobility
+
+      religiousIdentity: >
+          [If applicable, detailed description of religious practice, observance,
+          dietary requirements, prayer needs, visible markers, community involvement]
+      # Purpose: Ensures learning considers religious accommodation needs
+      # Testing use: Validates modules respect diverse religious practices
+
+    experienceOfPower:
+      # This section is essential for critical consciousness and transformational learning
+      # (P + Q = L: Programmed knowledge + Questioning insight = Learning)
+
+      minoritisedIdentities: >
+          [Summary of which aspects of identity create vulnerability or disadvantage
+          in workplace/society]
+      # Purpose: Names how power operates through identity categories
+      # Testing use: Ensures modules address rather than ignore power dynamics
+
+      experiencedBarriers:
+        - "[Specific structural/cultural barrier experienced]"
+        - "[Another barrier - be specific and realistic]"
+        # Purpose: Documents real obstacles that affect engagement with learning and work
+        # Testing use: Validates that modules acknowledge and address these barriers
+        # Should include: microaggressions, exclusion from informal networks, assumptions,
+        # accessibility barriers, discrimination, cultural exclusions, etc.
+
+      experiencedDiscrimination:
+        - "[Specific incident or pattern of discrimination]"
+        - "[Another form of discrimination experienced]"
+        # Purpose: Names the reality of workplace discrimination
+        # Testing use: Ensures modules don't present workplace as neutral/equal
+        # Should be realistic and specific to the persona's identities
+
+      powerPosition: >
+          [Nuanced analysis of where this person holds power (organizational role,
+          professional status, etc.) and where they experience vulnerability (minoritized
+          identities, caring responsibilities, etc.). Should acknowledge both privilege
+          and disadvantage.]
+      # Purpose: Develops intersectional understanding - nobody is only oppressed or only privileged
+      # Testing use: Ensures modules handle complexity of power, not simple oppressor/oppressed binary
+
+    criticalConsciousness:
+      # Maps readiness for transformational learning (questioning insight, not just information)
+      # Essential for Design Principle around I-We-It integration
+
+      awarenessOfStructuralInequality: >
+          [What structural inequalities does this person understand from lived experience?
+          What patterns can they see? Where might they have blind spots?]
+      # Purpose: Shows starting point for learning about power and difference
+      # Testing use: Validates modules meet people where they are, not where we wish they were
+
+      experienceChallengingPower: >
+          [How has this person challenged discrimination or advocated for change?
+          What risks have they taken? What has worked or not worked?]
+      # Purpose: Shows agency and existing expertise in equity work
+      # Testing use: Ensures modules build on existing knowledge, not patronizing
+
+      recognitionOfPrivilege: >
+          [What privileges does this person recognize they hold? What advantages
+          do they have that others don't?]
+      # Purpose: Supports learning about intersectionality and complexity of power
+      # Testing use: Validates modules help people see their own privilege
+
+      commitmentToJustice: >
+          [What drives this person's commitment to equity/inclusion? What values
+          or experiences motivate them? What kind of change do they want?]
+      # Purpose: Connects learning to intrinsic motivation and values
+      # Testing use: Ensures modules connect to diverse sources of motivation for equity
+
+  # LEARNING READINESS AND CAPACITY
+  # Links to Design Principle on accessibility and acknowledging limitations
+
+  learningReadiness:
+    currentCapabilities:
+      - "[Existing strength or skill]"
+      - "[Another capability they bring]"
+    # Purpose: Recognizes assets, not just deficits
+    # Testing use: Ensures modules build on strengths
+
+    learningPreferences:
+      - "[How they learn best]"
+      - "[Another learning preference]"
+    # Purpose: Reveals diverse learning approaches
+    # Testing use: Validates modules support varied learning styles beyond reading/classroom
+    # Links to: Design Principle on modular learning boundaries (what modules CAN do)
+
+    barriersToEngagement:
+      - "[Real constraint on learning]"
+      - "[Another barrier]"
+    # Purpose: Documents realistic obstacles to engagement
+    # Testing use: Ensures modules are designed with constraints in mind
+    # Should include: time, caring responsibilities, exhaustion, access issues, etc.
+
+    accessToLearning:
+      - "[What access they do have]"
+      - "[What support is available]"
+    # Purpose: Maps resources and opportunities
+    # Testing use: Checks assumptions about access to time, devices, space, support
+
+  # COMPETENCY DEVELOPMENT PROFILE
+  # Direct link to ml_framework_standards-competencies-v1_0.yaml
+  # Used to generate testing scenarios in ml_framework_module_testing_criteria files
+
+  competencyDevelopmentProfile:
+    targetCompetencies:
+      - "[Competency name from standards file] (Stage X)"
+      - "[Another target competency] (Stage X)"
+    # Purpose: Maps to specific competencies in the framework
+    # Must match: Exact competency names in ml_framework_standards-competencies-v1_0.yaml
+    # Testing use: Generates moduleTestingScenarios in testing criteria files
+    # Links to: Stage-appropriate descriptors in competency framework
+
+    priorKnowledge:
+      understands: >
+          [What knowledge and skills they already have relevant to target competencies]
+      # Purpose: Establishes baseline - avoids patronizing or too-advanced content
+      # Testing use: Validates modules build on existing knowledge appropriately
+
+      gaps: >
+          [What they need to learn or develop related to target competencies]
+      # Purpose: Identifies specific learning needs
+      # Testing use: Ensures modules address actual gaps, not assumed ones
+      # Should be specific to competencies and realistic about scope
+
+    contextualConstraints:
+      timeAvailable: "[Realistic weekly time for development activities]"
+      # Purpose: Sets realistic expectations for module length/commitment
+      # Testing use: Validates modules fit available time
+
+      systemPressures: "[Organizational/system pressures affecting learning]"
+      # Purpose: Acknowledges real-world constraints on applying learning
+      # Testing use: Ensures modules acknowledge these pressures exist
+
+      supportAvailable: "[What support exists for development]"
+      # Purpose: Maps resources for learning and implementation
+      # Testing use: Validates modules connect to available support
+
+    evidenceGatheringCapacity:
+      canDemonstrate:
+        - "[What evidence they can already gather]"
+        - "[Another demonstration capability]"
+      # Purpose: Shows existing capacity to evidence competency
+      # Testing use: Builds on existing evidence-gathering practices
+
+      needsSupport:
+        - "[What evidence-gathering they struggle with]"
+        - "[Another support need]"
+      # Purpose: Identifies where modules need to help with evidence
+      # Testing use: Ensures modules provide practical evidence-gathering support
+      # Links to: Design Principle on supporting evidence gathering
+
+    potentialMisunderstandings:
+      - "[Common misconception about competency development]"
+      - "[Another potential misunderstanding]"
+    # Purpose: Anticipates where learning might go wrong
+    # Testing use: Validates modules address common misconceptions explicitly
+    # Should be realistic misunderstandings, not strawman arguments
+
+  # PEER LEARNING CONTEXT
+  # Links to Design Principle on peer learning and communities of practice
+
+  peerLearningContext:
+    availability:
+      mentorAccess: "[Access to mentoring - reality, not aspiration]"
+      # Testing use: Validates modules support or supplement mentoring relationships
+
+      peerGroups: "[What peer networks exist or are accessible]"
+      # Testing use: Ensures modules acknowledge and build on peer learning
+
+      colleagueSupport: "[Support from immediate colleagues]"
+      # Testing use: Checks whether modules assume supportive environment or not
+
+    willingnessToEngage:
+      comfort: "[How comfortable with peer learning approaches]"
+      # Testing use: Validates modules meet people at different comfort levels
+
+      timeCommitment: "[Realistic commitment to peer learning]"
+      # Testing use: Ensures expectations are realistic
+
+      vulnerability: "[Willingness to be vulnerable in learning]"
+      # Testing use: Acknowledges safety needed for transformational learning
+      # Links to: Critical consciousness and power awareness
+
+  # DEVELOPMENTAL TRAJECTORY
+  # Shows the arc of learning and growth
+
+  developmentalTrajectory:
+    comingFrom: >
+        [Where is this person coming from? What's their recent history? What's
+        brought them to this point in their development?]
+    # Purpose: Provides context for current learning needs
+    # Testing use: Ensures modules meet people where they are in their journey
+
+    headingToward: >
+        [Where are they trying to go? What role or capability are they working
+        toward? What does success look like for them?]
+    # Purpose: Connects learning to meaningful goals
+    # Testing use: Validates modules support realistic career/development pathways
+
+    motivations:
+      - "[What drives their development]"
+      - "[Another motivation]"
+    # Purpose: Reveals intrinsic and extrinsic drivers
+    # Testing use: Ensures modules connect to diverse motivations
+    # Should be realistic mix of career, values, circumstances, identity, etc.
+
+# HOW THIS PERSONA GENERATES TESTING CRITERIA
+#
+# Each persona in this format is used to create testing criteria in the
+# ml_framework_module_testing_criteria-[stage].yaml files:
+#
+# 1. personaId, role, diversityContext → identification in testing file
+#
+# 2. diversityProfile → generates moduleEvaluationQuestions like:
+#    - Does module address [power dynamic from experiencedBarriers]?
+#    - Does module recognize [structural issue from awarenessOfStructuralInequality]?
+#    - Will this help me [challenge from experienceChallengingPower]?
+#
+# 3. targetCompetencies → generates moduleTestingScenarios with:
+#    - competency: [name from targetCompetencies]
+#    - testQuestion: Does module address [gap] while acknowledging [barrier]?
+#    - evaluationCriteria: Specific things module must include
+#
+# 4. learningReadiness + competencyDevelopmentProfile → ensures evaluationCriteria
+#    respect realistic scope of modular learning (from ml_modular_logic_model-v1_0.yaml)
+#
+# 5. All sections together → ensure Design Principle 10 (power and difference as
+#    golden thread) is genuinely embedded in testing, not just aspirational
+#
+# The testing criteria validate whether learning modules:
+# - Address power, not ignore it (from experienceOfPower)
+# - Support diverse learning approaches (from learningPreferences)
+# - Acknowledge constraints (from contextualConstraints, barriersToEngagement)
+# - Build on existing knowledge (from priorKnowledge)
+# - Support evidence gathering (from evidenceGatheringCapacity)
+# - Connect to real work contexts (from context, frameworkApplication)
+# - Are accessible and inclusive (from diversityProfile, accessToLearning)
+# - Support transformational learning (from criticalConsciousness)
+
+# RELATIONSHIP TO OTHER FRAMEWORK DOCUMENTS
+#
+# ml_framework_standards-competencies-v1_0.yaml
+#   - Source of truth for competency names and stage-appropriate descriptors
+#   - targetCompetencies must reference exact competency names from this file
+#   - Stage level determines complexity expectations in testing scenarios
+#
+# ml_framework_module_testing_criteria-[stage].yaml
+#   - OUTPUT: Each persona generates testing criteria in appropriate stage file
+#   - Uses personaId, role, diversityContext for identification
+#   - Transforms diversity profile into evaluation questions
+#   - Transforms target competencies into testing scenarios
+#
+# ml_modular_logic_model-v1_0.yaml
+#   - Defines what modular learning CAN and CANNOT achieve
+#   - Testing criteria must respect these boundaries (G,H,I,J vs K)
+#   - Ensures evaluationCriteria are realistic for modular format
+#
+# Design Principles (referenced in testing criteria documentation)
+#   - Principle 10: Power and difference as golden thread → diversityProfile required
+#   - P + Q = L formula: Transformational not just informational → criticalConsciousness
+#   - I-We-It integration → diversityProfile + competencyDevelopmentProfile
+#   - Accessibility and inclusion → learningReadiness, diversityProfile
+#   - Evidence gathering support → evidenceGatheringCapacity
+#   - Acknowledgment of limitations → contextualConstraints, barriersToEngagement

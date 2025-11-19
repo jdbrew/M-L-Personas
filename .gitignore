@@ -12,6 +12,8 @@ build/
 .pytest_cache/
 .coverage
 htmlcov/
+to test/
+ml_framework_personas_yaml.zip
 
 # IDEs
 .vscode/

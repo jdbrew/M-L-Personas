@@ -16,15 +16,15 @@ from typing import Dict, List, Any, Tuple
 
 
 # File paths
-BASE_DIR = Path("/home/user/M-L-Personas")
-COMPETENCIES_FILE = BASE_DIR / "ml_framework_standards-competencies-v1_0.yaml"
-LOGIC_MODEL_FILE = BASE_DIR / "ml_modular_logic_model-v1_0.yaml"
+BASE_DIR = Path(__file__).parent.absolute()
+COMPETENCIES_FILE = BASE_DIR / "Competency framework" / "ml_framework_standards-competencies-v1_0.yaml"
+LOGIC_MODEL_FILE = BASE_DIR / "Modular design" / "ml_modular_logic_model-v1_0.yaml"
 PERSONA_FILES = [
-    BASE_DIR / "ml_framework_personas-fundamental_stage.yaml",
-    BASE_DIR / "ml_framework_personas-stage1.yaml",
-    BASE_DIR / "ml_framework_personas-stage2.yaml",
-    BASE_DIR / "ml_framework_personas-stage3.yaml",
-    BASE_DIR / "ml_framework_personas-stage4.yaml",
+    BASE_DIR / "Personas" / "ml_framework_personas-fundamental_stage.yaml",
+    BASE_DIR / "Personas" / "ml_framework_personas-stage1.yaml",
+    BASE_DIR / "Personas" / "ml_framework_personas-stage2.yaml",
+    BASE_DIR / "Personas" / "ml_framework_personas-stage3.yaml",
+    BASE_DIR / "Personas" / "ml_framework_personas-stage4.yaml",
 ]
 
 
