@@ -1,6 +1,6 @@
 # Management and Leadership Framework - Stage 2 Personas
 
-**Version:** 0.2.3
+**Version:** 0.2.4
 
 ## Document Purpose
 
@@ -30,7 +30,7 @@ I would really like to be upskilled in how I can demonstrate value for money. Th
 ### Diversity Profile
 
 #### Protected Characteristics
-- **Identity:** White British man, age 63, heterosexual
+- **Characteristic:** White British man, age 63, heterosexual
 - **Relevant Context:** Professional middle-class background. Approaching retirement (within 2 years). Part of generation that expected career progression through loyalty and longevity. One of oldest staff members in ICB. Witnessing colleagues retire or being "managed out". Phased retirement under discussion.
 
 #### Positionality
@@ -171,7 +171,7 @@ As a HR manager, I expect that colleagues will come to me with questions around 
 ### Diversity Profile
 
 #### Protected Characteristics
-- **Identity:** Black British (Ghanaian heritage) woman, age 36, Christian faith
+- **Characteristic:** Black British (Ghanaian heritage) woman, age 36, Christian faith
 - **Relevant Context:** First generation born in UK. Parents migrated from Ghana. Professional middle class. Active in church community. Navigates multiple cultural contexts and expectations.
 
 #### Positionality
@@ -179,6 +179,7 @@ As a HR manager, I expect that colleagues will come to me with questions around 
 - **Educational Background:** Russell Group university, CIPD qualified, employment law training
 - **Family Context:** Married, two young children (ages 4 and 6), husband works shifts, limited family childcare support
 - **Geographic Context:** Urban area, long commute, diverse community
+- **Religious Identity:** Christian faith, active in church community. Church provides spiritual support and social network. Faith important to identity and values.
 
 #### Experience of Power
 - **Minoritised Identities:** Black woman in HR leadership, working parent on compressed hours, new to NHS, visible minority in predominantly white senior team
@@ -297,7 +298,7 @@ The management and leadership framework is helping me understand how to bridge t
 ### Diversity Profile
 
 #### Protected Characteristics
-- **Identity:** White British woman, age 41, bisexual (not out at work), disabled child
+- **Characteristic:** White British woman, age 41, bisexual (not out at work), parent of disabled child
 - **Relevant Context:** Professional middle class. Divorced after coming out as bisexual. Primary carer for child with autism and learning disabilities. Navigates multiple systems (healthcare, education, social care) as parent.
 
 #### Positionality
@@ -424,18 +425,18 @@ I have been in my role for a few years now but the career path forwards from her
 ### Diversity Profile
 
 #### Protected Characteristics
-- **Identity:** White British man, age 45, disabled (acquired mobility impairment), caring responsibilities
-- **Relevant Context:** Working class background. Acquired disability from accident 5 years ago (mobility impairment, uses walking aids, chronic pain). Primary carer for elderly mother with dementia. Navigates medical appointments and care coordination.
+- **Characteristic:** White British man, age 45, disabled (acquired mobility impairment), caring responsibilities
+- **Relevant Context:** Working class background. Acquired disability from accident 5 years ago (mobility impairment, uses walking aids, chronic pain). Primary carer for elderly mother with dementia. Navigates medical appointments and care coordination. Explicitly atheist/humanist - finds meaning in work, relationships, and helping others rather than religious belief.
 
 #### Positionality
 - **Social Class:** Working class, skilled tradesperson
 - **Educational Background:** Apprenticeship, vocational qualifications, HNC in engineering
 - **Family Context:** Divorced, no children, primary carer for mother, limited sibling support in caring
 - **Geographic Context:** Small town, lives near mother, limited public transport
-- **Secular Identity:** Explicitly atheist/humanist. Finds meaning in work, relationships, and helping others rather than religious belief. Dislikes religious presumptions in NHS (prayers at events, chaplaincy services assumed for all). Supports secular humanism and evidence-based ethics. Occasionally faces assumptions that everyone "believes in something" or that atheists lack moral framework.
+- **Religious Identity:** Explicitly atheist/humanist. Finds meaning in work, relationships, and helping others rather than religious belief. Dislikes religious presumptions in NHS (prayers at events, chaplaincy services assumed for all). Supports secular humanism and evidence-based ethics. Occasionally faces assumptions that everyone "believes in something" or that atheists lack moral framework.
 
 #### Experience of Power
-- **Minoritised Identities:** Disabled man in physical job, carer, non-graduate in professional context
+- **Minoritised Identities:** Disabled man in physical job, carer, non-graduate in professional context, atheist
 - **Experienced Barriers:**
   - Workplace accessibility issues (physical environment, equipment)
   - Assumptions about capability due to mobility impairment
@@ -557,8 +558,7 @@ I raised my desire to proactively support junior team members with my line manag
 ### Diversity Profile
 
 #### Protected Characteristics
-- **Identity:** British Chinese woman, age 28
-- **Identity:** Autistic (diagnosed age 21 during medical school)
+- **Characteristic:** British Chinese woman, age 28, autistic (diagnosed age 21 during medical school)
 - **Relevant Context:** Second-generation British Chinese. Professional middle class. Parents high expectations for medical career. Navigates model minority stereotype and gendered expectations in surgery. Autism diagnosis during medical school explained why clinical work felt easier than ward round small talk. Direct communication style sometimes perceived as blunt. Sensory overwhelm from constant noise/interruptions in hospital environment.
 
 #### Positionality
@@ -568,7 +568,7 @@ I raised my desire to proactively support junior team members with my line manag
 - **Geographic Context:** Urban teaching hospital, diverse patient population
 
 #### Experience of Power
-- **Minoritised Identities:** British Chinese woman in male-dominated surgery, relatively junior doctor, navigating model minority expectations
+- **Minoritised Identities:** British Chinese woman in male-dominated surgery, autistic person in neurotypical workplace, relatively junior doctor, navigating model minority expectations
 - **Experienced Barriers:**
   - Gender barriers in surgery (male-dominated specialty)
   - "Model minority" stereotypes about being quiet, hardworking, compliant
@@ -589,13 +589,13 @@ I raised my desire to proactively support junior team members with my line manag
   - Gender-based dismissiveness in theatre
   - Comments about needing to be more aggressive/confident
   - "You speak English so well" despite being British-born
-- **Power Position:** Moderate formal authority as SHO over foundation doctors. British Chinese woman in surgery creates multiple marginalisation. Junior doctor status limits power. Medical profession and education provide privilege. Model minority status gives conditional acceptance but creates pressure.
+- **Power Position:** Moderate formal authority as SHO over foundation doctors. British Chinese woman in surgery creates multiple marginalisation. Autistic identity adds layer of neurodivergence. Junior doctor status limits power. Medical profession and education provide privilege. Model minority status gives conditional acceptance but creates pressure.
 
 #### Critical Consciousness
-- **Awareness of Structural Inequality:** Increasingly aware of how model minority myth operates to create wedges between minoritised groups. Understands gender barriers in surgery. Recognises how stereotypes about East Asian women limit leadership perceptions. Sees intersections of race and gender in surgical culture.
+- **Awareness of Structural Inequality:** Increasingly aware of how model minority myth operates to create wedges between minoritised groups. Understands gender barriers in surgery. Recognises how stereotypes about East Asian women limit leadership perceptions. Sees intersections of race and gender in surgical culture. Growing understanding of ableism and neurodiversity.
 - **Experience Challenging Power:** Challenges stereotypes by pursuing surgery. Advocates for junior doctors' wellbeing. Pushes back on aggressive surgical culture. Strategic about when to challenge given junior status. Mentors medical students from minoritised backgrounds.
-- **Recognition of Privilege:** Professional family, financial security, medical degree, model minority conditional privilege, heterosexual, able-bodied, British-born, English first language, middle class.
-- **Commitment to Justice:** Committed to compassionate surgical culture. Wants to increase diversity in surgery. Believes in supportive rather than aggressive training culture. Protective of junior colleagues' wellbeing.
+- **Recognition of Privilege:** Professional family, financial security, medical degree, model minority conditional privilege, heterosexual, British-born, English first language, middle class.
+- **Commitment to Justice:** Committed to compassionate surgical culture. Wants to increase diversity in surgery. Believes in supportive rather than aggressive training culture. Protective of junior colleagues' wellbeing. Advocates for neurodiversity inclusion.
 
 ### Learning Readiness
 
@@ -691,8 +691,8 @@ The framework includes safety and wellbeing so I included this element of the fr
 ### Diversity Profile
 
 #### Protected Characteristics
-- **Identity:** White British trans man, age 35, gay, has mental health lived experience
-- **Relevant Context:** Working class background. Trans man (transitioned age 21 during university). Came to psychology through own mental health recovery, partly linked to gender dysphoria journey. Out at work as both trans and gay. Partner is cisgender man. Experience of mental health system as service user and trans person informs professional practice.
+- **Characteristic:** White British trans man, age 35, gay, has mental health lived experience
+- **Relevant Context:** Working class background. Trans man (transitioned age 21 during university). Came to psychology through own mental health recovery, partly linked to gender dysphoria journey. Out at work as both trans and gay. Partner is cisgender man. Experience of mental health system as service user and trans person informs professional practice. Socially transitioned at 21, medically transitioned over several years. Mental health system experiences include both supportive and harmful interactions. "Passing privilege" as binary trans man means often assumed cisgender unless disclosed.
 
 #### Positionality
 - **Social Class:** Working class background, professional middle class now
@@ -826,7 +826,7 @@ I am keen to ensure that lessons are learnt and shared across all our partners. 
 ### Diversity Profile
 
 #### Protected Characteristics
-- **Identity:** Mixed heritage (White British and British Pakistani) woman, age 44, Muslim faith
+- **Characteristic:** Mixed heritage (White British and British Pakistani) woman, age 44, Muslim faith
 - **Relevant Context:** Father white British, mother Pakistani. Raised Muslim. Practising Muslim requiring prayer times and observing Ramadan. Professional middle class. Navigates multiple cultural contexts and identities.
 
 #### Positionality
@@ -834,6 +834,7 @@ I am keen to ensure that lessons are learnt and shared across all our partners. 
 - **Educational Background:** Nursing degree, MSc public health, leadership qualifications
 - **Family Context:** Married to Pakistani Muslim man, three children (teens), shared caring with husband
 - **Geographic Context:** Urban area, serves diverse communities
+- **Religious Identity:** Practising Muslim requiring prayer times and observing Ramadan. Faith important to identity and values. Active in mosque community. Wears headscarf part-time. Navigates Islamophobic attitudes and assumptions. Requires workplace accommodations for religious practice.
 
 #### Experience of Power
 - **Minoritised Identities:** Mixed heritage Muslim woman, visible minority, practising Muslim requiring accommodations, woman in senior operational role

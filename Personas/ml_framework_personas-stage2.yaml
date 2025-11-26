@@ -1,4 +1,10 @@
-version: "0.2.3"
+# Management and Leadership Framework - Stage 2 Personas
+# Version: 0.2.4
+# Updated: 2025-11-26
+# This file contains diverse, realistic personas for testing online learning content
+# against Stage 2 competencies of the Management and Leadership Framework
+
+version: "0.2.4"
 managementAndLeadershipFramework:
   frameworkElementName: Personas by stage of the Management and Leadership Framework (Gap-Analysis Edition)
   documentPurpose: >
@@ -7,7 +13,7 @@ managementAndLeadershipFramework:
     WRES/WDES workforce data, learning readiness profiles, and specific evaluation
     criteria to test whether modules genuinely address power, difference, inclusion,
     and transformational learning as specified in the design guidelines.
-  
+
   stages:
   - stageName: 'Stage 2: Middle managers and leaders'
     description: >
@@ -16,10 +22,11 @@ managementAndLeadershipFramework:
       and are accountable for outcomes across their area of responsibility. They
       translate organisational strategy into operational delivery and build
       capability across teams.
-    
+
     personas:
     - personaId: Persona 10
       role: Strategic Commissioning Manager
+
       context: >
         I work as a strategic commissioning manager in an integrated care board.
         A lot of my work is around overseeing and managing healthcare contracts.
@@ -29,7 +36,7 @@ managementAndLeadershipFramework:
         years and in other roles in the NHS for many more years. I currently
         work full time, but I am considering what the next steps are for me
         around reducing my hours and retirement.
-      
+
       frameworkApplication: >
         I would really like to be upskilled in how I can demonstrate value
         for money. The management and leadership framework is helping me make
@@ -39,20 +46,22 @@ managementAndLeadershipFramework:
         responsibly. As a manager, I have also worked to create development
         plans for my team and have used the Framework as a starting point for
         these conversations.
-      
+
       diversityProfile:
         protectedCharacteristics:
-          - characteristic: White British man, age 63, heterosexual
-          - relevantContext: >
-              Professional middle-class background. Approaching retirement (within 2 years).
-              Part of generation that expected career progression through loyalty and
-              longevity. One of oldest staff members in ICB. Witnessing colleagues
-              retire or being "managed out". Phased retirement under discussion.
+          characteristic: White British man, age 63, heterosexual
+          relevantContext: >
+            Professional middle-class background. Approaching retirement (within 2 years).
+            Part of generation that expected career progression through loyalty and
+            longevity. One of oldest staff members in ICB. Witnessing colleagues
+            retire or being "managed out". Phased retirement under discussion.
+
         positionality:
           socialClass: Middle class, professional family
           educationalBackground: University degree (humanities), professional qualifications in commissioning
           familyContext: Married, adult children, grandparent to three, elderly parents (both mid-80s) needing significant care support
           geographicContext: Suburban area, commutes to urban ICB offices
+
         experienceOfPower:
           minoritisedIdentities: >
             Older worker in 60s approaching mandatory retirement age, actively experiencing
@@ -76,7 +85,7 @@ managementAndLeadershipFramework:
             - Assumptions that he's resistant to change and "stuck in his ways"
             - Being left out of innovation projects or digital transformation
             - Patronising comments about learning new systems
-            - \'"OK boomer" dismissiveness\'
+            - '"OK boomer" dismissiveness'
             - Assumptions about retirement plans without asking
             - Comments about "making way for fresh blood"
             - Being talked about in third person as if not present
@@ -87,6 +96,7 @@ managementAndLeadershipFramework:
             middle-class status confers significant structural privilege. Age creates
             vulnerability and marginalisation. Long tenure gives deep knowledge but
             also risk of being seen as "stuck in past".
+
         criticalConsciousness:
           awarenessOfStructuralInequality: >
             Becoming increasingly aware of ageism in workplace. Recognises own
@@ -105,6 +115,7 @@ managementAndLeadershipFramework:
             Growing commitment to age diversity and intergenerational fairness.
             Wants to leave legacy of supporting others. Believes in value for money
             and responsible use of public funds. Protective of commissioning expertise.
+
       learningReadiness:
         currentCapabilities:
           - Deep knowledge of commissioning and contracting
@@ -123,7 +134,7 @@ managementAndLeadershipFramework:
           - Can access during work time
           - Prefers mentor/coach support over online modules
           - Benefits from patient, respectful approaches
-      
+
       competencyDevelopmentProfile:
         targetCompetencies:
           - Maximise outputs and get best value for public money (Stage 2)
@@ -160,7 +171,7 @@ managementAndLeadershipFramework:
           - Feeling he must leave to make space for younger colleagues
           - Believing age discrimination is just "natural" or inevitable
           - Thinking phased retirement is being "managed out" kindly
-      
+
       peerLearningContext:
         availability:
           mentorAccess: Seeking mentor to support value for money development
@@ -170,7 +181,7 @@ managementAndLeadershipFramework:
           comfort: More comfortable with smaller groups or one-to-one
           timeCommitment: Willing to commit time to meaningful development
           vulnerability: Reluctant to show uncertainty, especially about digital skills
-      
+
       developmentalTrajectory:
         comingFrom: >
           Long NHS commissioning career through multiple reorganisations. Navigating
@@ -189,6 +200,7 @@ managementAndLeadershipFramework:
 
     - personaId: Persona 11
       role: HR Manager
+
       context: >
         I am a HR manager. I manage a small specialist HR team to make sure
         that HR issues are fully considered and managed before, during and
@@ -200,7 +212,7 @@ managementAndLeadershipFramework:
         away from work for learning and development is difficult as my days
         are jam packed. I prefer learning online in small, bite-sized chunks
         that I can fit around my busy schedule.
-      
+
       frameworkApplication: >
         As a HR manager, I expect that colleagues will come to me with questions
         around the management and leadership framework. I want to make sure
@@ -209,19 +221,24 @@ managementAndLeadershipFramework:
         recorded sessions on the different areas it covers. This helps me fully
         understand the framework and the areas it relates to. It will also
         help me support my team and other colleagues in using the framework.
-      
+
       diversityProfile:
         protectedCharacteristics:
-          - characteristic: Black British (Ghanaian heritage) woman, age 36, Christian faith
-          - relevantContext: >
-              First generation born in UK. Parents migrated from Ghana. Professional
-              middle class. Active in church community. Navigates multiple cultural
-              contexts and expectations.
+          characteristic: Black British (Ghanaian heritage) woman, age 36, Christian faith
+          relevantContext: >
+            First generation born in UK. Parents migrated from Ghana. Professional
+            middle class. Active in church community. Navigates multiple cultural
+            contexts and expectations.
+
         positionality:
           socialClass: Working class background, professional middle class now
           educationalBackground: Russell Group university, CIPD qualified, employment law training
           familyContext: Married, two young children (ages 4 and 6), husband works shifts, limited family childcare support
           geographicContext: Urban area, long commute, diverse community
+          religiousIdentity: >
+            Christian faith, active in church community. Church provides spiritual support
+            and social network. Faith important to identity and values.
+
         experienceOfPower:
           minoritisedIdentities: >
             Black woman in HR leadership, working parent on compressed hours, new to NHS,
@@ -244,6 +261,7 @@ managementAndLeadershipFramework:
             creates multiple sources of marginalisation. New to NHS limits credibility
             despite expertise. HR function sometimes sidelined in decision-making.
             Professional status provides some legitimacy.
+
         criticalConsciousness:
           awarenessOfStructuralInequality: >
             Deeply aware of racial inequalities in workforce and how HR policies can
@@ -263,6 +281,7 @@ managementAndLeadershipFramework:
             Deep commitment to equitable HR practice. Wants HR to be force for good
             not just compliance. Believes in genuinely flexible working for all.
             Champions staff voice. Protective of marginalised staff.
+
       learningReadiness:
         currentCapabilities:
           - Strong HR expertise and employment law knowledge
@@ -281,7 +300,7 @@ managementAndLeadershipFramework:
           - Can access short modules during compressed working day
           - Good IT skills and access
           - Needs mobile-accessible, pause-able content
-      
+
       competencyDevelopmentProfile:
         targetCompetencies:
           - Implement policies and ensure good governance (Stage 2)
@@ -316,7 +335,7 @@ managementAndLeadershipFramework:
           - Thinking "new to NHS" means lacking capability
           - Believing compressed hours means less commitment
           - Assuming HR expertise from other sectors not transferable
-      
+
       peerLearningContext:
         availability:
           mentorAccess: Seeking NHS-experienced HR mentor
@@ -326,7 +345,7 @@ managementAndLeadershipFramework:
           comfort: Very comfortable with peer learning and discussion
           timeCommitment: Willing but constrained by compressed hours and childcare
           vulnerability: Comfortable sharing HR challenges, selective about discrimination experiences
-      
+
       developmentalTrajectory:
         comingFrom: >
           Successful HR career in private sector. Transitioning into NHS and learning
@@ -343,6 +362,7 @@ managementAndLeadershipFramework:
 
     - personaId: Persona 12
       role: Specialist Healthcare Scientist
+
       context: >
         As a specialist healthcare scientist, I provide diagnostic support to
         cardiology and respiratory inpatient and outpatient services. I am
@@ -356,25 +376,27 @@ managementAndLeadershipFramework:
         outside of my working hours. I am keen to access learning and development
         opportunities, but I can realistically only attend if I am given time
         away from work, and they take place within my working hours.
-      
+
       frameworkApplication: >
         The management and leadership framework is helping me understand how
         to bridge the gap between stages 2 and 3 so I can take the next step
         in my career. I'm identifying learning needs through the framework,
         like resolving difficult situations.
-      
+
       diversityProfile:
         protectedCharacteristics:
-          - characteristic: White British woman, age 41, bisexual (not out at work), disabled child
-          - relevantContext: >
-              Professional middle class. Divorced after coming out as bisexual.
-              Primary carer for child with autism and learning disabilities. Navigates
-              multiple systems (healthcare, education, social care) as parent.
+          characteristic: White British woman, age 41, bisexual (not out at work), parent of disabled child
+          relevantContext: >
+            Professional middle class. Divorced after coming out as bisexual.
+            Primary carer for child with autism and learning disabilities. Navigates
+            multiple systems (healthcare, education, social care) as parent.
+
         positionality:
           socialClass: Middle class, professional
           educationalBackground: BSc in healthcare science, MSc, professional registration
           familyContext: Single parent (divorced), one child age 9 with autism and learning disabilities, limited co-parent support
           geographicContext: Suburban area, child attends specialist school 30 minutes away
+
         experienceOfPower:
           minoritisedIdentities: >
             Bisexual woman (closeted at work), single parent, parent of disabled child,
@@ -400,6 +422,7 @@ managementAndLeadershipFramework:
             than medicine/nursing. White, middle-class, professional status provides
             privilege. Hidden bisexual identity means passing privilege but also
             psychological cost.
+
         criticalConsciousness:
           awarenessOfStructuralInequality: >
             Deeply aware through parenting how systems disable and exclude. Understands
@@ -421,6 +444,7 @@ managementAndLeadershipFramework:
             caring responsibilities are normal not exceptional. Believes in valuing
             all staff contributions regardless of availability patterns. Protective
             of marginalised patients and families.
+
       learningReadiness:
         currentCapabilities:
           - Excellent technical diagnostic expertise
@@ -439,7 +463,7 @@ managementAndLeadershipFramework:
           - Needs protected working hours learning time
           - Good IT skills
           - Benefits from flexible, pause-able content given interruptions
-      
+
       competencyDevelopmentProfile:
         targetCompetencies:
           - Lead a collaborative team (Stage 2)
@@ -474,7 +498,7 @@ managementAndLeadershipFramework:
           - Thinking caring responsibilities prevent leadership
           - Believing she needs to hide single parent status
           - Assuming career progression requires traditional availability patterns
-      
+
       peerLearningContext:
         availability:
           mentorAccess: Limited - needs mentor who understands caring constraints
@@ -484,7 +508,7 @@ managementAndLeadershipFramework:
           comfort: Very willing to engage in peer learning during work time
           timeCommitment: Highly motivated but strictly limited to working hours
           vulnerability: Selective - comfortable about single parent status, hidden about sexuality
-      
+
       developmentalTrajectory:
         comingFrom: >
           Clinical specialist developing leadership capability. Navigating career
@@ -502,6 +526,7 @@ managementAndLeadershipFramework:
 
     - personaId: Persona 13
       role: Lead Vehicle Engineer
+
       context: >
         I am the lead vehicle engineer at an ambulance trust. My team ensures
         that all trust vehicles and specialist equipment both leased and owned
@@ -515,7 +540,7 @@ managementAndLeadershipFramework:
         currently work full time and would like to continue to do so but any
         position I take on will need to allow for flexibility in my daily schedule
         to accommodate my caring responsibilities.
-      
+
       frameworkApplication: >
         I have been in my role for a few years now but the career path forwards
         from here is a bit tricky to navigate. I feel confident in my ability
@@ -526,28 +551,31 @@ managementAndLeadershipFramework:
         considering on the job learning opportunities as they come up. It is
         making me feel more positive about my career aspirations and is improving
         my relationship with my line manager as I feel more valued as a person.
-      
+
       diversityProfile:
         protectedCharacteristics:
-          - characteristic: White British man, age 45, disabled (acquired mobility impairment), caring responsibilities
-          - relevantContext: >
-              Working class background. Acquired disability from accident 5 years ago
-              (mobility impairment, uses walking aids, chronic pain). Primary carer
-              for elderly mother with dementia. Navigates medical appointments and
-              care coordination.
+          characteristic: White British man, age 45, disabled (acquired mobility impairment), caring responsibilities
+          relevantContext: >
+            Working class background. Acquired disability from accident 5 years ago
+            (mobility impairment, uses walking aids, chronic pain). Primary carer
+            for elderly mother with dementia. Navigates medical appointments and
+            care coordination. Explicitly atheist/humanist - finds meaning in work,
+            relationships, and helping others rather than religious belief.
+
         positionality:
           socialClass: Working class, skilled tradesperson
           educationalBackground: Apprenticeship, vocational qualifications, HNC in engineering
           familyContext: Divorced, no children, primary carer for mother, limited sibling support in caring
           geographicContext: Small town, lives near mother, limited public transport
-          secularIdentity: >
+          religiousIdentity: >
             Explicitly atheist/humanist. Finds meaning in work, relationships, and helping
             others rather than religious belief. Dislikes religious presumptions in NHS
             (prayers at events, chaplaincy services assumed for all). Supports secular
             humanism and evidence-based ethics. Occasionally faces assumptions that
             everyone "believes in something" or that atheists lack moral framework.
+
         experienceOfPower:
-          minoritisedIdentities: Disabled man in physical job, carer, non-graduate in professional context
+          minoritisedIdentities: Disabled man in physical job, carer, non-graduate in professional context, atheist
           experiencedBarriers:
             - Workplace accessibility issues (physical environment, equipment)
             - Assumptions about capability due to mobility impairment
@@ -573,6 +601,7 @@ managementAndLeadershipFramework:
             and sometimes suspicion. Technical non-clinical role structurally less
             powerful than clinical roles. White, male, heterosexual status provides
             privilege. Working class background creates some marginalisation.
+
         criticalConsciousness:
           awarenessOfStructuralInequality: >
             Deeply aware from lived experience how disability is constructed as
@@ -594,6 +623,7 @@ managementAndLeadershipFramework:
             normalising caring responsibilities for all genders. Wants technical
             expertise recognised and valued. Advocates for non-clinical staff.
             Protective of team members with caring duties.
+
       learningReadiness:
         currentCapabilities:
           - Excellent technical engineering expertise
@@ -612,7 +642,7 @@ managementAndLeadershipFramework:
           - Needs flexibility around medical appointments and caring
           - Can access during work time
           - Prefers accessible formats (adjustable font, rest breaks)
-      
+
       competencyDevelopmentProfile:
         targetCompetencies:
           - Drive continuous improvement and innovation (Stage 2)
@@ -647,7 +677,7 @@ managementAndLeadershipFramework:
           - Thinking leadership is only for clinical or corporate roles
           - Believing his technical expertise isn't "real" leadership
           - Assuming disability limits future career options
-      
+
       peerLearningContext:
         availability:
           mentorAccess: Limited - needs mentor who understands technical roles and disability
@@ -657,7 +687,7 @@ managementAndLeadershipFramework:
           comfort: Comfortable with practical discussion and problem-solving
           timeCommitment: Willing but needs flexibility around caring and health
           vulnerability: Selective - comfortable about technical challenges, cautious about disability/caring
-      
+
       developmentalTrajectory:
         comingFrom: >
           Senior engineer developing team leadership. Seeking clarity on career
@@ -675,6 +705,7 @@ managementAndLeadershipFramework:
 
     - personaId: Persona 14
       role: Senior House Officer (General Surgery)
+
       context: >
         I am a general surgery senior house officer (SHO). I carry out day-to-day
         patient care such as history taking, clinical examinations and investigations.
@@ -686,7 +717,7 @@ managementAndLeadershipFramework:
         learning and being assessed on my practical surgical skills but would
         like to make sure that I am supporting junior staff members appropriately
         too by focusing on my management and leadership skills.
-      
+
       frameworkApplication: >
         I raised my desire to proactively support junior team members with my
         line manager. They told me this is set out in the management and leadership
@@ -699,34 +730,28 @@ managementAndLeadershipFramework:
         more comfortable supporting them and it has opened the channels of
         communication with the team on how we can support and provide constructive
         support and feedback with each other.
-      
+
       diversityProfile:
         protectedCharacteristics:
-          - characteristic: British Chinese woman, age 28
-          - characteristic: Autistic (diagnosed age 21 during medical school)
-          - relevantContext: >
-              Second-generation British Chinese. Professional middle class. Parents
-              high expectations for medical career. Navigates model minority stereotype
-              and gendered expectations in surgery. Autism diagnosis during medical school
-              explained why clinical work felt easier than ward round small talk.
-              Direct communication style sometimes perceived as blunt. Sensory overwhelm
-              from constant noise/interruptions in hospital environment.
+          characteristic: British Chinese woman, age 28, autistic (diagnosed age 21 during medical school)
+          relevantContext: >
+            Second-generation British Chinese. Professional middle class. Parents
+            high expectations for medical career. Navigates model minority stereotype
+            and gendered expectations in surgery. Autism diagnosis during medical school
+            explained why clinical work felt easier than ward round small talk.
+            Direct communication style sometimes perceived as blunt. Sensory overwhelm
+            from constant noise/interruptions in hospital environment.
+
         positionality:
           socialClass: Middle class, professional family (parents both in healthcare)
           educationalBackground: Medical degree from Russell Group university, foundation training
           familyContext: Unmarried, lives with partner (also doctor), parents expect marriage and children soon
           geographicContext: Urban teaching hospital, diverse patient population
-          disabilityExperience: >
-            Autism diagnosis during medical school. Excellent at systematic surgical
-            procedures and pattern recognition. Struggles with "reading the room" in
-            team dynamics and informal hierarchies. Direct communication style natural
-            but perceived as blunt. Sensory environment (lights, alarms, phones, multiple
-            conversations) causes overwhelm, especially during long shifts. Clinical
-            protocols and explicit procedures feel safer than ambiguous social situations.
+
         experienceOfPower:
           minoritisedIdentities: >
-            British Chinese woman in male-dominated surgery, relatively junior doctor,
-            navigating model minority expectations
+            British Chinese woman in male-dominated surgery, autistic person in neurotypical
+            workplace, relatively junior doctor, navigating model minority expectations
           experiencedBarriers:
             - Gender barriers in surgery (male-dominated specialty)
             - '"Model minority" stereotypes about being quiet, hardworking, compliant'
@@ -749,15 +774,18 @@ managementAndLeadershipFramework:
             - '"You speak English so well" despite being British-born'
           powerPosition: >
             Moderate formal authority as SHO over foundation doctors. British Chinese
-            woman in surgery creates multiple marginalisation. Junior doctor status
-            limits power. Medical profession and education provide privilege. Model
-            minority status gives conditional acceptance but creates pressure.
+            woman in surgery creates multiple marginalisation. Autistic identity adds
+            layer of neurodivergence. Junior doctor status limits power. Medical
+            profession and education provide privilege. Model minority status gives
+            conditional acceptance but creates pressure.
+
         criticalConsciousness:
           awarenessOfStructuralInequality: >
             Increasingly aware of how model minority myth operates to create wedges
             between minoritised groups. Understands gender barriers in surgery.
             Recognises how stereotypes about East Asian women limit leadership
             perceptions. Sees intersections of race and gender in surgical culture.
+            Growing understanding of ableism and neurodiversity.
           experienceChallengingPower: >
             Challenges stereotypes by pursuing surgery. Advocates for junior doctors'
             wellbeing. Pushes back on aggressive surgical culture. Strategic about
@@ -765,12 +793,14 @@ managementAndLeadershipFramework:
             minoritised backgrounds.
           recognitionOfPrivilege: >
             Professional family, financial security, medical degree, model minority
-            conditional privilege, heterosexual, able-bodied, British-born, English
-            first language, middle class.
+            conditional privilege, heterosexual, middle class, British-born, English
+            first language.
           commitmentToJustice: >
             Committed to compassionate surgical culture. Wants to increase diversity
             in surgery. Believes in supportive rather than aggressive training culture.
-            Protective of junior colleagues' wellbeing.
+            Protective of junior colleagues' wellbeing. Advocates for neurodiversity
+            inclusion.
+
       learningReadiness:
         currentCapabilities:
           - Strong clinical and technical surgical skills
@@ -789,7 +819,7 @@ managementAndLeadershipFramework:
           - Limited protected time for non-clinical learning
           - Can access short modules between shifts
           - Values learning that integrates with clinical practice
-      
+
       competencyDevelopmentProfile:
         targetCompetencies:
           - Provide clear purpose, vision, and deliverables (Stage 2)
@@ -824,7 +854,7 @@ managementAndLeadershipFramework:
           - Thinking leadership means being aggressive/loud
           - Believing technical competence automatically means leadership
           - Assuming she needs to fit masculine surgical culture norms
-      
+
       peerLearningContext:
         availability:
           mentorAccess: Educational supervisor, could benefit from leadership mentor
@@ -834,7 +864,7 @@ managementAndLeadershipFramework:
           comfort: Values peer learning and reflection
           timeCommitment: Limited by rota but motivated
           vulnerability: Comfortable sharing clinical challenges, building confidence in leadership discussions
-      
+
       developmentalTrajectory:
         comingFrom: >
           Foundation training into surgical specialty training. Building leadership
@@ -851,6 +881,7 @@ managementAndLeadershipFramework:
 
     - personaId: Persona 15
       role: Lead Psychological Wellbeing Practitioner
+
       context: >
         As a lead psychological wellbeing practitioner I provide clinical leadership
         and nurture the professional growth of my psychological wellbeing practitioner
@@ -863,7 +894,7 @@ managementAndLeadershipFramework:
         leadership. Our services are in high demand. My team deal with the
         mental health of our patients every day with increasing workloads but
         there is more that we can do to support their personal wellbeing.
-      
+
       frameworkApplication: >
         The framework includes safety and wellbeing so I included this element
         of the framework when I raised my concerns with our service management
@@ -872,27 +903,26 @@ managementAndLeadershipFramework:
         specialist support for staff should they need it. I am hoping that
         if this is successful in my team then other psychological wellbeing
         practitioner teams might also choose to implement something similar.
-      
+
       diversityProfile:
         protectedCharacteristics:
-          - characteristic: White British trans man, age 35, gay, has mental health lived experience
-          - relevantContext: >
-              Working class background. Trans man (transitioned age 21 during university).
-              Came to psychology through own mental health recovery, partly linked to
-              gender dysphoria journey. Out at work as both trans and gay. Partner is
-              cisgender man. Experience of mental health system as service user and
-              trans person informs professional practice.
+          characteristic: White British trans man, age 35, gay, has mental health lived experience
+          relevantContext: >
+            Working class background. Trans man (transitioned age 21 during university).
+            Came to psychology through own mental health recovery, partly linked to
+            gender dysphoria journey. Out at work as both trans and gay. Partner is
+            cisgender man. Experience of mental health system as service user and
+            trans person informs professional practice. Socially transitioned at 21,
+            medically transitioned over several years. Mental health system experiences
+            include both supportive and harmful interactions. "Passing privilege" as
+            binary trans man means often assumed cisgender unless disclosed.
+
         positionality:
           socialClass: Working class background, professional middle class now
           educationalBackground: Access course, psychology degree (mature student), postgrad diploma PWP
           familyContext: Civil partnership, no children, supportive partner also in mental health
           geographicContext: Mixed urban/rural patch, significant travel between sites
-          transitionExperience: >
-            Socially transitioned at 21, medically transitioned over several years.
-            Mental health system experiences include both supportive and harmful
-            interactions. Gender dysphoria diagnosis and treatment navigation taught
-            resilience. Partner met post-transition. "Passing privilege" as binary
-            trans man means often assumed cisgender unless disclosed.
+
         experienceOfPower:
           minoritisedIdentities: >
             Trans man, gay, working class background, mental health service user, PWP
@@ -926,6 +956,7 @@ managementAndLeadershipFramework:
             advantages. "Passing privilege" reduces some discrimination but doesn't
             eliminate vulnerability. PWP role structurally less powerful than clinical
             psychology.
+
         criticalConsciousness:
           awarenessOfStructuralInequality: >
             Deep understanding from lived experience how mental health services can
@@ -953,6 +984,7 @@ managementAndLeadershipFramework:
             staff wellbeing. Wants trans-inclusive services and workplaces. Advocates
             for PWP profession recognition. Committed to improving gender identity
             services.
+
       learningReadiness:
         currentCapabilities:
           - Strong clinical leadership and supervision
@@ -971,7 +1003,7 @@ managementAndLeadershipFramework:
           - Can access during work time but travel reduces availability
           - Good IT access for remote learning
           - Values learning that acknowledges mental health context
-      
+
       competencyDevelopmentProfile:
         targetCompetencies:
           - Make sure people feel safe in the workplace (Stage 2)
@@ -1006,7 +1038,7 @@ managementAndLeadershipFramework:
           - Thinking staff wellbeing is "nice to have" not essential
           - Believing emotional intelligence is less important than other skills
           - Assuming lived experience of mental health is liability not asset
-      
+
       peerLearningContext:
         availability:
           mentorAccess: Clinical psychology supervisor, could benefit from leadership mentor
@@ -1016,7 +1048,7 @@ managementAndLeadershipFramework:
           comfort: Very comfortable with reflective peer learning
           timeCommitment: Motivated despite time pressures
           vulnerability: Comfortable sharing both clinical and personal insights
-      
+
       developmentalTrajectory:
         comingFrom: >
           PWP clinical practice into team leadership. Developing strategic influence
@@ -1034,6 +1066,7 @@ managementAndLeadershipFramework:
 
     - personaId: Persona 16
       role: Head of Neighbourhood Teams
+
       context: >
         As Head of Neighbourhood teams, I lead the implementation of the neighbourhood
         team model across my area. I use clinical practitioner expertise to
@@ -1043,7 +1076,7 @@ managementAndLeadershipFramework:
         with clinical leads, Primary Care Networks, GPs and general practice
         staff, local hospitals, commissioners, operational managers, residents,
         patients and carers.
-      
+
       frameworkApplication: >
         I am keen to ensure that lessons are learnt and shared across all our
         partners. I recognised this was an area I needed to improve when I
@@ -1053,19 +1086,26 @@ managementAndLeadershipFramework:
         they have experience of working in several senior roles across organisations
         that must work across organisational boundaries, and they help me to
         reflect and act on my experiences.
-      
+
       diversityProfile:
         protectedCharacteristics:
-          - characteristic: Mixed heritage (White British and British Pakistani) woman, age 44, Muslim faith
-          - relevantContext: >
-              Father white British, mother Pakistani. Raised Muslim. Practising Muslim
-              requiring prayer times and observing Ramadan. Professional middle class.
-              Navigates multiple cultural contexts and identities.
+          characteristic: Mixed heritage (White British and British Pakistani) woman, age 44, Muslim faith
+          relevantContext: >
+            Father white British, mother Pakistani. Raised Muslim. Practising Muslim
+            requiring prayer times and observing Ramadan. Professional middle class.
+            Navigates multiple cultural contexts and identities.
+
         positionality:
           socialClass: Middle class, professional
           educationalBackground: Nursing degree, MSc public health, leadership qualifications
           familyContext: Married to Pakistani Muslim man, three children (teens), shared caring with husband
           geographicContext: Urban area, serves diverse communities
+          religiousIdentity: >
+            Practising Muslim requiring prayer times and observing Ramadan. Faith
+            important to identity and values. Active in mosque community. Wears headscarf
+            part-time. Navigates Islamophobic attitudes and assumptions. Requires workplace
+            accommodations for religious practice.
+
         experienceOfPower:
           minoritisedIdentities: >
             Mixed heritage Muslim woman, visible minority, practising Muslim requiring
@@ -1090,6 +1130,7 @@ managementAndLeadershipFramework:
             and leadership role provide legitimacy. Mixed heritage creates complexity
             in identity positioning. Integrated care role requires influence without
             direct authority.
+
         criticalConsciousness:
           awarenessOfStructuralInequality: >
             Deeply aware of Islamophobia and racism in healthcare and society.
@@ -1111,6 +1152,7 @@ managementAndLeadershipFramework:
             communities. Believes in culturally competent services. Champions
             inclusive workforce. Wants Muslim women to see leadership as possible.
             Advocates for accommodating religious practice.
+
       learningReadiness:
         currentCapabilities:
           - Strong system leadership and partnership working
@@ -1129,7 +1171,7 @@ managementAndLeadershipFramework:
           - Can access during work time but requires flexibility
           - Values mentoring and one-to-one development
           - Needs learning that respects religious observance
-      
+
       competencyDevelopmentProfile:
         targetCompetencies:
           - Build relationships (Stage 2)
@@ -1163,7 +1205,7 @@ managementAndLeadershipFramework:
           - Thinking system leadership requires formal authority
           - Believing partnership working is about managing not co-creating
           - Assuming her religious identity is separate from leadership practice
-      
+
       peerLearningContext:
         availability:
           mentorAccess: Mentor with system leadership experience, highly valued
@@ -1173,7 +1215,7 @@ managementAndLeadershipFramework:
           comfort: Values reflective learning and mentoring highly
           timeCommitment: Committed to development despite pressures
           vulnerability: Comfortable sharing leadership challenges, selective about discrimination experiences
-      
+
       developmentalTrajectory:
         comingFrom: >
           Clinical practice and public health into system leadership. Developing
@@ -1187,4 +1229,3 @@ managementAndLeadershipFramework:
           - Being role model for Muslim women in leadership
           - Creating genuinely person-centred services
           - Building effective partnerships across system
-  
