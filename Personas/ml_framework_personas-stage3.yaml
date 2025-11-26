@@ -1,4 +1,10 @@
-version: "0.2.3"
+# Management and Leadership Framework - Stage 3 Personas
+# Version: 0.2.4
+# Updated: 2025-11-26
+# This file contains diverse, realistic personas for testing online learning content
+# against Stage 3 competencies of the Management and Leadership Framework
+
+version: "0.2.4"
 managementAndLeadershipFramework:
   frameworkElementName: Personas by stage of the Management and Leadership Framework (Gap-Analysis Edition)
   documentPurpose: >

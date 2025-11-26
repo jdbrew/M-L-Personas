@@ -1,6 +1,7 @@
 # Management and Leadership Framework - Stage 3 Personas
 
-**Version:** 0.2.3
+**Version:** 0.2.4
+**Updated:** 2025-11-26
 
 ## Document Purpose
 
@@ -554,11 +555,13 @@ I used the Framework during my induction. It provided me with a description of w
 ### Role Context
 
 I am the chief allied health professional, and I am responsible for the oversight of clinical professions and person-centred care across acute, community, mental health and primary care. I unify clinical leadership across allied health professionals to ensure that professional standards, regulatory compliance and strategic ambitions are delivered in alignment with national policy, regional priorities and local population needs.
+
 I have worked my way up in many different roles and I think this gives me a good understanding of what is important to colleagues who work in different environments delivering patient care. In every role I have worked in safety has always been important to me and my colleagues as well as the ability to raise concerns when they arise.
 
 ### Framework Application
 
 As I oversee colleagues in a variety of workplaces, I am invested in ensuring that we prioritise the physical and psychological safety of colleagues in each of these settings. I want to ensure that staff feel comfortable to speak up about concerns when they arise and make sure that they know they will be supported, and the process will be handled effectively and sensitively.
+
 I'm using the framework, particularly competencies around responding to patient safety concerns, as leverage to enquire about safety and 'speaking-up' incidents that have happened so that we can work on learning from past events.
 
 ### Diversity Profile
@@ -671,17 +674,12 @@ I'm using the framework, particularly competencies around responding to patient 
 
 #### Availability
 - **Mentor Access:** Mentors many Black and minoritised staff. Could benefit from coaching from someone understanding intersectional leadership challenges. Limited access to peers at same level with shared experience.
-
 - **Peer Groups:** Regional Chief AHP network, Black NHS leaders network, professional body networks. Could benefit from action learning set with other minoritised executive leaders.
-
 - **Colleague Support:** Some Board colleagues supportive but don't fully understand race equity challenges. Strong network of AHP leaders across region. Church community provides personal support.
-
 
 #### Willingness to Engage
 - **Comfort:** Comfortable in professional leadership discussions. More cautious about vulnerability around race experiences (depends on safety of space).
-
 - **Time Commitment:** Willing to commit to high-value learning. Must be flexible for parenting responsibilities.
-
 - **Vulnerability:** Will share strategic challenges readily. More selective about sharing experiences of racism (depends on who's in room and whether they'll understand or minimise). Guards against being seen as "playing race card".
 
 

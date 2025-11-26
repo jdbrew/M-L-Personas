@@ -1,6 +1,12 @@
-version: "0.2.3"
+# Management and Leadership Framework - Stage 4 Personas
+# Version: 0.2.4
+# Updated: 2025-11-26
+# This file contains diverse, realistic personas for testing online learning content
+# against Stage 4 competencies of the Management and Leadership Framework
+
+version: "0.2.4"
 managementAndLeadershipFramework:
-  frameworkElementName: Personas by stage of the Management and Leadership Framework (Gap-Analysis Edition)
+  frameworkElementName: Personas by stage of the Management and Leadership Framework
   documentPurpose: >
     This extended persona document supports gap-analysis testing of learning modules
     across all competency levels. Each persona now includes diversity profiles reflecting

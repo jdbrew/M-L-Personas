@@ -1,6 +1,11 @@
 # Management and Leadership Framework - Stage 4 Personas
 
-**Version:** 0.2.3
+**Version:** 0.2.4
+**Updated:** 2025-11-26
+
+## Framework Element
+
+**Name:** Personas by stage of the Management and Leadership Framework
 
 ## Document Purpose
 
