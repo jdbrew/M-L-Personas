@@ -83,7 +83,11 @@ class TestDataLoader:
                     with open(filepath, 'r') as f:
                         data = yaml.safe_load(f)
                     framework = data.get('managementAndLeadershipFramework', {})
+
+                    # Handle both old format (stages array) and new format (single stage object)
                     stages = framework.get('stages', [])
+                    if not stages and 'stage' in framework:
+                        stages = [framework['stage']]
 
                     for stage in stages:
                         stage_personas = stage.get('personas', [])
@@ -118,7 +122,11 @@ class TestDataLoader:
                     with open(filepath, 'r') as f:
                         data = yaml.safe_load(f)
                     framework = data.get('managementAndLeadershipFramework', {})
+
+                    # Handle both old format (stages array) and new format (single stage object)
                     stages = framework.get('stages', [])
+                    if not stages and 'stage' in framework:
+                        stages = [framework['stage']]
 
                     for stage in stages:
                         stage_personas = stage.get('personas', [])
