@@ -1,10 +1,11 @@
 # Management and Leadership Framework - Stage 1 Personas
 
-**Version:** 0.2.3
+**Version:** 1.0.0
+**Updated:** 2025-11-26
 
 ## Document Purpose
 
-This extended persona document supports gap-analysis testing of learning modules across all competency levels. Each persona now includes diversity profiles reflecting WRES/WDES workforce data, learning readiness profiles, and specific evaluation criteria to test whether modules genuinely address power, difference, inclusion, and transformational learning as specified in the design guidelines.
+These personas support testing of Stage 1 learning modules across all competencies. Each persona includes comprehensive diversity profiles reflecting WRES/WDES workforce data, learning readiness profiles, and specific evaluation criteria to test whether modules genuinely address power, difference, inclusion, and transformational learning as specified in the design guidelines. Personas are designed to ensure modules are inclusive, accessible, and transformational rather than purely informational.
 
 ---
 
@@ -556,6 +557,7 @@ The management and leadership framework got me thinking around how I would like 
 - **Educational Background:** Grammar school, apprenticeship, HNC, professional qualifications, no degree
 - **Family Context:** Partnered (civil partnership), no children, own home, middle class lifestyle now
 - **Geographic Context:** Commuter belt, travels to hospital site daily
+- **Religious Identity:** Not religious
 - **Disability Experience:** Acquired progressive hearing loss (sensorineural) from occupational noise exposure in earlier roles. Initially denied hearing loss ("not that bad"), delayed seeking help due to stigma. Hearing aids help but don't restore normal hearing. Lip-reading essential for face-to-face communication. Phone calls extremely difficult. Background noise (construction sites, plant rooms) makes hearing aids less effective. Learning BSL to prepare for further deterioration. Partner learning BSL too. Noisy hospital environment creates constant communication challenges.
 
 #### Experience of Power
@@ -594,7 +596,7 @@ The management and leadership framework got me thinking around how I would like 
 - **Awareness of Structural Inequality:** Understands homophobia and heteronormativity. Aware of class barriers to progression. Recognises estates staff undervalued despite critical role. Increasingly aware of audism (discrimination against deaf people) and how built environment and communication culture disable. Understands intersections of class, sexuality, educational background, disability. Recognises hearing privilege existed before.
 - **Experience Challenging Power:** Challenges homophobic language directly (has authority now to do so). Advocates for estates staff recognition and development. Mentors apprentices and those from technical backgrounds. Visible about civil partnership. Advocates for deaf access (captions, BSL, visual alerts). Challenges phone-centric communication. Requests adjustments for meetings. Educates colleagues about hearing loss and communication access.
 - **Recognition of Privilege:** White, male, cisgender, financially secure, homeowner, professional middle class position. Partner also in stable employment. Grammar school education gave opportunities not available to all working class peers. Hearing privilege for first 32 years of life. Acquired hearing loss as adult means already established career (harder for those deaf from birth/childhood).
-- **Commitment to Justice:** Committed to inclusive workplace for LGBTQ+ staff. Wants estates profession recognised and valued. Supports vocational and apprenticeship routes. Advocates for working class staff progression.
+- **Commitment to Justice:** Committed to inclusive workplace for LGBTQ+ staff. Wants estates profession recognised and valued. Supports vocational and apprenticeship routes. Advocates for working class staff progression. Committed to deaf access and communication rights.
 
 ### Learning Readiness
 
@@ -615,12 +617,14 @@ The management and leadership framework got me thinking around how I would like 
 - Some imposter syndrome about "academic" learning
 - Preference for technical over "soft" skills development
 - Limited time for reflection
+- Need for accessible communication (captions, transcripts)
 
 #### Access to Learning
 - Can access during work time with advance planning
 - Good IT skills
 - Motivated when sees practical benefit
 - Supportive manager
+- Requires captions/transcripts for video content
 
 ### Competency Development Profile
 
