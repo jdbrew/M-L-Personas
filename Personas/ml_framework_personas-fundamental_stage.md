@@ -1,6 +1,10 @@
 # Management and Leadership Framework - Fundamental Stage Personas
 
-**Version:** 0.2.3
+**Version:** 0.2.4
+
+> This document contains diverse, realistic personas for testing online learning content against the Management and Leadership Framework competencies at the Fundamental stage. Each persona includes diversity profiles reflecting WRES/WDES workforce data, learning readiness profiles, and specific evaluation criteria to test whether modules genuinely address power, difference, inclusion, and transformational learning as specified in the design guidelines.
+>
+> **Note:** Each persona follows the structure defined in [Persona template.yaml](Persona%20template.yaml). See that file for detailed documentation of each field's purpose and usage.
 
 ## Document Purpose
 
@@ -18,15 +22,24 @@ This stage outlines the essential competencies expected of every manager and lea
 
 ## Persona 1: Medical Secretary
 
+> **Persona ID:** Persona 1
+> **Purpose:** Links to testing criteria files and competency assessments
+
 ### Role Context
+
+*Establishes organizational context and level of responsibility*
 
 I am a medical secretary, and I work full time in the thoracic medicine team in a hospital in the West Midlands. I provide administrative support to the clinical team, and my work involves checking letters, calling patients, helping organise clinics, writing minutes and coordinating our multidisciplinary team (MDT). I am also the team's social secretary, and I plan lots of events, including our Christmas do. I also support our team leader in monitoring and updating our patient pathways. I am keen to take the next step in my career and move into a clinical admin manager or team leader role. Learning and development is important to me as it will help me move to this next stage of my career.
 
 ### Framework Application
 
+*Shows real-world application of framework and learning approach*
+
 I will use the framework in my appraisal with my line manager to help guide me towards my career goals. It will help me to identify my own learning needs so that I can build on the fundamental stage to reach stage 1. I need to understand how to lead a team and how to create a team environment that balances safety and productivity. My line manager and I will discuss the different learning and development opportunities available to me. This conversation will be safe and supportive. It will help me explore how to move my career in the direction that I want to go in.
 
 ### Diversity Profile
+
+> **Critical for Design Principle 10:** Difference, diversity, inclusion, and power as golden thread
 
 #### Protected Characteristics
 - **Identity:** White British Jewish woman, age 29
@@ -65,6 +78,8 @@ I will use the framework in my appraisal with my line manager to help guide me t
 
 ### Learning Readiness
 
+> **Links to:** Design Principle on accessibility and acknowledging limitations
+
 #### Current Capabilities
 - Strong organisational skills and attention to detail
 - Building informal leadership through social secretary role
@@ -86,6 +101,8 @@ I will use the framework in my appraisal with my line manager to help guide me t
 - Needs content that works on mobile
 
 ### Competency Development Profile
+
+> **Direct link to:** ml_framework_standards-competencies-v1_0.yaml
 
 #### Target Competencies
 - Build engagement (Fundamental)
@@ -118,6 +135,8 @@ I will use the framework in my appraisal with my line manager to help guide me t
 
 ### Peer Learning Context
 
+> **Links to:** Design Principle on peer learning and communities of practice
+
 #### Availability
 - **Mentor Access:** Line manager willing but limited time
 - **Peer Groups:** Informal admin staff network, no formal action learning set
@@ -129,6 +148,8 @@ I will use the framework in my appraisal with my line manager to help guide me t
 - **Vulnerability:** Will share challenges if environment feels safe
 
 ### Developmental Trajectory
+
+> **Shows:** The arc of learning and growth
 
 **Coming From:** Competent administrator wanting to step into formal leadership. Building confidence in leadership capability.
 
@@ -143,7 +164,12 @@ I will use the framework in my appraisal with my line manager to help guide me t
 
 ## Persona 2: Emergency Care Assistant
 
+> **Persona ID:** Persona 2
+> **Purpose:** Links to testing criteria files and competency assessments
+
 ### Role Context
+
+*Establishes organizational context and level of responsibility*
 
 I love working as an emergency care assistant because every day is different. I get great satisfaction from knowing my work helps people when they need it the most. I work alongside clinicians responding to emergency calls and providing care such as controlling severe bleeding and treating wounds. I support patients and their families, and for bigger incidents I have worked alongside the police and fire services.
 
@@ -151,11 +177,15 @@ I get a lot of job satisfaction in my role. My shift pattern works for me and my
 
 ### Framework Application
 
+*Shows real-world application of framework and learning approach*
+
 The management and leadership framework is helping me by describing the effective communication and listening skills needed to work in a highly pressurised environment. It enables me to discuss and explore further formal support with my line manger, and how to do this for my team.
 
 The framework helps me feel more confident in my ability to support colleagues and how to escalate, when needed. I'm improving my skills at work, and this gives me reassurance that I meet the standards expected of me.
 
 ### Diversity Profile
+
+> **Critical for Design Principle 10:** Difference, diversity, inclusion, and power as golden thread
 
 #### Protected Characteristics
 - **Identity:** White Irish Traveller man, age 26, disabled (dyslexia and ADHD)
@@ -192,6 +222,8 @@ The framework helps me feel more confident in my ability to support colleagues a
 
 ### Learning Readiness
 
+> **Links to:** Design Principle on accessibility and acknowledging limitations
+
 #### Current Capabilities
 - Excellent practical emergency care skills and clinical decision-making
 - Strong interpersonal skills - builds rapport quickly with patients and colleagues
@@ -220,6 +252,8 @@ The framework helps me feel more confident in my ability to support colleagues a
 - Access during work hours if manager supportive (not always case)
 
 ### Competency Development Profile
+
+> **Direct link to:** ml_framework_standards-competencies-v1_0.yaml
 
 #### Target Competencies
 - Communicate with clarity and purpose (Fundamental)
@@ -254,6 +288,8 @@ The framework helps me feel more confident in my ability to support colleagues a
 
 ### Peer Learning Context
 
+> **Links to:** Design Principle on peer learning and communities of practice
+
 #### Availability
 - **Mentor Access:** No formal mentor. Crew partner supportive but not trained mentor.
 - **Peer Groups:** Informal crew network. Could connect with neurodivergent staff network if knew about it.
@@ -265,6 +301,8 @@ The framework helps me feel more confident in my ability to support colleagues a
 - **Vulnerability:** Will share practical challenges if environment safe. Very selective about identity disclosure.
 
 ### Developmental Trajectory
+
+> **Shows:** The arc of learning and growth
 
 **Coming From:** Competent emergency care assistant wanting to develop professionally while managing disability and navigating discrimination. Building confidence that neurodivergent working styles are valuable. Learning to advocate for reasonable adjustments.
 
@@ -281,7 +319,12 @@ The framework helps me feel more confident in my ability to support colleagues a
 
 ## Persona 3: Health Care Assistant (Mental Health)
 
+> **Persona ID:** Persona 3
+> **Purpose:** Links to testing criteria files and competency assessments
+
 ### Role Context
+
+*Establishes organizational context and level of responsibility*
 
 As a health care assistant in a mental health setting, I am passionate about providing the best possible care to patients. I always want patients to feel comfortable and safe with me. I really enjoy getting to know my patients and personally helping them. I make sure I maintain accurate records of my interactions with patients and ensure compliance with NHS protocols.
 
@@ -289,9 +332,13 @@ I am new to healthcare, and I work part time, so it has been a whirlwind introdu
 
 ### Framework Application
 
+*Shows real-world application of framework and learning approach*
+
 The management and leadership framework is helping me identify my learning need for additional IT skills, and I will use it with my line manager to request structured IT learning and development. The framework has been a helpful springboard for these conversations. It helps me feel supported so that I can learn more about best practice in the area I work in and implement it in my daily tasks. This is going to help me to grow in confidence when using the IT systems. Ultimately, improving my confidence at work and the care that I provide to my patients.
 
 ### Diversity Profile
+
+> **Critical for Design Principle 10:** Difference, diversity, inclusion, and power as golden thread
 
 #### Protected Characteristics
 - **Identity:** Mixed heritage (Black Caribbean and White British) woman, age 22, care-experienced
@@ -328,6 +375,8 @@ The management and leadership framework is helping me identify my learning need 
 
 ### Learning Readiness
 
+> **Links to:** Design Principle on accessibility and acknowledging limitations
+
 #### Current Capabilities
 - Strong empathy and therapeutic relationship-building with patients
 - Excellent observational skills and safety awareness
@@ -356,6 +405,8 @@ The management and leadership framework is helping me identify my learning need 
 - May access via mobile phone (no home computer initially)
 
 ### Competency Development Profile
+
+> **Direct link to:** ml_framework_standards-competencies-v1_0.yaml
 
 #### Target Competencies
 - Build engagement (Fundamental)
@@ -390,6 +441,8 @@ The management and leadership framework is helping me identify my learning need 
 
 ### Peer Learning Context
 
+> **Links to:** Design Principle on peer learning and communities of practice
+
 #### Availability
 - **Mentor Access:** No formal mentor. Care leavers' support worker provides some guidance.
 - **Peer Groups:** Care leavers' support group (key support network). HCA colleagues but limited formal peer learning.
@@ -401,6 +454,8 @@ The management and leadership framework is helping me identify my learning need 
 - **Vulnerability:** Selective about sharing care-experienced status. Will share if environment explicitly safe.
 
 ### Developmental Trajectory
+
+> **Shows:** The arc of learning and growth
 
 **Coming From:** New to healthcare, building confidence in role. Adjusting to workplace after chaotic upbringing. Learning professional expectations while staying true to values. Developing IT skills from low base.
 
@@ -417,13 +472,20 @@ The management and leadership framework is helping me identify my learning need 
 
 ## Persona 4: Community Therapy Support Worker
 
+> **Persona ID:** Persona 4
+> **Purpose:** Links to testing criteria files and competency assessments
+
 ### Role Context
+
+*Establishes organizational context and level of responsibility*
 
 I'm a community therapy support worker who works in the older person assessment and liaison team. We proactively assess patients and address issues that contribute to function, mobility and social needs to reduce avoidable admissions.
 
 I am new to the team and would like to become a qualified therapist. We provide a 7 day a week service and we work outside usual working hours. This means my shifts aren't always aligned with my supervisors - they can support my development so I would like to build some continuity between my shifts and theirs. I would like to work towards my qualification and build good working relationships.
 
 ### Framework Application
+
+*Shows real-world application of framework and learning approach*
 
 I approached my line manager to discuss my career aspirations. We used the 'managing people and resources' element of the framework to discuss with the senior team what could be done to further support the development of someone in my position.
 
@@ -432,6 +494,8 @@ Raising awareness with the right people has been useful because now I get shifts
 This has helped further my understanding of what I need to do to reach the next step in my career and helped me build a good working relationship with my supervisor.
 
 ### Diversity Profile
+
+> **Critical for Design Principle 10:** Difference, diversity, inclusion, and power as golden thread
 
 #### Protected Characteristics
 - **Identity:** British Indian woman, age 27, disabled (chronic pain condition - hypermobility EDS)
@@ -468,6 +532,8 @@ This has helped further my understanding of what I need to do to reach the next 
 
 ### Learning Readiness
 
+> **Links to:** Design Principle on accessibility and acknowledging limitations
+
 #### Current Capabilities
 - Strong educational foundation and analytical thinking
 - Excellent understanding of disability and accessibility needs
@@ -496,6 +562,8 @@ This has helped further my understanding of what I need to do to reach the next 
 - Can access during work time if manager supportive (currently challenging)
 
 ### Competency Development Profile
+
+> **Direct link to:** ml_framework_standards-competencies-v1_0.yaml
 
 #### Target Competencies
 - Take accountability for my actions (Fundamental)
@@ -529,6 +597,8 @@ This has helped further my understanding of what I need to do to reach the next 
 
 ### Peer Learning Context
 
+> **Links to:** Design Principle on peer learning and communities of practice
+
 #### Availability
 - **Mentor Access:** Supervisor supportive but limited understanding of chronic illness. Could benefit from disabled senior clinician mentor.
 - **Peer Groups:** Could join online disabled healthcare workers network. Support worker peer group but few with disability experience.
@@ -541,6 +611,8 @@ This has helped further my understanding of what I need to do to reach the next 
 
 ### Developmental Trajectory
 
+> **Shows:** The arc of learning and growth
+
 **Coming From:** Aspiring occupational therapist navigating disability while working toward qualification. Building advocacy skills for self and patients. Learning to pace ambition with realistic energy management.
 
 **Heading Toward:** Qualified occupational therapist working flexibly. Want to specialise in working with people with chronic conditions and pain. Long-term aspiration to influence accessible working practices in therapy professions.
@@ -551,3 +623,40 @@ This has helped further my understanding of what I need to do to reach the next 
 - Challenging ableism in healthcare professions
 - Financial independence and career progression within health limits
 - Creating pathway for other disabled people into therapy roles
+
+---
+
+## Relationship to Other Framework Documents
+
+### Documentation Reference
+For detailed documentation of each field's purpose and usage, see:
+- **[Persona template.yaml](Persona%20template.yaml)** (in the same directory)
+
+### Linked Documents
+This persona file links to:
+
+- **ml_framework_standards-competencies-v1_0.yaml**
+  - Source of truth for competency names and stage-appropriate descriptors
+
+- **ml_framework_module_testing_criteria-fundamental_stage.yaml**
+  - Each persona generates testing criteria in the stage-appropriate file
+
+- **ml_modular_logic_model-v1_0.yaml**
+  - Defines what modular learning CAN and CANNOT achieve
+
+### How Personas Generate Testing Criteria
+
+1. **personaId, role, diversityContext** → identification in testing file
+2. **diversityProfile** → generates moduleEvaluationQuestions
+3. **targetCompetencies** → generates moduleTestingScenarios
+4. **learningReadiness + competencyDevelopmentProfile** → ensures realistic scope
+5. **All sections together** → ensure power and difference as golden thread
+
+### Design Principles Embedded in These Personas
+
+- **Principle 10:** Power and difference as golden thread (diversityProfile)
+- **P + Q = L:** Transformational not just informational (criticalConsciousness)
+- **I-We-It integration** (diversityProfile + competencyDevelopmentProfile)
+- **Accessibility and inclusion** (learningReadiness, diversityProfile)
+- **Evidence gathering support** (evidenceGatheringCapacity)
+- **Acknowledgment of limitations** (contextualConstraints, barriersToEngagement)

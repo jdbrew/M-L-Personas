@@ -1,10 +1,10 @@
 # Management and Leadership Framework - Stage 1 Personas
-# Version: 1.0.0
+# Version: 0.2.4
 # Updated: 2025-11-26
 # This file contains diverse, realistic personas for testing online learning content
 # against Stage 1 competencies of the Management and Leadership Framework
 
-version: "1.0.0"
+version: "0.2.4"
 managementAndLeadershipFramework:
   frameworkElementName: Stage 1 Personas - New and First-Line Managers and Leaders
   documentPurpose: >

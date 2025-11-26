@@ -1,6 +1,6 @@
 # Management and Leadership Framework - Stage 1 Personas
 
-**Version:** 1.0.0
+**Version:** 0.2.4
 **Updated:** 2025-11-26
 
 ## Document Purpose
